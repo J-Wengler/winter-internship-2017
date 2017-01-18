@@ -9,4 +9,4 @@ This repository contains codes that are/were written from my 1st to my 20th day 
 - [ ] Day 1 - January 18th 2017
 
 
-**Disclaimer: All images are mine and created by mine unless stated otherwise.
+######**Disclaimer: All images are mine and created by mine unless stated otherwise.
