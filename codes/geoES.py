@@ -56,7 +56,7 @@ def main():
         ret = urllib.request.urlopen(eSumUrl)
         filename = str(ret.read())
         summ = ''.join(re.findall(sumPtrn, filename))
-        print(UID + ': ' + summ)
+        print('['+ UID + '] ' + summ)
     
     if UIDs == []:
         print('Your search query returned no results')
@@ -65,12 +65,16 @@ def main():
     #Asking whether the user wants to download the any of the data sets or not and requesting
     #GDS<id> if the user said Yes
     option = input("Do you want to download any of the data sets listed above (Yes/No)? ").lower()
+
+    while option != 'yes' and option != 'no':
+        option = input("Please only enter either \'yes' or \'no': ")
+
     if option == 'yes':
-        
+
 
 
         UIDInput = str(input('Please enter the ID of the data set that you want to download: '))
-        print("\nHere are the available formats for the data sets:")
+        print("\nHere are the available formats for the UIDs:")
         print("[1] SOFT, by DataSet\n[2] SOFT full, by DataSet\n[3] SOFT, by Platform")
         print("[4] SOFT, by Series\n[5] MINiML, by Platform\n[6] MINiML, by Series\n")
         formatInput = int(input('Please select one by entering the number: '))
