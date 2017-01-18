@@ -2,7 +2,7 @@
 
 import re
 import argparse
-from xml.dom import minidom
+#from xml.dom import minidom
 import urllib.request
 
 def main():
@@ -40,18 +40,44 @@ def main():
     if reldate != None:
         queryUrl += '&reldate' + reldate
     
-    #Retrieving the 
+    #Retrieving the .xml file of the result
     ret = urllib.request.urlopen(queryUrl)
     filename = str(ret.read())
     
-    
+    #Using regular expression to find all of the UID in the .xml file
     ptrn = r'<Id>(\d*)</Id>'
     UIDs = re.findall(ptrn, filename)
 
+    #Creating a list of the GDS<ID> and the title of the data sets
+    eSumsUrl = 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gds&id='
+    sumPtrn = r'<Item Name=\"title\" Type=\"String\">(.*)</Item>\\n\\t<Item Name=\"sum'
+    for UID in UIDs:
+        eSumUrl = eSumsUrl + UID
+        ret = urllib.request.urlopen(eSumUrl)
+        filename = str(ret.read())
+        summ = ''.join(re.findall(sumPtrn, filename))
+        print(UID + ': ' + summ)
+    
     if UIDs == []:
         print('Your search query returned no results')
-    else:
-        print(UIDs)
+        return 0
+
+    #Asking whether the user wants to download the any of the data sets or not and requesting
+    #GDS<id> if the user said Yes
+    option = input("Do you want to download any of the data sets listed above (Yes/No)? ").lower()
+    if option == 'yes':
+        
+
+
+        UIDInput = str(input('Please enter the ID of the data set that you want to download: '))
+        print("\nHere are the available formats for the data sets:")
+        print("[1] SOFT, by DataSet\n[2] SOFT full, by DataSet\n[3] SOFT, by Platform")
+        print("[4] SOFT, by Series\n[5] MINiML, by Platform\n[6] MINiML, by Series\n")
+        formatInput = int(input('Please select one by entering the number: '))
+    elif option == 'no':
+        print('\nThank you for using the program.')
+        return 0
+
 
 if __name__ == '__main__':
     main()
