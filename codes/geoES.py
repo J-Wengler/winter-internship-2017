@@ -66,7 +66,7 @@ def main():
 
     #Asking whether the user wants to download the any of the data sets or not and requesting
     #GDS<id> if the user said Yes
-    option = input("Do you want to download any of the data sets listed above (Yes/No)? ").lower()
+    option = input("Do you want to download any of the data sets listed above (Yes/No)? ").lower().strip()
 
     #Creating a loop till the user inputs either yes or no
     while option != 'yes' and option != 'no':
@@ -88,10 +88,20 @@ def main():
         
         #Download the file regarding the user input
         if formatInput == 1:
-            dlSOFTByDS = urllib.request.urlretrieve(SOFTByDSUrl, 'GDS' +UIDInput +'.soft.gz')
+            try:
+                dlSOFTByDS = urllib.request.urlretrieve(SOFTByDSUrl, 'GDS' +UIDInput +'.soft.gz')
+            except:
+                print('\nThere\'s no data sets for such accession number, this program only ables to download data sets from GDS')
+                return 0
         elif formatInput == 2:
-            dlSOFTByDS = urllib.request.urlretrieve(fullSOFTByDSUrl, 'GDS' +UIDInput +'_full.soft.gz')
+            try:
+                dlSOFTByDS = urllib.request.urlretrieve(fullSOFTByDSUrl, 'GDS' +UIDInput +'_full.soft.gz')
+            except:
+                print('There\'s no data sets for such accession number, this program only ables to download data sets from GDS')
+                return 0
         print('File was downloaded successfully!')
+
+        
     
     #Program's termination
     elif option == 'no':
