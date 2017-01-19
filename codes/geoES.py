@@ -4,6 +4,7 @@ import re
 import argparse
 #from xml.dom import minidom
 import urllib.request
+import urllib
 
 def main():
     #Declaration of the URL of eutils of NCBI GDS
@@ -57,7 +58,8 @@ def main():
         filename = str(ret.read())
         summ = ''.join(re.findall(sumPtrn, filename))
         print('['+ UID + '] ' + summ)
-    
+
+    #Print out the string if the query returns no results and the program is terminated 
     if UIDs == []:
         print('Your search query returned no results')
         return 0
@@ -66,18 +68,32 @@ def main():
     #GDS<id> if the user said Yes
     option = input("Do you want to download any of the data sets listed above (Yes/No)? ").lower()
 
+    #Creating a loop till the user inputs either yes or no
     while option != 'yes' and option != 'no':
         option = input("Please only enter either \'yes' or \'no': ")
 
     if option == 'yes':
-
-
-
         UIDInput = str(input('Please enter the ID of the data set that you want to download: '))
+
+        #Declaration of the FTP URL of each formats
+        SOFTByDSUrl = 'ftp://ftp.ncbi.nlm.nih.gov/geo/datasets/GDS' + UIDInput[0] + 'nnn/GDS' + UIDInput + '/soft/GDS' + UIDInput + '.soft.gz'
+        fullSOFTByDSUrl = SOFTByDSUrl = 'ftp://ftp.ncbi.nlm.nih.gov/geo/datasets/GDS' + UIDInput[0] + 'nnn/GDS' + UIDInput + '/soft/GDS' + UIDInput + '_full.soft.gz'
+
         print("\nHere are the available formats for the UIDs:")
-        print("[1] SOFT, by DataSet\n[2] SOFT full, by DataSet\n[3] SOFT, by Platform")
-        print("[4] SOFT, by Series\n[5] MINiML, by Platform\n[6] MINiML, by Series\n")
+        print("[1] SOFT, by DataSet\n[2] SOFT full, by DataSet\n")
         formatInput = int(input('Please select one by entering the number: '))
+
+        while formatInput != 1 and formatInput != 2:
+            formatInput = int(input('Please only enter number 1 or 2: '))
+        
+        #Download the file regarding the user input
+        if formatInput == 1:
+            dlSOFTByDS = urllib.request.urlretrieve(SOFTByDSUrl, 'GDS' +UIDInput +'.soft.gz')
+        elif formatInput == 2:
+            dlSOFTByDS = urllib.request.urlretrieve(fullSOFTByDSUrl, 'GDS' +UIDInput +'_full.soft.gz')
+        print('File was downloaded successfully!')
+    
+    #Program's termination
     elif option == 'no':
         print('\nThank you for using the program.')
         return 0
@@ -85,3 +101,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+
