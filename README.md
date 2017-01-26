@@ -9,10 +9,10 @@ This repository contains codes that are/were written from my 1st to my 20th day 
 - [x] [Day 1 - January 18, 2017](https://github.com/hariesramdhani/winter-internship-2017/wiki/Day-1)
 - [x] [Day 2 - January 19, 2017](https://github.com/hariesramdhani/winter-internship-2017/wiki/Day-2)
 - [x] [Day 3 - January 20, 2017](https://github.com/hariesramdhani/winter-internship-2017/wiki/Day-3)
-- [ ] [Day 4 - January 23, 2017](https://github.com/hariesramdhani/winter-internship-2017/wiki/Day-4)
-- [ ] [Day 5 - January 24, 2017](https://github.com/hariesramdhani/winter-internship-2017/wiki/Day-5)
-- [ ] [Day 6 - January 25, 2017](https://github.com/hariesramdhani/winter-internship-2017/wiki/Day-6)
-- [ ] [Day 7 - January 26, 2017](https://github.com/hariesramdhani/winter-internship-2017/wiki/Day-7)
+- [ ] [Day 4 - January 23, 2017](https://github.com/hariesramdhani/winter-internship-2017/wiki/Day-4) (updating...)
+- [ ] [Day 5 - January 24, 2017](https://github.com/hariesramdhani/winter-internship-2017/wiki/Day-5) (constructing...)
+- [ ] [Day 6 - January 25, 2017](https://github.com/hariesramdhani/winter-internship-2017/wiki/Day-6) (updating...)
+- [ ] [Day 7 - January 26, 2017](https://github.com/hariesramdhani/winter-internship-2017/wiki/Day-7) (initializing...)
 - [ ] Day 8 - January 27, 2017
 
 
