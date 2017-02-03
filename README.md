@@ -19,8 +19,8 @@ This repository contains codes that are/were written from my 1st to my 20th day 
 
 **Working with the project:** Starts to work with the project
 - [x] [Day 11 - February 1, 2017](https://github.com/hariesramdhani/winter-internship-2017/wiki/Day-11)
-- [x] [Day 12 - February 2, 2017](https://github.com/hariesramdhani/winter-internship-2017/wiki/Day-10)
-- [x] [Day 13 - February 3, 2017](https://github.com/hariesramdhani/winter-internship-2017/wiki/Day-10)  **(updated)** :fire::fire::fire:
+- [x] [Day 12 - February 2, 2017](https://github.com/hariesramdhani/winter-internship-2017/wiki/Day-12)
+- [x] [Day 13 - February 3, 2017](https://github.com/hariesramdhani/winter-internship-2017/wiki/Day-13)  **(updated)** :fire::fire::fire:
 - [ ] Day 14 - February 6, 2017
 - [ ] Day 15 - February 7, 2017
 - [ ] Day 16 - February 8, 2017
