@@ -28,7 +28,7 @@ This repository contains codes that are/were written from my 1st to my 20th day 
 - [ ] Day 18 - February 10, 2017
 - [ ] Day 19 - February 13, 2017
 
-**Final internship report preparation:** Warping up everything
+**Final internship report preparation:** Wrapping up everything
 - [ ] Day 20 - February 14, 2017
 
 
