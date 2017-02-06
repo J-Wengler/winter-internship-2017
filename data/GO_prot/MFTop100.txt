@@ -1,0 +1,21 @@
+GeneSet	GenesInGS(K)	Desc	GenesinOL(k)	k/K	pValue	FDR	qValue
+GO_NADH_DEHYDROGENASE_ACTIVITY	38	Catalysis of the reaction: NADH + H+ + acceptor = NAD+ + reduced acceptor.	9	0.2368	1.17E-16	1.09E-13
+GO_OXIDOREDUCTASE_ACTIVITY_ACTING_ON_NAD_P_H_QUINONE_OR_SIMILAR_COMPOUND_AS_ACCEPTOR	52	Catalysis of an oxidation-reduction (redox) reaction in which NADH or NADPH acts as a hydrogen or electron donor and reduces a quinone or a similar acceptor molecule.	9	0.1731	2.57E-15	1.2E-12
+GO_OXIDOREDUCTASE_ACTIVITY_ACTING_ON_NAD_P_H	93	Catalysis of an oxidation-reduction (redox) reaction in which NADH or NADPH acts as a hydrogen or electron donor and reduces a hydrogen or electron acceptor.	9	0.0968	6.26E-13	1.94E-10
+GO_OXIDOREDUCTASE_ACTIVITY	719	Catalysis of an oxidation-reduction (redox) reaction, a reversible chemical reaction in which the oxidation state of an atom or atoms within a molecule is altered. One substrate acts as a hydrogen or electron donor and becomes oxidized, while the other acts as hydrogen or electron acceptor and becomes reduced.	15	0.0209	5.29E-11	1.23E-8
+GO_RIBONUCLEOTIDE_BINDING	1860	Interacting selectively and non-covalently with a ribonucleotide, any compound consisting of a ribonucleoside that is esterified with (ortho)phosphate or an oligophosphate at any hydroxyl group on the ribose moiety.	22	0.0118	7.12E-11	1.32E-8
+GO_ENZYME_BINDING	1737	Interacting selectively and non-covalently with any enzyme.	21	0.0121	1.39E-10	2.15E-8
+GO_MOLECULAR_FUNCTION_REGULATOR	1353	A molecular function that modulates the activity of a gene product or complex.  Examples include enzyme regulators and channel regulators.	16	0.0118	3.85E-8	5.11E-6
+GO_SYNTAXIN_BINDING	93	Interacting selectively and non-covalently with a syntaxin, a SNAP receptor involved in the docking of synaptic vesicles at the presynaptic zone of a synapse.	6	0.0645	5.96E-8	6.93E-6
+GO_ENZYME_REGULATOR_ACTIVITY	959	Binds to and modulates the activity of an enzyme.	13	0.0136	1.75E-7	1.81E-5
+GO_TRANSMEMBRANE_TRANSPORTER_ACTIVITY	997	Enables the transfer of a substance from one side of a membrane to the other.	13	0.0130	2.72E-7	2.53E-5
+GO_SNARE_BINDING	128	Interacting selectively and non-covalently with a SNARE (soluble N-ethylmaleimide-sensitive factor attached protein receptor) protein.	6	0.0469	3.99E-7	3.37E-5
+GO_TRANSPORTER_ACTIVITY	1276	Enables the directed movement of substances (such as macromolecules, small molecules, ions) into, out of or within a cell, or between cells.	14	0.0110	7.22E-7	5.59E-5
+GO_PROTEIN_COMPLEX_BINDING	935	Interacting selectively and non-covalently with any protein complex (a complex of two or more proteins that may include other nonprotein molecules).	12	0.0128	9.56E-7	6.64E-5
+GO_ADENYL_NUCLEOTIDE_BINDING	1514	Interacting selectively and non-covalently with adenyl nucleotides, any compound consisting of adenosine esterified with (ortho)phosphate.	15	0.0099	1E-6	6.64E-5
+GO_IDENTICAL_PROTEIN_BINDING	1209	Interacting selectively and non-covalently with an identical protein or proteins.	13	0.0108	2.32E-6	1.44E-4
+GO_SYNTAXIN_1_BINDING	18	Interacting selectively and non-covalently with the SNAP receptor syntaxin-1.	3	0.1667	7.97E-6	4.47E-4
+GO_NUCLEOSIDE_TRIPHOSPHATASE_REGULATOR_ACTIVITY	329	Modulates the rate of NTP hydrolysis by a NTPase.	7	0.0213	8.19E-6	4.47E-4
+GO_CATION_TRANSMEMBRANE_TRANSPORTER_ACTIVITY	622	Enables the transfer of cation from one side of the membrane to the other.	9	0.0145	9.17E-6	4.58E-4
+GO_ENZYME_ACTIVATOR_ACTIVITY	471	Binds to and increases the activity of an enzyme.	8	0.0170	9.37E-6	4.58E-4
+GO_METAL_CLUSTER_BINDING	64	Interacting selectively and non-covalently with a cluster of atoms including both metal ions and nonmetal atoms, usually sulfur and oxygen. Examples include iron-sulfur clusters and nickel-iron-sulfur clusters.	4	0.0625	1.21E-5	5.63E-4

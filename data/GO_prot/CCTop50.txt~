@@ -1,0 +1,85 @@
+
+Overlap Results
+
+Collection(s):	CC
+# overlaps shown:	20
+# genesets in collections:	584
+# genes in comparison (n):	50
+# genes in universe (N):	45956
+
+Gene Set Name	# Genes in Gene Set (K)	Description	# Genes in Overlap (k)	k/K	p-value	FDR q-value
+GO_MITOCHONDRION	1633	A semiautonomous, self replicating organelle that occurs in varying numbers, shapes, and sizes in the cytoplasm of virtually all eukaryotic cells. It is notably the site of tissue respiration.	18	0.0110	4.56E-14	2.66E-11
+GO_MITOCHONDRIAL_PART	953	Any constituent part of a mitochondrion, a semiautonomous, self replicating organelle that occurs in varying numbers, shapes, and sizes in the cytoplasm of virtually all eukaryotic cells. It is notably the site of tissue respiration.	12	0.0126	3.48E-10	1.02E-7
+GO_NEURON_PART	1265	Any constituent part of a neuron, the basic cellular unit of nervous tissue. A typical neuron consists of a cell body (often called the soma), an axon, and dendrites. Their purpose is to receive, conduct, and transmit impulses in the nervous system.	12	0.0095	8.31E-9	1.62E-6
+GO_CELL_PROJECTION	1786	A prolongation or process extending from a cell, e.g. a flagellum or axon.	13	0.0073	4.09E-8	5.93E-6
+GO_OXIDOREDUCTASE_COMPLEX	93	Any protein complex that possesses oxidoreductase activity.	5	0.0538	6E-8	5.93E-6
+GO_CELL_BODY	494	The portion of a cell bearing surface projections such as axons, dendrites, cilia, or flagella that includes the nucleus, but excludes all cell projections.	8	0.0162	6.09E-8	5.93E-6
+GO_NADH_DEHYDROGENASE_COMPLEX	42	An integral membrane complex that possesses NADH oxidoreductase activity. The complex is one of the components of the electron transport chain. It catalyzes the transfer of a pair of electrons from NADH to a quinone.	4	0.0952	1.35E-7	1.12E-5
+GO_MITOCHONDRIAL_MATRIX	412	The gel-like material, with considerable fine structure, that lies in the matrix space, or lumen, of a mitochondrion. It contains the enzymes of the tricarboxylic acid cycle and, in some organisms, the enzymes concerned with fatty acid oxidation.	7	0.0170	3.17E-7	2.31E-5
+GO_CELL_JUNCTION	1151	A cellular component that forms a specialized region of connection between two or more cells or between a cell and the extracellular matrix. At a cell junction, anchoring proteins extend through the plasma membrane to link cytoskeletal proteins in one cell to cytoskeletal proteins in neighboring cells or to proteins in the extracellular matrix.	10	0.0087	3.86E-7	2.34E-5
+GO_MITOCHONDRIAL_PROTEIN_COMPLEX	136	A protein complex that is part of a mitochondrion.	5	0.0368	4.01E-7	2.34E-5
+GO_NEURON_PROJECTION	942	A prolongation or process extending from a nerve cell, e.g. an axon or dendrite.	9	0.0096	7.26E-7	3.85E-5
+GO_MITOCHONDRIAL_MEMBRANE_PART	173	Any constituent part of a mitochondrial membrane, either of the lipid bilayers that surround the mitochondrion and form the mitochondrial envelope.	5	0.0289	1.32E-6	6.28E-5
+GO_MEMBRANE_PROTEIN_COMPLEX	1020	Any protein complex that is part of a membrane.	9	0.0088	1.4E-6	6.28E-5
+GO_RESPIRATORY_CHAIN	80	The protein complexes that form the electron transport system (the respiratory chain), associated with a cell membrane, usually the plasma membrane (in prokaryotes) or the inner mitochondrial membrane (on eukaryotes). The respiratory chain complexes transfer electrons from an electron donor to an electron acceptor and are associated with a proton pump to create a transmembrane electrochemical gradient.	4	0.0500	1.84E-6	7.69E-5
+GO_MICROTUBULE_CYTOSKELETON	1068	The part of the cytoskeleton (the internal framework of a cell) composed of microtubules and associated proteins.	9	0.0084	2.04E-6	7.93E-5
+GO_INNER_MITOCHONDRIAL_MEMBRANE_PROTEIN_COMPLEX	106	Any protein complex that is part of the inner mitochondrial membrane.	4	0.0377	5.67E-6	2.07E-4
+GO_AXON	418	The long process of a neuron that conducts nerve impulses, usually away from the cell body to the terminals and varicosities, which are sites of storage and release of neurotransmitter.	6	0.0144	6.19E-6	2.1E-4
+GO_SOMATODENDRITIC_COMPARTMENT	650	The region of a neuron that includes the cell body (cell soma) and the dendrite, but excludes the axon.	7	0.0108	6.46E-6	2.1E-4
+GO_CYTOSKELETON	1967	Any of the various filamentous elements that form the internal framework of cells, and typically remain after treatment of the cells with mild detergent to remove membrane constituents and soluble components of the cytoplasm. The term embraces intermediate filaments, microfilaments, microtubules, the microtrabecular lattice, and other structures characterized by a polymeric filamentous nature and long-range order within the cell. The various elements of the cytoskeleton not only serve in the maintenance of cellular shape but also have roles in other cellular functions, including cellular movement, cell division, endocytosis, and movement of organelles.	11	0.0056	6.86E-6	2.11E-4
+GO_DENDRITE	451	A neuron projection that has a short, tapering, often branched, morphology, receives and integrates signals from other neurons or from sensory stimuli, and conducts a nerve impulse towards the axon or the cell body. In most neurons, the impulse is conveyed from dendrites to axon via the cell body, but in some types of unipolar neuron, the impulse does not travel via the cell body.	6	0.0133	9.53E-6	2.78E-4
+
+
+Gene/Gene Set Overlap Matrix
+
+Entrez Gene Id	Gene Symbol	Gene Description	GO_MITOCHONDRION	GO_MITOCHONDRIAL_PART	GO_NEURON_PART	GO_CELL_PROJECTION	GO_OXIDOREDUCTASE_COMPLEX	GO_CELL_BODY	GO_NADH_DEHYDROGENASE_COMPLEX	GO_MITOCHONDRIAL_MATRIX	GO_CELL_JUNCTION	GO_MITOCHONDRIAL_PROTEIN_COMPLEX	GO_NEURON_PROJECTION	GO_MITOCHONDRIAL_MEMBRANE_PART	GO_MEMBRANE_PROTEIN_COMPLEX	GO_RESPIRATORY_CHAIN	GO_MICROTUBULE_CYTOSKELETON	GO_INNER_MITOCHONDRIAL_MEMBRANE_PROTEIN_COMPLEX	GO_AXON	GO_SOMATODENDRITIC_COMPARTMENT	GO_CYTOSKELETON	GO_DENDRITE
+25828	TXN2	thioredoxin 2	GO_MITOCHONDRION	GO_MITOCHONDRIAL_PART	GO_NEURON_PART	GO_CELL_PROJECTION		GO_CELL_BODY		GO_MITOCHONDRIAL_MATRIX			GO_NEURON_PROJECTION							GO_SOMATODENDRITIC_COMPARTMENT		GO_DENDRITE
+4702	NDUFA8	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 8, 19kDa	GO_MITOCHONDRION	GO_MITOCHONDRIAL_PART			GO_OXIDOREDUCTASE_COMPLEX		GO_NADH_DEHYDROGENASE_COMPLEX			GO_MITOCHONDRIAL_PROTEIN_COMPLEX		GO_MITOCHONDRIAL_MEMBRANE_PART	GO_MEMBRANE_PROTEIN_COMPLEX	GO_RESPIRATORY_CHAIN		GO_INNER_MITOCHONDRIAL_MEMBRANE_PROTEIN_COMPLEX				
+4725	NDUFS5	NADH dehydrogenase (ubiquinone) Fe-S protein 5, 15kDa (NADH-coenzyme Q reductase)	GO_MITOCHONDRION	GO_MITOCHONDRIAL_PART			GO_OXIDOREDUCTASE_COMPLEX		GO_NADH_DEHYDROGENASE_COMPLEX			GO_MITOCHONDRIAL_PROTEIN_COMPLEX		GO_MITOCHONDRIAL_MEMBRANE_PART	GO_MEMBRANE_PROTEIN_COMPLEX	GO_RESPIRATORY_CHAIN		GO_INNER_MITOCHONDRIAL_MEMBRANE_PROTEIN_COMPLEX				
+4718	NDUFC2	NADH dehydrogenase (ubiquinone) 1, subcomplex unknown, 2, 14.5kDa	GO_MITOCHONDRION	GO_MITOCHONDRIAL_PART			GO_OXIDOREDUCTASE_COMPLEX		GO_NADH_DEHYDROGENASE_COMPLEX			GO_MITOCHONDRIAL_PROTEIN_COMPLEX		GO_MITOCHONDRIAL_MEMBRANE_PART	GO_MEMBRANE_PROTEIN_COMPLEX	GO_RESPIRATORY_CHAIN		GO_INNER_MITOCHONDRIAL_MEMBRANE_PROTEIN_COMPLEX				
+55967	NDUFA12	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 12	GO_MITOCHONDRION	GO_MITOCHONDRIAL_PART			GO_OXIDOREDUCTASE_COMPLEX		GO_NADH_DEHYDROGENASE_COMPLEX			GO_MITOCHONDRIAL_PROTEIN_COMPLEX		GO_MITOCHONDRIAL_MEMBRANE_PART	GO_MEMBRANE_PROTEIN_COMPLEX	GO_RESPIRATORY_CHAIN		GO_INNER_MITOCHONDRIAL_MEMBRANE_PROTEIN_COMPLEX				
+1737	DLAT	dihydrolipoamide S-acetyltransferase	GO_MITOCHONDRION	GO_MITOCHONDRIAL_PART			GO_OXIDOREDUCTASE_COMPLEX			GO_MITOCHONDRIAL_MATRIX		GO_MITOCHONDRIAL_PROTEIN_COMPLEX										
+292	SLC25A5	solute carrier family 25 (mitochondrial carrier; adenine nucleotide translocator), member 5	GO_MITOCHONDRION	GO_MITOCHONDRIAL_PART						GO_MITOCHONDRIAL_MATRIX							GO_MICROTUBULE_CYTOSKELETON				GO_CYTOSKELETON	
+55379	LRRC59	leucine rich repeat containing 59	GO_MITOCHONDRION	GO_MITOCHONDRIAL_PART						GO_MITOCHONDRIAL_MATRIX												
+9054	NFS1	NFS1 nitrogen fixation 1 homolog (S. cerevisiae)	GO_MITOCHONDRION	GO_MITOCHONDRIAL_PART						GO_MITOCHONDRIAL_MATRIX												
+23479	ISCU	iron-sulfur cluster scaffold homolog (E. coli)	GO_MITOCHONDRION	GO_MITOCHONDRIAL_PART						GO_MITOCHONDRIAL_MATRIX												
+57128	LYRM4	LYR motif containing 4	GO_MITOCHONDRION	GO_MITOCHONDRIAL_PART						GO_MITOCHONDRIAL_MATRIX												
+9927	MFN2	mitofusin 2	GO_MITOCHONDRION	GO_MITOCHONDRIAL_PART										GO_MITOCHONDRIAL_MEMBRANE_PART			GO_MICROTUBULE_CYTOSKELETON				GO_CYTOSKELETON	
+5594	MAPK1	mitogen-activated protein kinase 1	GO_MITOCHONDRION		GO_NEURON_PART	GO_CELL_PROJECTION		GO_CELL_BODY			GO_CELL_JUNCTION		GO_NEURON_PROJECTION				GO_MICROTUBULE_CYTOSKELETON		GO_AXON	GO_SOMATODENDRITIC_COMPARTMENT	GO_CYTOSKELETON	GO_DENDRITE
+5595	MAPK3	mitogen-activated protein kinase 3	GO_MITOCHONDRION			GO_CELL_PROJECTION					GO_CELL_JUNCTION						GO_MICROTUBULE_CYTOSKELETON				GO_CYTOSKELETON	
+7534	YWHAZ	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, zeta polypeptide	GO_MITOCHONDRION								GO_CELL_JUNCTION											
+55856	ACOT13	acyl-CoA thioesterase 13	GO_MITOCHONDRION														GO_MICROTUBULE_CYTOSKELETON				GO_CYTOSKELETON	
+2950	GSTP1	glutathione S-transferase pi 1	GO_MITOCHONDRION																			
+30833	NT5C	5', 3'-nucleotidase, cytosolic	GO_MITOCHONDRION																			
+3745	KCNB1	potassium voltage-gated channel, Shab-related subfamily, member 1			GO_NEURON_PART	GO_CELL_PROJECTION		GO_CELL_BODY			GO_CELL_JUNCTION		GO_NEURON_PROJECTION		GO_MEMBRANE_PROTEIN_COMPLEX				GO_AXON	GO_SOMATODENDRITIC_COMPARTMENT		GO_DENDRITE
+491	ATP2B2	ATPase, Ca++ transporting, plasma membrane 2			GO_NEURON_PART	GO_CELL_PROJECTION		GO_CELL_BODY			GO_CELL_JUNCTION									GO_SOMATODENDRITIC_COMPARTMENT		
+10815	CPLX1	complexin 1			GO_NEURON_PART	GO_CELL_PROJECTION		GO_CELL_BODY					GO_NEURON_PROJECTION		GO_MEMBRANE_PROTEIN_COMPLEX				GO_AXON	GO_SOMATODENDRITIC_COMPARTMENT		GO_DENDRITE
+57463	AMIGO1	adhesion molecule with Ig-like domain 1			GO_NEURON_PART	GO_CELL_PROJECTION		GO_CELL_BODY					GO_NEURON_PROJECTION		GO_MEMBRANE_PROTEIN_COMPLEX				GO_AXON	GO_SOMATODENDRITIC_COMPARTMENT		GO_DENDRITE
+1809	DPYSL3	dihydropyrimidinase-like 3			GO_NEURON_PART	GO_CELL_PROJECTION		GO_CELL_BODY					GO_NEURON_PROJECTION								GO_CYTOSKELETON	
+6857	SYT1	synaptotagmin I			GO_NEURON_PART	GO_CELL_PROJECTION					GO_CELL_JUNCTION		GO_NEURON_PROJECTION		GO_MEMBRANE_PROTEIN_COMPLEX				GO_AXON			
+22895	RPH3A	rabphilin 3A homolog (mouse)			GO_NEURON_PART	GO_CELL_PROJECTION					GO_CELL_JUNCTION		GO_NEURON_PROJECTION									
+348980	HCN1	hyperpolarization activated cyclic nucleotide-gated potassium channel 1			GO_NEURON_PART	GO_CELL_PROJECTION							GO_NEURON_PROJECTION						GO_AXON	GO_SOMATODENDRITIC_COMPARTMENT		GO_DENDRITE
+91683	SYT12	synaptotagmin XII			GO_NEURON_PART						GO_CELL_JUNCTION											
+2571	GAD1	glutamate decarboxylase 1 (brain, 67kDa)			GO_NEURON_PART																	
+59	ACTA2	actin, alpha 2, smooth muscle, aorta				GO_CELL_PROJECTION		GO_CELL_BODY													GO_CYTOSKELETON	
+54997	TESC	tescalcin				GO_CELL_PROJECTION																
+357	SHROOM2	shroom family member 2									GO_CELL_JUNCTION						GO_MICROTUBULE_CYTOSKELETON				GO_CYTOSKELETON	
+5912	RAP2B	RAP2B, member of RAS oncogene family									GO_CELL_JUNCTION											
+55800	SCN3B	sodium channel, voltage-gated, type III, beta													GO_MEMBRANE_PROTEIN_COMPLEX							
+140609	NEK7	NIMA (never in mitosis gene a)-related kinase 7															GO_MICROTUBULE_CYTOSKELETON				GO_CYTOSKELETON	
+1155	TBCB	tubulin folding cofactor B															GO_MICROTUBULE_CYTOSKELETON				GO_CYTOSKELETON	
+2539	G6PD	glucose-6-phosphate dehydrogenase															GO_MICROTUBULE_CYTOSKELETON				GO_CYTOSKELETON	
+10396	ATP8A1	ATPase, aminophospholipid transporter (APLT), class I, type 8A, member 1																				
+2098	ESD	esterase D																				
+1397	CRIP2	cysteine-rich protein 2																				
+8853	ASAP2	ArfGAP with SH3 domain, ankyrin repeat and PH domain 2																				
+1736	DKC1	dyskeratosis congenita 1, dyskerin																				
+51015	ISOC1	isochorismatase domain containing 1																				
+148252	DIRAS1	DIRAS family, GTP-binding RAS-like 1																				
+23285	KIAA1107	KIAA1107																				
+26528	DAZAP1	DAZ associated protein 1																				
+4337	MOCS1	molybdenum cofactor synthesis 1																				
+54545	MTMR12	myotubularin related protein 12																				
+57687	VAT1L	vesicle amine transport protein 1 homolog (T. californica)-like																				
+689	BTF3	basic transcription factor 3																				
+9615	GDA	guanine deaminase																				

@@ -1,0 +1,21 @@
+GeneSet	GenesInGS(K)	Desc	GenesinOL(k)	k/K	pValue	FDR	qValue
+GO_NADH_DEHYDROGENASE_ACTIVITY	38	Catalysis of the reaction: NADH + H+ + acceptor = NAD+ + reduced acceptor.	16	0.4211	4.35E-26	4.04E-23
+GO_OXIDOREDUCTASE_ACTIVITY	719	Catalysis of an oxidation-reduction (redox) reaction, a reversible chemical reaction in which the oxidation state of an atom or atoms within a molecule is altered. One substrate acts as a hydrogen or electron donor and becomes oxidized, while the other acts as hydrogen or electron acceptor and becomes reduced.	39	0.0542	2.97E-25	1.38E-22
+GO_OXIDOREDUCTASE_ACTIVITY_ACTING_ON_NAD_P_H_QUINONE_OR_SIMILAR_COMPOUND_AS_ACCEPTOR	52	Catalysis of an oxidation-reduction (redox) reaction in which NADH or NADPH acts as a hydrogen or electron donor and reduces a quinone or a similar acceptor molecule.	16	0.3077	1.88E-23	5.82E-21
+GO_OXIDOREDUCTASE_ACTIVITY_ACTING_ON_NAD_P_H	93	Catalysis of an oxidation-reduction (redox) reaction in which NADH or NADPH acts as a hydrogen or electron donor and reduces a hydrogen or electron acceptor.	18	0.1935	3.49E-22	8.11E-20
+GO_RIBONUCLEOTIDE_BINDING	1860	Interacting selectively and non-covalently with a ribonucleotide, any compound consisting of a ribonucleoside that is esterified with (ortho)phosphate or an oligophosphate at any hydroxyl group on the ribose moiety.	52	0.0280	2.79E-20	5.19E-18
+GO_ENZYME_BINDING	1737	Interacting selectively and non-covalently with any enzyme.	50	0.0288	4.9E-20	7.58E-18
+GO_IDENTICAL_PROTEIN_BINDING	1209	Interacting selectively and non-covalently with an identical protein or proteins.	40	0.0331	3.56E-18	4.22E-16
+GO_TRANSPORTER_ACTIVITY	1276	Enables the directed movement of substances (such as macromolecules, small molecules, ions) into, out of or within a cell, or between cells.	41	0.0321	3.63E-18	4.22E-16
+GO_POLY_A_RNA_BINDING	1170	Interacting non-covalently with a poly(A) RNA, a RNA molecule which has a tail of adenine bases.	37	0.0316	3.02E-16	3.12E-14
+GO_TRANSMEMBRANE_TRANSPORTER_ACTIVITY	997	Enables the transfer of a substance from one side of a membrane to the other.	34	0.0341	5.94E-16	5.51E-14
+GO_RNA_BINDING	1598	Interacting selectively and non-covalently with an RNA molecule or a portion thereof.	42	0.0263	1.57E-15	1.32E-13
+GO_PROTEIN_COMPLEX_BINDING	935	Interacting selectively and non-covalently with any protein complex (a complex of two or more proteins that may include other nonprotein molecules).	31	0.0332	2.64E-14	2.04E-12
+GO_CATION_TRANSMEMBRANE_TRANSPORTER_ACTIVITY	622	Enables the transfer of cation from one side of the membrane to the other.	24	0.0386	1.07E-12	7.64E-11
+GO_INORGANIC_CATION_TRANSMEMBRANE_TRANSPORTER_ACTIVITY	527	Enables the transfer of inorganic cations from one side of a membrane to the other. Inorganic cations are atoms or small molecules with a positive charge that do not contain carbon in covalent linkage.	22	0.0417	2.09E-12	1.39E-10
+GO_MONOVALENT_INORGANIC_CATION_TRANSMEMBRANE_TRANSPORTER_ACTIVITY	366	Enables the transfer of a inorganic cations with a valency of one from one side of a membrane to the other. Inorganic cations are atoms or small molecules with a positive charge that do not contain carbon in covalent linkage.	18	0.0492	1.56E-11	9.27E-10
+GO_ADENYL_NUCLEOTIDE_BINDING	1514	Interacting selectively and non-covalently with adenyl nucleotides, any compound consisting of adenosine esterified with (ortho)phosphate.	35	0.0231	1.6E-11	9.27E-10
+GO_PROTEIN_DOMAIN_SPECIFIC_BINDING	624	Interacting selectively and non-covalently with a specific domain of a protein.	22	0.0353	5.48E-11	2.89E-9
+GO_HYDROLASE_ACTIVITY_ACTING_ON_ACID_ANHYDRIDES	820	Catalysis of the hydrolysis of any acid anhydride.	25	0.0305	5.59E-11	2.89E-9
+GO_GUANYL_NUCLEOTIDE_BINDING	390	Interacting selectively and non-covalently with guanyl nucleotides, any compound consisting of guanosine esterified with (ortho)phosphate.	17	0.0436	3.71E-10	1.81E-8
+GO_MACROMOLECULAR_COMPLEX_BINDING	1399	Interacting selectively and non-covalently with any macromolecular complex.	31	0.0222	7E-10	3.25E-8
