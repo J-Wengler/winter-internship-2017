@@ -1,0 +1,21 @@
+GeneSet	GenesInGS(K)	Desc	GenesinOL(k)	k/K	pValue	FDR	qValue
+KEGG_MAPK_SIGNALING_PATHWAY	267	MAPK signaling pathway	12	0.0449	4.64E-7	5.06E-4
+NABA_MATRISOME	1028	Ensemble of genes encoding extracellular matrix and extracellular matrix-associated proteins	23	0.0224	1.17E-6	5.06E-4
+REACTOME_HEMOSTASIS	466	Genes involved in Hemostasis	15	0.0322	1.22E-6	5.06E-4
+REACTOME_TRANSMEMBRANE_TRANSPORT_OF_SMALL_MOLECULES	413	Genes involved in Transmembrane transport of small molecules	14	0.0339	1.52E-6	5.06E-4
+REACTOME_IMMUNE_SYSTEM	933	Genes involved in Immune System	21	0.0225	3.13E-6	8.32E-4
+REACTOME_TRANSPORT_OF_INORGANIC_CATIONS_ANIONS_AND_AMINO_ACIDS_OLIGOPEPTIDES	94	Genes involved in Transport of inorganic cations/anions and amino acids/oligopeptides	7	0.0745	4.53E-6	1E-3
+REACTOME_RIP_MEDIATED_NFKB_ACTIVATION_VIA_DAI	18	Genes involved in RIP-mediated NFkB activation via DAI	4	0.2222	6.54E-6	1.18E-3
+NABA_MATRISOME_ASSOCIATED	753	Ensemble of genes encoding ECM-associated proteins including ECM-affilaited proteins, ECM regulators and secreted factors	18	0.0239	7.13E-6	1.18E-3
+REACTOME_SLC_MEDIATED_TRANSMEMBRANE_TRANSPORT	241	Genes involved in SLC-mediated transmembrane transport	10	0.0415	8.52E-6	1.26E-3
+REACTOME_RIG_I_MDA5_MEDIATED_INDUCTION_OF_IFN_ALPHA_BETA_PATHWAYS	73	Genes involved in RIG-I/MDA5 mediated induction of IFN-alpha/beta pathways	6	0.0822	1.25E-5	1.5E-3
+REACTOME_TRAF6_MEDIATED_NFKB_ACTIVATION	21	Genes involved in TRAF6 mediated NF-kB activation	4	0.1905	1.26E-5	1.5E-3
+REACTOME_TRIF_MEDIATED_TLR3_SIGNALING	74	Genes involved in TRIF mediated TLR3 signaling	6	0.0811	1.35E-5	1.5E-3
+REACTOME_TAK1_ACTIVATES_NFKB_BY_PHOSPHORYLATION_AND_ACTIVATION_OF_IKKS_COMPLEX	23	Genes involved in TAK1 activates NFkB by phosphorylation and activation of IKKs complex	4	0.1739	1.84E-5	1.88E-3
+REACTOME_TOLL_RECEPTOR_CASCADES	118	Genes involved in Toll Receptor Cascades	7	0.0593	2.02E-5	1.92E-3
+REACTOME_INNATE_IMMUNE_SYSTEM	279	Genes involved in Innate Immune System	10	0.0358	3E-5	2.66E-3
+KEGG_HEMATOPOIETIC_CELL_LINEAGE	88	Hematopoietic cell lineage	6	0.0682	3.65E-5	3.03E-3
+KEGG_ANTIGEN_PROCESSING_AND_PRESENTATION	89	Antigen processing and presentation	6	0.0674	3.89E-5	3.04E-3
+NABA_ECM_REGULATORS	238	Genes encoding enzymes and their regulators involved in the remodeling of the extracellular matrix	9	0.0378	4.95E-5	3.49E-3
+REACTOME_ACTIVATED_TLR4_SIGNALLING	93	Genes involved in Activated TLR4 signalling	6	0.0645	4.99E-5	3.49E-3
+BIOCARTA_EPONFKB_PATHWAY	11	Erythropoietin mediated neuroprotection through NF-kB	3	0.2727	5.29E-5	3.52E-3

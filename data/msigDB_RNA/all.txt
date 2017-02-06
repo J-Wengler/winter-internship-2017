@@ -1,0 +1,21 @@
+GeneSet	GenesInGS(K)	Desc	GenesinOL(k)	k/K	pValue	FDR	qValue
+KEGG_MAPK_SIGNALING_PATHWAY	267	MAPK signaling pathway	29	0.1086	2.17E-12	2.89E-9
+NABA_MATRISOME	1028	Ensemble of genes encoding extracellular matrix and extracellular matrix-associated proteins	59	0.0574	3.68E-11	2.45E-8
+REACTOME_GENERIC_TRANSCRIPTION_PATHWAY	352	Genes involved in Generic Transcription Pathway	30	0.0852	3.88E-10	1.42E-7
+REACTOME_HEMOSTASIS	466	Genes involved in Hemostasis	35	0.0751	4.29E-10	1.42E-7
+NABA_MATRISOME_ASSOCIATED	753	Ensemble of genes encoding ECM-associated proteins including ECM-affilaited proteins, ECM regulators and secreted factors	46	0.0611	7.73E-10	2.06E-7
+REACTOME_SLC_MEDIATED_TRANSMEMBRANE_TRANSPORT	241	Genes involved in SLC-mediated transmembrane transport	22	0.0913	2.43E-8	5.38E-6
+KEGG_CYTOKINE_CYTOKINE_RECEPTOR_INTERACTION	267	Cytokine-cytokine receptor interaction	23	0.0861	3.47E-8	6.59E-6
+REACTOME_GPCR_LIGAND_BINDING	408	Genes involved in GPCR ligand binding	29	0.0711	4.41E-8	7.33E-6
+KEGG_APOPTOSIS	88	Apoptosis	13	0.1477	6.86E-8	1.01E-5
+REACTOME_TRANSPORT_OF_INORGANIC_CATIONS_ANIONS_AND_AMINO_ACIDS_OLIGOPEPTIDES	94	Genes involved in Transport of inorganic cations/anions and amino acids/oligopeptides	13	0.1383	1.52E-7	2.03E-5
+REACTOME_IMMUNE_SYSTEM	933	Genes involved in Immune System	47	0.0504	1.84E-7	2.2E-5
+REACTOME_TRANSMEMBRANE_TRANSPORT_OF_SMALL_MOLECULES	413	Genes involved in Transmembrane transport of small molecules	28	0.0678	1.99E-7	2.2E-5
+KEGG_LEUKOCYTE_TRANSENDOTHELIAL_MIGRATION	118	Leukocyte transendothelial migration	14	0.1186	3.57E-7	3.41E-5
+KEGG_PATHWAYS_IN_CANCER	328	Pathways in cancer	24	0.0732	3.72E-7	3.41E-5
+REACTOME_METABOLISM_OF_LIPIDS_AND_LIPOPROTEINS	478	Genes involved in Metabolism of lipids and lipoproteins	30	0.0628	3.85E-7	3.41E-5
+KEGG_PHOSPHATIDYLINOSITOL_SIGNALING_SYSTEM	76	Phosphatidylinositol signaling system	11	0.1447	8.61E-7	7.15E-5
+REACTOME_INNATE_IMMUNE_SYSTEM	279	Genes involved in Innate Immune System	21	0.0753	1.25E-6	9.75E-5
+BIOCARTA_P38MAPK_PATHWAY	40	p38 MAPK Signaling Pathway	8	0.2000	2.2E-6	1.62E-4
+KEGG_FOCAL_ADHESION	201	Focal adhesion	17	0.0846	2.65E-6	1.85E-4
+KEGG_ENDOCYTOSIS	183	Endocytosis	16	0.0874	3.37E-6	2.14E-4

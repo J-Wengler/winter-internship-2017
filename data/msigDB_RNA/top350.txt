@@ -1,0 +1,22 @@
+GeneSet	GenesInGS(K)	Desc	GenesinOL(k)	k/K	pValue	FDR	qValue
+REACTOME_TRANSMEMBRANE_TRANSPORT_OF_SMALL_MOLECULES	413	Genes involved in Transmembrane transport of small molecules	8	0.0194	2.08E-6	2.76E-3
+REACTOME_RIP_MEDIATED_NFKB_ACTIVATION_VIA_DAI	18	Genes involved in RIP-mediated NFkB activation via DAI	3	0.1667	6.4E-6	3.45E-3
+REACTOME_SLC_MEDIATED_TRANSMEMBRANE_TRANSPORT	241	Genes involved in SLC-mediated transmembrane transport	6	0.0249	1.02E-5	3.45E-3
+REACTOME_TRAF6_MEDIATED_NFKB_ACTIVATION	21	Genes involved in TRAF6 mediated NF-kB activation	3	0.1429	1.04E-5	3.45E-3
+REACTOME_TAK1_ACTIVATES_NFKB_BY_PHOSPHORYLATION_AND_ACTIVATION_OF_IKKS_COMPLEX	23	Genes involved in TAK1 activates NFkB by phosphorylation and activation of IKKs complex	3	0.1304	1.38E-5	3.67E-3
+KEGG_MAPK_SIGNALING_PATHWAY	267	MAPK signaling pathway	6	0.0225	1.82E-5	4.02E-3
+REACTOME_AMINO_ACID_TRANSPORT_ACROSS_THE_PLASMA_MEMBRANE	31	Genes involved in Amino acid transport across the plasma membrane	3	0.0968	3.46E-5	6.57E-3
+REACTOME_TRANSPORT_OF_INORGANIC_CATIONS_ANIONS_AND_AMINO_ACIDS_OLIGOPEPTIDES	94	Genes involved in Transport of inorganic cations/anions and amino acids/oligopeptides	4	0.0426	4.17E-5	6.93E-3
+NABA_ECM_REGULATORS	238	Genes encoding enzymes and their regulators involved in the remodeling of the extracellular matrix	5	0.0210	1.28E-4	1.84E-2
+REACTOME_AMINO_ACID_AND_OLIGOPEPTIDE_SLC_TRANSPORTERS	49	Genes involved in Amino acid and oligopeptide SLC transporters	3	0.0612	1.38E-4	1.84E-2
+PID_P53_DOWNSTREAM_PATHWAY	137	Direct p53 effectors	4	0.0292	1.8E-4	2.17E-2
+BIOCARTA_EPONFKB_PATHWAY	11	Erythropoietin mediated neuroprotection through NF-kB	2	0.1818	2.2E-4	2.44E-2
+BIOCARTA_ARENRF2_PATHWAY	13	Oxidative Stress Induced Gene Expression Via Nrf2	2	0.1538	3.11E-4	3.18E-2
+REACTOME_NFKB_AND_MAP_KINASES_ACTIVATION_MEDIATED_BY_TLR4_SIGNALING_REPERTOIRE	72	Genes involved in NFkB and MAP kinases activation mediated by TLR4 signaling repertoire	3	0.0417	4.32E-4	3.89E-2
+REACTOME_RIG_I_MDA5_MEDIATED_INDUCTION_OF_IFN_ALPHA_BETA_PATHWAYS	73	Genes involved in RIG-I/MDA5 mediated induction of IFN-alpha/beta pathways	3	0.0411	4.5E-4	3.89E-2
+REACTOME_TRIF_MEDIATED_TLR3_SIGNALING	74	Genes involved in TRIF mediated TLR3 signaling	3	0.0405	4.69E-4	3.89E-2
+REACTOME_TRAF6_MEDIATED_INDUCTION_OF_NFKB_AND_MAP_KINASES_UPON_TLR7_8_OR_9_ACTIVATION	77	Genes involved in TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation	3	0.0390	5.27E-4	4.04E-2
+KEGG_PEROXISOME	78	Peroxisome	3	0.0385	5.47E-4	4.04E-2
+REACTOME_MYD88_MAL_CASCADE_INITIATED_ON_PLASMA_MEMBRANE	83	Genes involved in MyD88:Mal cascade initiated on plasma membrane	3	0.0361	6.56E-4	4.5E-2
+BIOCARTA_TID_PATHWAY	19	Chaperones modulate interferon Signaling Pathway	2	0.1053	6.77E-4	4.5E-2
+

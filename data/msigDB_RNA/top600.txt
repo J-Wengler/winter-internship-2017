@@ -1,0 +1,21 @@
+GeneSet	GenesInGS(K)	Desc	GenesinOL(k)	k/K	pValue	FDR	qValue
+KEGG_MAPK_SIGNALING_PATHWAY	267	MAPK signaling pathway	19	0.0712	7.15E-10	7.43E-7
+NABA_MATRISOME	1028	Ensemble of genes encoding extracellular matrix and extracellular matrix-associated proteins	38	0.0370	1.12E-9	7.43E-7
+NABA_MATRISOME_ASSOCIATED	753	Ensemble of genes encoding ECM-associated proteins including ECM-affilaited proteins, ECM regulators and secreted factors	31	0.0412	3.35E-9	1.48E-6
+REACTOME_HEMOSTASIS	466	Genes involved in Hemostasis	22	0.0472	6.27E-8	2.08E-5
+REACTOME_TRANSPORT_OF_INORGANIC_CATIONS_ANIONS_AND_AMINO_ACIDS_OLIGOPEPTIDES	94	Genes involved in Transport of inorganic cations/anions and amino acids/oligopeptides	10	0.1064	1.94E-7	5.17E-5
+NABA_SECRETED_FACTORS	344	Genes encoding secreted soluble factors	17	0.0494	1.05E-6	2.33E-4
+REACTOME_SLC_MEDIATED_TRANSMEMBRANE_TRANSPORT	241	Genes involved in SLC-mediated transmembrane transport	14	0.0581	1.44E-6	2.73E-4
+REACTOME_GPCR_LIGAND_BINDING	408	Genes involved in GPCR ligand binding	18	0.0441	2.56E-6	4.03E-4
+REACTOME_TRIF_MEDIATED_TLR3_SIGNALING	74	Genes involved in TRIF mediated TLR3 signaling	8	0.1081	2.9E-6	4.03E-4
+REACTOME_TRANSMEMBRANE_TRANSPORT_OF_SMALL_MOLECULES	413	Genes involved in Transmembrane transport of small molecules	18	0.0436	3.03E-6	4.03E-4
+ST_P38_MAPK_PATHWAY	37	p38 MAPK Pathway	6	0.1622	4.7E-6	5.68E-4
+REACTOME_TOLL_RECEPTOR_CASCADES	118	Genes involved in Toll Receptor Cascades	9	0.0763	1.27E-5	1.41E-3
+REACTOME_ACTIVATED_TLR4_SIGNALLING	93	Genes involved in Activated TLR4 signalling	8	0.0860	1.61E-5	1.64E-3
+REACTOME_AMINO_ACID_AND_OLIGOPEPTIDE_SLC_TRANSPORTERS	49	Genes involved in Amino acid and oligopeptide SLC transporters	6	0.1224	2.51E-5	2.11E-3
+REACTOME_GENERIC_TRANSCRIPTION_PATHWAY	352	Genes involved in Generic Transcription Pathway	15	0.0426	2.58E-5	2.11E-3
+REACTOME_IMMUNE_SYSTEM	933	Genes involved in Immune System	27	0.0289	2.65E-5	2.11E-3
+REACTOME_RIG_I_MDA5_MEDIATED_INDUCTION_OF_IFN_ALPHA_BETA_PATHWAYS	73	Genes involved in RIG-I/MDA5 mediated induction of IFN-alpha/beta pathways	7	0.0959	2.69E-5	2.11E-3
+REACTOME_AMINO_ACID_TRANSPORT_ACROSS_THE_PLASMA_MEMBRANE	31	Genes involved in Amino acid transport across the plasma membrane	5	0.1613	3.09E-5	2.28E-3
+NABA_ECM_REGULATORS	238	Genes encoding enzymes and their regulators involved in the remodeling of the extracellular matrix	12	0.0504	3.29E-5	2.3E-3
+REACTOME_INNATE_IMMUNE_SYSTEM	279	Genes involved in Innate Immune System	13	0.0466	3.55E-5	2.36E-3

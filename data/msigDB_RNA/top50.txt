@@ -1,0 +1,7 @@
+GeneSet	GenesInGS(K)	Desc	GenesinOL(k)	k/K	pValue	FDR	qValue
+REACTOME_TRANSMEMBRANE_TRANSPORT_OF_SMALL_MOLECULES	413	Genes involved in Transmembrane transport of small molecules	5	0.0121	5.79E-5	3.14E-2
+BIOCARTA_ARENRF2_PATHWAY	13	Oxidative Stress Induced Gene Expression Via Nrf2	2	0.1538	7.59E-5	3.14E-2
+NABA_ECM_REGULATORS	238	Genes encoding enzymes and their regulators involved in the remodeling of the extracellular matrix	4	0.0168	9.65E-5	3.14E-2
+KEGG_ANTIGEN_PROCESSING_AND_PRESENTATION	89	Antigen processing and presentation	3	0.0337	1E-4	3.14E-2
+REACTOME_TRANSPORT_OF_INORGANIC_CATIONS_ANIONS_AND_AMINO_ACIDS_OLIGOPEPTIDES	94	Genes involved in Transport of inorganic cations/anions and amino acids/oligopeptides	3	0.0319	1.18E-4	3.14E-2
+KEGG_MAPK_SIGNALING_PATHWAY	267	MAPK signaling pathway	4	0.0150	1.5E-4	3.32E-2
