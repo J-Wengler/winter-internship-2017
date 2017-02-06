@@ -1,0 +1,42 @@
+GeneSet	GenesInGS(K)	Desc	GenesinOL(k)	k/K	pValue	FDR	qValue
+REACTOME_TCA_CYCLE_AND_RESPIRATORY_ELECTRON_TRANSPORT	141	Genes involved in The citric acid (TCA) cycle and respiratory electron transport	11	0.0780	1.71E-14	2.27E-11
+KEGG_ALZHEIMERS_DISEASE	169	Alzheimer's disease	11	0.0651	1.28E-13	6.08E-11
+REACTOME_RESPIRATORY_ELECTRON_TRANSPORT	79	Genes involved in Respiratory electron transport	9	0.1139	1.37E-13	6.08E-11
+KEGG_HUNTINGTONS_DISEASE	185	Huntington's disease	11	0.0595	3.46E-13	1.08E-10
+KEGG_PARKINSONS_DISEASE	133	Parkinson's disease	10	0.0752	4.06E-13	1.08E-10
+REACTOME_RESPIRATORY_ELECTRON_TRANSPORT_ATP_SYNTHESIS_BY_CHEMIOSMOTIC_COUPLING_AND_HEAT_PRODUCTION_BY_UNCOUPLING_PROTEINS_	98	Genes involved in Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.	9	0.0918	1.01E-12	2.25E-10
+KEGG_OXIDATIVE_PHOSPHORYLATION	135	Oxidative phosphorylation	8	0.0593	6.67E-10	1.27E-7
+PID_PDGFRB_PATHWAY	129	PDGFR-beta signaling pathway	6	0.0465	4.18E-7	6.94E-5
+KEGG_GAP_JUNCTION	90	Gap junction	5	0.0556	1.67E-6	2.47E-4
+BIOCARTA_BARR_MAPK_PATHWAY	12	Role of fl-arrestins in the activation and targeting of MAP kinases	3	0.2500	2.17E-6	2.88E-4
+REACTOME_NEURONAL_SYSTEM	279	Genes involved in Neuronal System	7	0.0251	2.79E-6	3.37E-4
+BIOCARTA_BARRESTIN_SRC_PATHWAY	15	Roles of fl-arrestin-dependent Recruitment of Src Kinases in GPCR Signaling	3	0.2000	4.46E-6	4.94E-4
+BIOCARTA_CDMAC_PATHWAY	16	Cadmium induces DNA synthesis and proliferation in macrophages	3	0.1875	5.48E-6	5.61E-4
+KEGG_PATHOGENIC_ESCHERICHIA_COLI_INFECTION	59	Pathogenic Escherichia coli infection	4	0.0678	8.76E-6	8.32E-4
+BIOCARTA_SPPA_PATHWAY	22	Aspirin Blocks Signaling Pathway Involved in Platelet Activation	3	0.1364	1.49E-5	1.32E-3
+BIOCARTA_CCR3_PATHWAY	23	CCR3 signaling in Eosinophils	3	0.1304	1.72E-5	1.35E-3
+PID_CDC42_PATHWAY	70	CDC42 signaling events	4	0.0571	1.73E-5	1.35E-3
+BIOCARTA_EDG1_PATHWAY	27	Phospholipids as signalling intermediaries	3	0.1111	2.82E-5	2.08E-3
+PID_AR_NONGENOMIC_PATHWAY	31	Nongenotropic Androgen signaling	3	0.0968	4.3E-5	3.01E-3
+KEGG_CALCIUM_SIGNALING_PATHWAY	178	Calcium signaling pathway	5	0.0281	4.61E-5	3.06E-3
+
+REACTOME_TCA_CYCLE_AND_RESPIRATORY_ELECTRON_TRANSPORT	141	Genes involved in The citric acid (TCA) cycle and respiratory electron transport	32	0.2270	5.21E-41	6.93E-38
+KEGG_PARKINSONS_DISEASE	133	Parkinson's disease	28	0.2105	5.48E-35	3.64E-32
+REACTOME_RESPIRATORY_ELECTRON_TRANSPORT	79	Genes involved in Respiratory electron transport	24	0.3038	1.93E-34	8.56E-32
+REACTOME_RESPIRATORY_ELECTRON_TRANSPORT_ATP_SYNTHESIS_BY_CHEMIOSMOTIC_COUPLING_AND_HEAT_PRODUCTION_BY_UNCOUPLING_PROTEINS_	98	Genes involved in Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.	25	0.2551	1.17E-33	3.88E-31
+KEGG_ALZHEIMERS_DISEASE	169	Alzheimer's disease	28	0.1657	7.41E-32	1.97E-29
+KEGG_HUNTINGTONS_DISEASE	185	Huntington's disease	28	0.1514	1.06E-30	2.36E-28
+KEGG_OXIDATIVE_PHOSPHORYLATION	135	Oxidative phosphorylation	23	0.1704	1.19E-26	2.25E-24
+REACTOME_NEURONAL_SYSTEM	279	Genes involved in Neuronal System	15	0.0538	2.32E-10	3.86E-8
+KEGG_CARDIAC_MUSCLE_CONTRACTION	80	Cardiac muscle contraction	9	0.1125	1.57E-9	2.31E-7
+REACTOME_PYRUVATE_METABOLISM_AND_CITRIC_ACID_TCA_CYCLE	48	Genes involved in Pyruvate metabolism and Citric Acid (TCA) cycle	7	0.1458	1.68E-8	2.23E-6
+PID_PDGFRB_PATHWAY	129	PDGFR-beta signaling pathway	9	0.0698	1.07E-7	1.29E-5
+REACTOME_TRANSMISSION_ACROSS_CHEMICAL_SYNAPSES	186	Genes involved in Transmission across Chemical Synapses	10	0.0538	2.42E-7	2.68E-5
+PID_ERBB1_DOWNSTREAM_PATHWAY	105	ErbB1 downstream signaling	8	0.0762	2.8E-7	2.86E-5
+REACTOME_CITRIC_ACID_CYCLE_TCA_CYCLE	26	Genes involved in Citric acid cycle (TCA cycle)	5	0.1923	4.71E-7	4.48E-5
+REACTOME_METABOLISM_OF_PROTEINS	518	Genes involved in Metabolism of proteins	15	0.0290	8.21E-7	7.27E-5
+KEGG_GAP_JUNCTION	90	Gap junction	7	0.0778	1.37E-6	1.1E-4
+KEGG_CITRATE_CYCLE_TCA_CYCLE	32	Citrate cycle (TCA cycle)	5	0.1562	1.4E-6	1.1E-4
+REACTOME_TRANSMEMBRANE_TRANSPORT_OF_SMALL_MOLECULES	413	Genes involved in Transmembrane transport of small molecules	13	0.0315	1.8E-6	1.33E-4
+PID_GMCSF_PATHWAY	37	GMCSF-mediated signaling events	5	0.1351	2.96E-6	2.07E-4
+PID_TELOMERASE_PATHWAY	68	Regulation of Telomerase	6	0.0882	3.79E-6	2.52E-4

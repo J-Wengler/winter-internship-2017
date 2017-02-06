@@ -1,0 +1,21 @@
+GeneSet	GenesInGS(K)	Desc	GenesinOL(k)	k/K	pValue	FDR	qValue
+REACTOME_TCA_CYCLE_AND_RESPIRATORY_ELECTRON_TRANSPORT	141	Genes involved in The citric acid (TCA) cycle and respiratory electron transport	5	0.0355	4.8E-7	6.38E-4
+KEGG_ALZHEIMERS_DISEASE	169	Alzheimer's disease	5	0.0296	1.17E-6	7.77E-4
+REACTOME_RESPIRATORY_ELECTRON_TRANSPORT	79	Genes involved in Respiratory electron transport	4	0.0506	1.75E-6	7.77E-4
+REACTOME_RESPIRATORY_ELECTRON_TRANSPORT_ATP_SYNTHESIS_BY_CHEMIOSMOTIC_COUPLING_AND_HEAT_PRODUCTION_BY_UNCOUPLING_PROTEINS_	98	Genes involved in Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.	4	0.0408	4.15E-6	1.38E-3
+SIG_CD40PATHWAYMAP	34	Genes related to CD40 signaling	3	0.0882	7.08E-6	1.88E-3
+PID_GMCSF_PATHWAY	37	GMCSF-mediated signaling events	3	0.0811	9.17E-6	2.03E-3
+PID_PDGFRB_PATHWAY	129	PDGFR-beta signaling pathway	4	0.0310	1.23E-5	2.06E-3
+REACTOME_NEURONAL_SYSTEM	279	Genes involved in Neuronal System	5	0.0179	1.35E-5	2.06E-3
+KEGG_PARKINSONS_DISEASE	133	Parkinson's disease	4	0.0301	1.39E-5	2.06E-3
+SIG_INSULIN_RECEPTOR_PATHWAY_IN_CARDIAC_MYOCYTES	51	Genes related to the insulin receptor pathway	3	0.0588	2.43E-5	3.23E-3
+KEGG_HUNTINGTONS_DISEASE	185	Huntington's disease	4	0.0216	5.07E-5	4.93E-3
+REACTOME_ACTIVATION_OF_THE_AP1_FAMILY_OF_TRANSCRIPTION_FACTORS	10	Genes involved in Activation of the AP-1 family of transcription factors	2	0.2000	5.19E-5	4.93E-3
+REACTOME_PURINE_CATABOLISM	10	Genes involved in Purine catabolism	2	0.2000	5.19E-5	4.93E-3
+REACTOME_RAF_MAP_KINASE_CASCADE	10	Genes involved in RAF/MAP kinase cascade	2	0.2000	5.19E-5	4.93E-3
+PID_TELOMERASE_PATHWAY	68	Regulation of Telomerase	3	0.0441	5.78E-5	4.96E-3
+PID_MTOR_4PATHWAY	69	mTOR signaling pathway	3	0.0435	6.04E-5	4.96E-3
+BIOCARTA_CDK5_PATHWAY	11	Phosphorylation of MEK1 by cdk5/p35 down regulates the MAP kinase pathway	2	0.1818	6.34E-5	4.96E-3
+BIOCARTA_BARR_MAPK_PATHWAY	12	Role of fl-arrestins in the activation and targeting of MAP kinases	2	0.1667	7.6E-5	5.18E-3
+REACTOME_ERKS_ARE_INACTIVATED	12	Genes involved in ERKs are inactivated	2	0.1667	7.6E-5	5.18E-3
+REACTOME_ADVANCED_GLYCOSYLATION_ENDPRODUCT_RECEPTOR_SIGNALING	13	Genes involved in Advanced glycosylation endproduct receptor signaling	2	0.1538	8.98E-5	5.18E-3

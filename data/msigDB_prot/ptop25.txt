@@ -1,0 +1,21 @@
+GeneSet	GenesInGS(K)	Desc	GenesinOL(k)	k/K	pValue	FDR	qValue
+REACTOME_NEURONAL_SYSTEM	279	Genes involved in Neuronal System	5	0.0179	3.83E-7	3.63E-4
+PID_PDGFRB_PATHWAY	129	PDGFR-beta signaling pathway	4	0.0310	7.16E-7	3.63E-4
+SIG_CD40PATHWAYMAP	34	Genes related to CD40 signaling	3	0.0882	8.41E-7	3.63E-4
+PID_GMCSF_PATHWAY	37	GMCSF-mediated signaling events	3	0.0811	1.09E-6	3.63E-4
+KEGG_ALZHEIMERS_DISEASE	169	Alzheimer's disease	4	0.0237	2.1E-6	5.59E-4
+SIG_INSULIN_RECEPTOR_PATHWAY_IN_CARDIAC_MYOCYTES	51	Genes related to the insulin receptor pathway	3	0.0588	2.91E-6	6.45E-4
+PID_MTOR_4PATHWAY	69	mTOR signaling pathway	3	0.0435	7.28E-6	1.38E-3
+REACTOME_ACTIVATION_OF_THE_AP1_FAMILY_OF_TRANSCRIPTION_FACTORS	10	Genes involved in Activation of the AP-1 family of transcription factors	2	0.2000	1.28E-5	1.5E-3
+REACTOME_RAF_MAP_KINASE_CASCADE	10	Genes involved in RAF/MAP kinase cascade	2	0.2000	1.28E-5	1.5E-3
+BIOCARTA_CDK5_PATHWAY	11	Phosphorylation of MEK1 by cdk5/p35 down regulates the MAP kinase pathway	2	0.1818	1.56E-5	1.5E-3
+BIOCARTA_BARR_MAPK_PATHWAY	12	Role of fl-arrestins in the activation and targeting of MAP kinases	2	0.1667	1.87E-5	1.5E-3
+REACTOME_ERKS_ARE_INACTIVATED	12	Genes involved in ERKs are inactivated	2	0.1667	1.87E-5	1.5E-3
+REACTOME_ADVANCED_GLYCOSYLATION_ENDPRODUCT_RECEPTOR_SIGNALING	13	Genes involved in Advanced glycosylation endproduct receptor signaling	2	0.1538	2.21E-5	1.5E-3
+PID_ERBB1_DOWNSTREAM_PATHWAY	105	ErbB1 downstream signaling	3	0.0286	2.57E-5	1.5E-3
+PID_S1P_S1P4_PATHWAY	14	S1P4 pathway	2	0.1429	2.58E-5	1.5E-3
+PID_TCR_RAS_PATHWAY	14	Ras signaling in the CD4+ TCR pathway	2	0.1429	2.58E-5	1.5E-3
+REACTOME_SOS_MEDIATED_SIGNALLING	14	Genes involved in SOS-mediated signalling	2	0.1429	2.58E-5	1.5E-3
+REACTOME_SPRY_REGULATION_OF_FGF_SIGNALING	14	Genes involved in Spry regulation of FGF signaling	2	0.1429	2.58E-5	1.5E-3
+REACTOME_SIGNALING_BY_ILS	107	Genes involved in Signaling by Interleukins	3	0.0280	2.72E-5	1.5E-3
+BIOCARTA_BARRESTIN_SRC_PATHWAY	15	Roles of fl-arrestin-dependent Recruitment of Src Kinases in GPCR Signaling	2	0.1333	2.97E-5	1.5E-3
