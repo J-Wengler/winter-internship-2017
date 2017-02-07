@@ -23,7 +23,7 @@ This repository contains codes that are/were written from my 1st to my 20th day 
 
 I'll update day 13 and day 14 a bit later, anyway here's what I've been doing for day 13 and day 14:
 - [Dirty codes](https://github.com/hariesramdhani/winter-internship-2017/blob/master/report/parkinsonDE.pdf)
-- [Distribution of Log Fold Change](https://github.com/hariesramdhani/winter-internship-2017/blob/master/report/Distribution_of_Log_Fold_Change%20.pdf)
+- [Distribution of Log Fold Change](https://github.com/hariesramdhani/winter-internship-2017/blob/master/report/Distribution_of_Log_Fold_Change.html)
 
 
 
