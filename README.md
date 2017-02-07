@@ -9,6 +9,11 @@ This repository contains codes that are/were written from my 1st to my 20th day 
 - [ ] [Proteomics Genes GO Enrichment Analysis](https://github.com/hariesramdhani/winter-internship-2017/blob/master/src/Proteomics%20Genes%20GO%20Enrichment%20Analysis.ipynb)
 - [ ] [RNA-Seq Genes GO Enrichment Analysis](https://github.com/hariesramdhani/winter-internship-2017/blob/master/src/RNA-Seq%20Genes%20GO%20Enrichment%20Analysis.ipynb)
 
+
+### Final Reports
+- [x] [Stage 1: Report](https://github.com/hariesramdhani/winter-internship-2017/blob/master/report/Internship%20Report%201.pdf)
+- [ ] Stage 2: Report
+
 ### Daily Logs
 - [x] [Day 0 - January 17, 2017](https://github.com/hariesramdhani/winter-internship-2017/wiki/Day-0)
 - [x] [Day 1 - January 18, 2017](https://github.com/hariesramdhani/winter-internship-2017/wiki/Day-1)
