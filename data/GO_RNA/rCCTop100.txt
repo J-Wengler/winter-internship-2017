@@ -1,0 +1,13 @@
+GeneSet	GenesInGS(K)	Desc	GenesinOL(k)	k/K	pValue	qValue
+GO_INTRINSIC_COMPONENT_OF_PLASMA_MEMBRANE	1649	The component of the plasma membrane consisting of the gene products and protein complexes having either part of their peptide sequence embedded in the hydrophobic region of the membrane or some other covalently attached group such as a GPI anchor that is similarly embedded in the membrane.	16	0.0097	1.97E-7	1.15E-4
+GO_CENTRIOLE	102	A cellular organelle, found close to the nucleus in many eukaryotic cells, consisting of a small cylinder with microtubular walls, 300-500 nm long and 150-250 nm in diameter. It contains nine short, parallel, peripheral microtubular fibrils, each fibril consisting of one complete microtubule fused to two incomplete microtubules. Cells usually have two centrioles, lying at right angles to each other. At division, each pair of centrioles generates another pair and the twin pairs form the pole of the mitotic spindle.	5	0.0490	2.17E-6	5.76E-4
+GO_CELL_PROJECTION	1786	A prolongation or process extending from a cell, e.g. a flagellum or axon.	15	0.0084	2.96E-6	5.76E-4
+GO_MICROTUBULE_ORGANIZING_CENTER_PART	145	Any constituent part of a microtubule organizing center, a region in a eukaryotic cell, such as a centrosome or basal body, from which microtubules grow.	5	0.0345	1.21E-5	1.77E-3
+GO_MEMBRANE_REGION	1134	A membrane that is a part of a larger membrane.  Examples include the apical region of the plasma membrane of an epithelial cell and the various regions of the endoplasmic reticulum membrane.	11	0.0097	1.89E-5	1.88E-3
+GO_PLASMA_MEMBRANE_REGION	929	A membrane that is a (regional) part of the plasma membrane.	10	0.0108	1.93E-5	1.88E-3
+GO_PERINUCLEAR_REGION_OF_CYTOPLASM	642	Cytoplasm situated near, or occurring around, the nucleus.	7	0.0109	3.37E-4	2.64E-2
+GO_CELL_PROJECTION_MEMBRANE	298	The portion of the plasma membrane surrounding a cell surface projection.	5	0.0168	3.62E-4	2.64E-2
+GO_MITOCHONDRION	1633	A semiautonomous, self replicating organelle that occurs in varying numbers, shapes, and sizes in the cytoplasm of virtually all eukaryotic cells. It is notably the site of tissue respiration.	11	0.0067	4.66E-4	3.02E-2
+GO_NEURON_PROJECTION	942	A prolongation or process extending from a nerve cell, e.g. an axon or dendrite.	8	0.0085	6.64E-4	3.63E-2
+GO_CELL_PROJECTION_PART	946	Any constituent part of a cell projection, a prolongation or process extending from a cell, e.g. a flagellum or axon.	8	0.0085	6.83E-4	3.63E-2
+GO_MICROBODY_PART	93	Any constituent part of a microbody, a cytoplasmic organelle, spherical or oval in shape, that is bounded by a single membrane and contains oxidative enzymes, especially those utilizing hydrogen peroxide (H2O2).	3	0.0323	9.12E-4	4.44E-2

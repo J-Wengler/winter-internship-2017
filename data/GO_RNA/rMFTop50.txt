@@ -1,0 +1,14 @@
+GeneSet	GenesInGS(K)	Desc	GenesinOL(k)	k/K	pValue	qValue
+GO_UNFOLDED_PROTEIN_BINDING	100	Interacting selectively and non-covalently with an unfolded protein.	5	0.0500	5.63E-8	5.23E-5
+GO_HEAT_SHOCK_PROTEIN_BINDING	89	Interacting selectively and non-covalently with a heat shock protein, any protein synthesized or activated in response to heat shock.	4	0.0449	2.01E-6	9.36E-4
+GO_RECEPTOR_ACTIVITY	1649	Combining with an extracellular or intracellular messenger to initiate a change in cell activity.	9	0.0055	3.2E-5	9.91E-3
+GO_PROTEIN_BINDING_INVOLVED_IN_PROTEIN_FOLDING	14	Interacting selectively and non-covalently with any protein or protein complex (a complex of two or more proteins that may include other nonprotein molecules) that contributes to the process of protein folding.	2	0.1429	8.85E-5	2.06E-2
+GO_ANION_TRANSMEMBRANE_TRANSPORTER_ACTIVITY	293	Enables the transfer of a negatively charged ion from one side of a membrane to the other.	4	0.0137	2.14E-4	3.55E-2
+GO_ATPASE_ACTIVITY_COUPLED	313	Catalysis of the reaction: ATP + H2O = ADP + phosphate; this reaction directly drives some other reaction, for example ion transport across a membrane.	4	0.0128	2.75E-4	3.55E-2
+GO_ENZYME_BINDING	1737	Interacting selectively and non-covalently with any enzyme.	8	0.0046	2.97E-4	3.55E-2
+GO_ATPASE_REGULATOR_ACTIVITY	30	Modulates the rate of ATP hydrolysis by an ATPase.	2	0.0667	4.19E-4	3.55E-2
+GO_ACTIVE_TRANSMEMBRANE_TRANSPORTER_ACTIVITY	356	Catalysis of the transfer of a specific substance or related group of substances from one side of a membrane to the other, up the solute's concentration gradient. The transporter binds the solute and undergoes a series of conformational changes. Transport works equally well in either direction.	4	0.0112	4.47E-4	3.55E-2
+GO_MACROMOLECULAR_COMPLEX_BINDING	1399	Interacting selectively and non-covalently with any macromolecular complex.	7	0.0050	4.52E-4	3.55E-2
+GO_TRANSITION_METAL_ION_BINDING	1400	Interacting selectively and non-covalently with a transition metal ions; a transition metal is an element whose atom has an incomplete d-subshell of extranuclear electrons, or which gives rise to a cation or cations with an incomplete d-subshell. Transition metals often have more than one valency state. Biologically relevant transition metals include vanadium, manganese, iron, copper, cobalt, nickel, molybdenum and silver.	7	0.0050	4.54E-4	3.55E-2
+GO_TRANSMEMBRANE_TRANSPORTER_ACTIVITY	997	Enables the transfer of a substance from one side of a membrane to the other.	6	0.0060	4.59E-4	3.55E-2
+

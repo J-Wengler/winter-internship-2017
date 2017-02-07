@@ -1,0 +1,9 @@
+GeneSet	GenesInGS(K)	Desc	GenesinOL(k)	k/K	pValue	qValue
+GO_UNFOLDED_PROTEIN_BINDING	100	Interacting selectively and non-covalently with an unfolded protein.	5	0.0500	2.26E-9	2.1E-6
+GO_HEAT_SHOCK_PROTEIN_BINDING	89	Interacting selectively and non-covalently with a heat shock protein, any protein synthesized or activated in response to heat shock.	4	0.0449	1.61E-7	7.48E-5
+GO_ATPASE_ACTIVITY_COUPLED	313	Catalysis of the reaction: ATP + H2O = ADP + phosphate; this reaction directly drives some other reaction, for example ion transport across a membrane.	4	0.0128	2.39E-5	5.98E-3
+GO_PROTEIN_BINDING_INVOLVED_IN_PROTEIN_FOLDING	14	Interacting selectively and non-covalently with any protein or protein complex (a complex of two or more proteins that may include other nonprotein molecules) that contributes to the process of protein folding.	2	0.1429	2.58E-5	5.98E-3
+GO_ATPASE_ACTIVITY	427	Catalysis of the reaction: ATP + H2O = ADP + phosphate + 2 H+. May or may not be coupled to another reaction.	4	0.0094	7.96E-5	1.48E-2
+GO_ENZYME_BINDING	1737	Interacting selectively and non-covalently with any enzyme.	6	0.0035	2.76E-4	4.27E-2
+GO_PROTEIN_DOMAIN_SPECIFIC_BINDING	624	Interacting selectively and non-covalently with a specific domain of a protein.	4	0.0064	3.39E-4	4.51E-2
+
