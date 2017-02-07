@@ -1,4 +1,7 @@
-*Preparation for the project:** Basically just learning the basics and how things work
+###Daily Logs
+A collection of logs written in GitHub Wiki. The first ten days are the days where I learned most of the things like RNA-seqs, R, Statistics and etc. 
+
+**Preparation for the project:** Learned the basics and how things work
 - [x] [Day 0 - January 17, 2017](https://github.com/hariesramdhani/winter-internship-2017/wiki/Day-0)
 - [x] [Day 1 - January 18, 2017](https://github.com/hariesramdhani/winter-internship-2017/wiki/Day-1)
 - [x] [Day 2 - January 19, 2017](https://github.com/hariesramdhani/winter-internship-2017/wiki/Day-2)
@@ -14,12 +17,8 @@
 **Working with the project:** Starts to work with the project
 - [x] [Day 11 - February 1, 2017](https://github.com/hariesramdhani/winter-internship-2017/wiki/Day-11)
 - [x] [Day 12 - February 2, 2017](https://github.com/hariesramdhani/winter-internship-2017/wiki/Day-12)
-
-I'll update day 13 and day 14 a bit later, anyway here's what I've been doing for day 13 and day 14:
-- [Dirty codes](https://github.com/hariesramdhani/winter-internship-2017/blob/master/report/parkinsonDE.pdf)
-- [Distribution of Log Fold Change](https://github.com/hariesramdhani/winter-internship-2017/blob/master/report/Distribution_of_Log_Fold_Change.html)
-- [x] [Day 13 - February 3, 2017](https://github.com/hariesramdhani/winter-internship-2017/wiki/Day-13)  **(will be updated later)** :fire::fire::fire:
-- [ ] Day 14 - February 6, 2017
+- [x] [Day 13 - February 3, 2017](https://github.com/hariesramdhani/winter-internship-2017/wiki/Day-13)
+- [x] [Day 14 - February 6, 2017](https://github.com/hariesramdhani/winter-internship-2017/wiki/Day-14)**(will be updated later)** :fire::fire::fire:
 - [ ] Day 15 - February 7, 2017
 - [ ] Day 16 - February 8, 2017
 - [ ] Day 17 - February 9, 2017
