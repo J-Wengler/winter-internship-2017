@@ -5,6 +5,7 @@
 This repository contains codes that are/were written from my 1st to my 20th day of internship and short explanations of what I did during the internship at Gebze Technical University, supervised by Asst. Prof. Dr. Tunahan ÇAKIR from Bioengineering Department.
 
 ### Analyses and Reports
+Analyses were perfomed in Python and R, depend on the necessities. The final products are in (.ipynb) extension, jupyter notebooks to explain the analyses clearer. All of the analyses can be found in the `~/src` folder and the .html/.pdf files can be found in the `~/report` folder.
 - [x] [Distribution of Log Fold Change](https://github.com/hariesramdhani/winter-internship-2017/blob/master/src/Distribution%20of%20Log%20Fold%20Change.ipynb)
 - [x] [Proteomics Genes GO Enrichment Analysis](https://github.com/hariesramdhani/winter-internship-2017/blob/master/src/Proteomics%20Genes%20GO%20Enrichment%20Analysis.ipynb)
 - [x] [RNA-Seq Genes GO Enrichment Analysis](https://github.com/hariesramdhani/winter-internship-2017/blob/master/src/RNA-Seq%20Genes%20GO%20Enrichment%20Analysis.ipynb)
