@@ -5,7 +5,7 @@
 This repository contains codes that are/were written from my 1st to my 20th day of internship and short explanations of what I did during the internship at Gebze Technical University, supervised by Asst. Prof. Dr. Tunahan ÇAKIR from Bioengineering Department.
 
 ### Analyses and Reports
-Analyses were perfomed in Python and R, depend on the necessities. The final products are in (.ipynb extension) jupyter notebook files because this allows me to explain the analyses clearer. All of the analyses can be found in the `~/src` folder and the .html/.pdf files can be found in the `~/report` folder.
+Analyses were perfomed in Python and R, depend on the necessities. The final products are in (`.ipynb` extension) jupyter notebook files because this allows me to explain the analyses clearer. All of the analyses can be found in the `~/src` folder and the `.html`/`.pdf` files can be found in the `~/report` folder.
 - [x] [Distribution of Log Fold Change](https://github.com/hariesramdhani/winter-internship-2017/blob/master/src/Distribution%20of%20Log%20Fold%20Change.ipynb)
 - [x] [Proteomics Genes GO Enrichment Analysis](https://github.com/hariesramdhani/winter-internship-2017/blob/master/src/Proteomics%20Genes%20GO%20Enrichment%20Analysis.ipynb)
 - [x] [RNA-Seq Genes GO Enrichment Analysis](https://github.com/hariesramdhani/winter-internship-2017/blob/master/src/RNA-Seq%20Genes%20GO%20Enrichment%20Analysis.ipynb)
@@ -13,7 +13,7 @@ Analyses were perfomed in Python and R, depend on the necessities. The final pro
 - [ ] [DESeq2-like Analyzer in Python](https://github.com/hariesramdhani/winter-internship-2017/blob/master/src/DESeq2-like%20Analyzer%20in%20Python.ipynb)
 
 ### Final Reports
-Final reports are reports that were written at the end of each stage, the first stage was developing the program to retrieve data sets from GEO Database while the second stage is analyzing the RNA-Seq data of Parkinson disease. Final reports are in the .docx (Microsoft Word 2007++) extension.
+Final reports are reports that were written at the end of each stage, the first stage was developing the program to retrieve data sets from GEO Database while the second stage is analyzing the RNA-Seq data of Parkinson disease. Final reports are in the `.docx` (Microsoft Word 2007++) extension.
 - [x] [Stage 1: Report](https://github.com/hariesramdhani/winter-internship-2017/blob/master/report/Internship%20Report%201.pdf)
 - [ ] Stage 2: Report
 
