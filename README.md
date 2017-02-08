@@ -14,10 +14,12 @@ Analyses were perfomed in Python and R, depend on the necessities. The final pro
 
 
 ### Final Reports
+Final reports are reports that were written at the end of each stage, the first stage was developing the program to retrieve data sets from GEO Database while the second stage is analyzing the RNA-Seq data of Parkinson disease. Final reports are in the .docx (Microsoft Word 2007++) extension.
 - [x] [Stage 1: Report](https://github.com/hariesramdhani/winter-internship-2017/blob/master/report/Internship%20Report%201.pdf)
 - [ ] Stage 2: Report
 
 ### Daily Logs
+Daily logs contain summary of what I did each day during the internship, I usually update them every weekend since during weekdays I mostly focused understanding new things and working on the projects.
 - [x] [Day 0 - January 17, 2017](https://github.com/hariesramdhani/winter-internship-2017/wiki/Day-0)
 - [x] [Day 1 - January 18, 2017](https://github.com/hariesramdhani/winter-internship-2017/wiki/Day-1)
 - [x] [Day 2 - January 19, 2017](https://github.com/hariesramdhani/winter-internship-2017/wiki/Day-2)
@@ -27,6 +29,7 @@ Analyses were perfomed in Python and R, depend on the necessities. The final pro
   <br>[see more...](https://github.com/hariesramdhani/winter-internship-2017/blob/master/dailyLogs.md)</br>
 
 ### Data Sources
+These are the collections of data that are used for the project/analyses, majority of these datas are gathered from all over the internet, mostly fom big databases.
 - [Integrative analyses of proteomics and RNA transcriptomics implicate mitochondrial processes, protein folding pathways and GWAS loci in Parkinson disease. BMC Med Genomics 2016 Jan 21;9:5. PMID: 26793951](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE68719)
 - TBW
 - TBW
