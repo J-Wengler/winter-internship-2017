@@ -7,7 +7,7 @@ This repository contains codes that are/were written from my 1st to my 20th day 
 ### Analyses and Reports
 - [x] [Distribution of Log Fold Change](https://github.com/hariesramdhani/winter-internship-2017/blob/master/src/Distribution%20of%20Log%20Fold%20Change.ipynb)
 - [x] [Proteomics Genes GO Enrichment Analysis](https://github.com/hariesramdhani/winter-internship-2017/blob/master/src/Proteomics%20Genes%20GO%20Enrichment%20Analysis.ipynb)
-- [ ] [RNA-Seq Genes GO Enrichment Analysis](https://github.com/hariesramdhani/winter-internship-2017/blob/master/src/RNA-Seq%20Genes%20GO%20Enrichment%20Analysis.ipynb)
+- [x] [RNA-Seq Genes GO Enrichment Analysis](https://github.com/hariesramdhani/winter-internship-2017/blob/master/src/RNA-Seq%20Genes%20GO%20Enrichment%20Analysis.ipynb)
 - [ ] [msigDB Canonical Pathway Analysis Proteomics and RNA-Seq Genes](https://github.com/hariesramdhani/winter-internship-2017/blob/master/src/msigDB%20Canonical%20Pathway%20Analysis%20Proteomics%20and%20RNA-Seq%20Genes.ipynb)
 - [ ] [DESeq2-like Analyzer in Python](https://github.com/hariesramdhani/winter-internship-2017/blob/master/src/DESeq2-like%20Analyzer%20in%20Python.ipynb)
 
