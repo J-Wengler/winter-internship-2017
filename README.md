@@ -29,7 +29,14 @@ Daily logs contain summary of what I did each day during the internship, I usual
 - [x] [Day 4 - January 23, 2017](https://github.com/hariesramdhani/winter-internship-2017/wiki/Day-4) 
 - [x] [Day 5 - January 24, 2017](https://github.com/hariesramdhani/winter-internship-2017/wiki/Day-5)
   <br>[see more...](https://github.com/hariesramdhani/winter-internship-2017/blob/master/dailyLogs.md)</br>
-  
+
+
+### Raw Notes
+Collections of writings that I wrote in my notebook during internships.
+
+### Staj Defteri (Internship's Notebook)
+in Turkish </tbw/>
+
 ### Data Sources
 These are the collections of data that are used for the project/analyses, majority of these data are gathered from all over the internet, mostly from big databases. The data are stored in the `~/data` folder.
 - [Integrative analyses of proteomics and RNA transcriptomics implicate mitochondrial processes, protein folding pathways and GWAS loci in Parkinson disease. BMC Med Genomics 2016 Jan 21;9:5. PMID: 26793951](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE68719)
