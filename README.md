@@ -10,6 +10,7 @@ Analyses were perfomed in Python and R, depend on the necessities. The final pro
 - [x] [MS3 Proteins Gene Set Enrichment Analysis](https://github.com/hariesramdhani/winter-internship-2017/blob/master/src/Proteomics%20Genes%20GO%20Enrichment%20Analysis.ipynb)
 - [x] [RNA-Seq Genes Gene Set Enrichment Analysis](https://github.com/hariesramdhani/winter-internship-2017/blob/master/src/RNA-Seq%20Genes%20GO%20Enrichment%20Analysis.ipynb)
 - [x] [msigDB Canonical Pathway Analysis Proteomics and RNA-Seq Genes](https://github.com/hariesramdhani/winter-internship-2017/blob/master/src/msigDB%20Canonical%20Pathway%20Analysis%20Proteomics%20and%20RNA-Seq%20Genes.ipynb)
+- [ ] [Comparison between Alzheimer's and Parkinson's Disease](https://github.com/hariesramdhani/winter-internship-2017/blob/master/src/Comparison%20between%20Alzheimer's%20and%20Parkinson's%20Disease.ipynb)
 - [ ] Further Analysis
 - [ ] [DESeq2-like Analyzer in Python](https://github.com/hariesramdhani/winter-internship-2017/blob/master/src/DESeq2-like%20Analyzer%20in%20Python.ipynb)
 
