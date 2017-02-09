@@ -9,11 +9,11 @@ Analyses were perfomed in Python and R, depend on the necessities. The final pro
 - [x] [Distribution of Log Fold Change](https://github.com/hariesramdhani/winter-internship-2017/blob/master/src/Distribution%20of%20Log%20Fold%20Change.ipynb)
 - [x] [MS3 Proteins Gene Set Enrichment Analysis](https://github.com/hariesramdhani/winter-internship-2017/blob/master/src/Proteomics%20Genes%20GO%20Enrichment%20Analysis.ipynb)
 - [x] [RNA-Seq Genes Gene Set Enrichment Analysis](https://github.com/hariesramdhani/winter-internship-2017/blob/master/src/RNA-Seq%20Genes%20GO%20Enrichment%20Analysis.ipynb)
-- [x] [msigDB Canonical Pathway Analysis Proteomics and RNA-Seq Genes](https://github.com/hariesramdhani/winter-internship-2017/blob/master/src/msigDB%20Canonical%20Pathway%20Analysis%20Proteomics%20and%20RNA-Seq%20Genes.ipynb)
-- [ ] [Comparison between Alzheimer's and Parkinson's Disease](https://github.com/hariesramdhani/winter-internship-2017/blob/master/src/Comparison%20between%20Alzheimer's%20and%20Parkinson's%20Disease.ipynb)
-- [ ] [Volcano Plot of RNA-Seq and MS3 Proteomics Data](https://github.com/hariesramdhani/winter-internship-2017/blob/master/src/%20Volcano%20Plot%20of%20RNA-Seq%20and%20MS3%20Proteomics%20Data.ipynb)
+- [x] [msigDB Canonical Pathway Analysis Proteomics and RNA-Seq Genes](https://github.com/hariesramdhani/winter-internship-2017/blob/master/src/msigDB%20Canonical%20Pathway%20Analysis%20Proteomics%20and%20RNA-Seq%20Genes.ipynb) (*annotating*...:running:)
+- [ ] [Comparison between Alzheimer's and Parkinson's Disease](https://github.com/hariesramdhani/winter-internship-2017/blob/master/src/Comparison%20between%20Alzheimer's%20and%20Parkinson's%20Disease.ipynb) (*updating*...:running:)
+- [ ] [Volcano Plot of RNA-Seq and MS3 Proteomics Data](https://github.com/hariesramdhani/winter-internship-2017/blob/master/src/%20Volcano%20Plot%20of%20RNA-Seq%20and%20MS3%20Proteomics%20Data.ipynb) (*updating*...:running:)
 - [ ] Further Analysis
-- [ ] [DESeq2-like Analyzer in Python](https://github.com/hariesramdhani/winter-internship-2017/blob/master/src/DESeq2-like%20Analyzer%20in%20Python.ipynb)
+- [ ] [DESeq2-like Analyzer in Python](https://github.com/hariesramdhani/winter-internship-2017/blob/master/src/DESeq2-like%20Analyzer%20in%20Python.ipynb) (*updating*...:running:)
 
 ### Final Reports
 Final reports are reports that were written at the end of each stage, the first stage was developing the program to retrieve data sets from GEO Database while the second stage is analyzing the RNA-Seq data of Parkinson disease. Final reports are in the `.docx` (Microsoft Word 2007++) extension.
