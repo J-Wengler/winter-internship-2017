@@ -13,7 +13,11 @@ Analyses were perfomed in Python and R, depend on the necessities. The final pro
 - [ ] [Comparison between Alzheimer's and Parkinson's Disease](https://github.com/hariesramdhani/winter-internship-2017/blob/master/src/Comparison%20between%20Alzheimer's%20and%20Parkinson's%20Disease.ipynb) (*updating*...:running:)
 - [ ] [Volcano Plot of RNA-Seq and MS3 Proteomics Data](https://github.com/hariesramdhani/winter-internship-2017/blob/master/src/%20Volcano%20Plot%20of%20RNA-Seq%20and%20MS3%20Proteomics%20Data.ipynb) (*updating*...:running:)
 - [ ] Further Analysis
+- [ ] Distribution of Log Fold Change of Alz
 - [ ] [DESeq2-like Analyzer in Python](https://github.com/hariesramdhani/winter-internship-2017/blob/master/src/DESeq2-like%20Analyzer%20in%20Python.ipynb) (*updating*...:running:)
+
+**Tools**
+- [ ] Quality Assessor, Table Simplifier, CSV Exporter
 
 ### Final Reports
 Final reports are reports that were written at the end of each stage, the first stage was developing the program to retrieve data sets from GEO Database while the second stage is analyzing the RNA-Seq data of Parkinson disease. Final reports are in the `.docx` (Microsoft Word 2007++) extension.
