@@ -13,7 +13,9 @@ Analyses were perfomed in Python and R, depend on the necessities. The final pro
 - [ ] [Comparison between Alzheimer's and Parkinson's Disease](https://github.com/hariesramdhani/winter-internship-2017/blob/master/src/Comparison%20between%20Alzheimer's%20and%20Parkinson's%20Disease.ipynb) (*updating*...:running:)
 - [ ] [Volcano Plot of RNA-Seq and MS3 Proteomics Data](https://github.com/hariesramdhani/winter-internship-2017/blob/master/src/%20Volcano%20Plot%20of%20RNA-Seq%20and%20MS3%20Proteomics%20Data.ipynb) (*updating*...:running:)
 - [ ] Further Analysis
-- [ ] Distribution of Log Fold Change of Alz
+- [ ] [Distribution of Log Fold Changes of Huntington's Disease and Comparison to Parkinson's Disease](https://github.com/hariesramdhani/winter-internship-2017/blob/master/src/Distribution%20of%20Log%20Fold%20Change%20Huntington's%20Disease.ipynb) (*initializing*...:running:)
+- [ ] [Gene Set Enrichment Analysis of Huntington's Disease](https://github.com/hariesramdhani/winter-internship-2017/blob/master/src/GSEA%20Huntington's%20Disease.ipynb) (*initializing*...:running:)
+- [ ] Distribution of Log Fold Changes of Alzheimer's Disease
 - [ ] [DESeq2-like Analyzer in Python](https://github.com/hariesramdhani/winter-internship-2017/blob/master/src/DESeq2-like%20Analyzer%20in%20Python.ipynb) (*updating*...:running:)
 
 **Tools**
