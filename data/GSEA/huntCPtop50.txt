@@ -1,0 +1,21 @@
+GeneSet	GenesInGS(K)	Desc	GenesinOL(k)	k/K	pValue	qValue
+REACTOME_AMINO_ACID_TRANSPORT_ACROSS_THE_PLASMA_MEMBRANE	31	Genes involved in Amino acid transport across the plasma membrane	3	0.0968	5.01E-6	6.66E-3
+REACTOME_AMINO_ACID_AND_OLIGOPEPTIDE_SLC_TRANSPORTERS	49	Genes involved in Amino acid and oligopeptide SLC transporters	3	0.0612	2.03E-5	1.35E-2
+REACTOME_KERATAN_SULFATE_DEGRADATION	11	Genes involved in Keratan sulfate degradation	2	0.1818	6.09E-5	2.11E-2
+REACTOME_MYD88_MAL_CASCADE_INITIATED_ON_PLASMA_MEMBRANE	83	Genes involved in MyD88:Mal cascade initiated on plasma membrane	3	0.0361	9.86E-5	2.11E-2
+NABA_MATRISOME	1028	Ensemble of genes encoding extracellular matrix and extracellular matrix-associated proteins	7	0.0068	1.04E-4	2.11E-2
+KEGG_APOPTOSIS	88	Apoptosis	3	0.0341	1.17E-4	2.11E-2
+REACTOME_SLC_MEDIATED_TRANSMEMBRANE_TRANSPORT	241	Genes involved in SLC-mediated transmembrane transport	4	0.0166	1.3E-4	2.11E-2
+REACTOME_ACTIVATED_TLR4_SIGNALLING	93	Genes involved in Activated TLR4 signalling	3	0.0323	1.38E-4	2.11E-2
+REACTOME_TRANSPORT_OF_INORGANIC_CATIONS_ANIONS_AND_AMINO_ACIDS_OLIGOPEPTIDES	94	Genes involved in Transport of inorganic cations/anions and amino acids/oligopeptides	3	0.0319	1.43E-4	2.11E-2
+REACTOME_RIP_MEDIATED_NFKB_ACTIVATION_VIA_DAI	18	Genes involved in RIP-mediated NFkB activation via DAI	2	0.1111	1.69E-4	2.24E-2
+REACTOME_TRAF6_MEDIATED_NFKB_ACTIVATION	21	Genes involved in TRAF6 mediated NF-kB activation	2	0.0952	2.31E-4	2.79E-2
+REACTOME_TAK1_ACTIVATES_NFKB_BY_PHOSPHORYLATION_AND_ACTIVATION_OF_IKKS_COMPLEX	23	Genes involved in TAK1 activates NFkB by phosphorylation and activation of IKKs complex	2	0.0870	2.78E-4	2.85E-2
+REACTOME_TOLL_RECEPTOR_CASCADES	118	Genes involved in Toll Receptor Cascades	3	0.0254	2.79E-4	2.85E-2
+BIOCARTA_NTHI_PATHWAY	24	NFkB activation by Nontypeable Hemophilus influenzae	2	0.0833	3.03E-4	2.87E-2
+REACTOME_KERATAN_SULFATE_BIOSYNTHESIS	26	Genes involved in Keratan sulfate biosynthesis	2	0.0769	3.56E-4	3.15E-2
+ST_GAQ_PATHWAY	28	G alpha q Pathway	2	0.0714	4.14E-4	3.44E-2
+REACTOME_KERATAN_SULFATE_KERATIN_METABOLISM	30	Genes involved in Keratan sulfate/keratin metabolism	2	0.0667	4.75E-4	3.72E-2
+PID_AVB3_OPN_PATHWAY	31	Osteopontin-mediated events	2	0.0645	5.08E-4	3.75E-2
+NABA_PROTEOGLYCANS	35	Genes encoding proteoglycans	2	0.0571	6.48E-4	4.53E-2
+BIOCARTA_TOLL_PATHWAY	37	Toll-Like Receptor Pathway	2	0.0541	7.24E-4	4.58E-2

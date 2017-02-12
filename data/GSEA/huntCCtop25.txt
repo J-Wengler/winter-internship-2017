@@ -1,0 +1,2 @@
+GeneSet	GenesInGS(K)	Desc	GenesinOL(k)	k/K	pValue	qValue
+GO_TRANSCRIPTION_FACTOR_COMPLEX	298	A protein complex that is capable of associating with DNA by direct binding, or via other DNA-binding proteins or complexes, and regulating transcription.	4	0.0134	1.97E-5	1.15E-2

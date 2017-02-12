@@ -1,0 +1,21 @@
+GeneSet	GenesInGS(K)	Desc	GenesinOL(k)	k/K	pValue	qValue
+BLALOCK_ALZHEIMERS_DISEASE_UP	1691	Genes up-regulated in brain from patients with Alzheimer's disease.	196	0.1159	2.41E-65	8.21E-62
+CHEN_METABOLIC_SYNDROM_NETWORK	1210	Genes forming the macrophage-enriched metabolic network (MEMN) claimed to have a causal relationship with the metabolic syndrom traits.	164	0.1355	5E-64	8.5E-61
+MCLACHLAN_DENTAL_CARIES_UP	254	Genes up-regulated in pulpal tissue extracted from carious teeth.	82	0.3228	6.91E-63	7.83E-60
+SCHUETZ_BREAST_CANCER_DUCTAL_INVASIVE_UP	351	Genes up-regulated in invasive ductal carcinoma (IDC) relative to ductal carcinoma in situ (DCIS, non-invasive).	78	0.2222	2.11E-46	1.79E-43
+MEISSNER_BRAIN_HCP_WITH_H3K4ME3_AND_H3K27ME3	1069	Genes with high-CpG-density promoters (HCP) bearing histone H3 dimethylation at K4 (H3K4me2) and trimethylation at K27 (H3K27me3) in brain.	127	0.1188	3.72E-43	2.53E-40
+PILON_KLF1_TARGETS_DN	1972	Genes down-regulated in erythroid progenitor cells from fetal livers of E13.5 embryos with KLF1 [GeneID=10661] knockout compared to those from the wild type embryos.	172	0.0872	4.11E-40	2.21E-37
+SMID_BREAST_CANCER_LUMINAL_B_DN	564	Genes down-regulated in the luminal B subtype of breast cancer.	89	0.1578	4.55E-40	2.21E-37
+JAATINEN_HEMATOPOIETIC_STEM_CELL_DN	226	Genes down-regulated in CD133+ [GeneID=8842] cells (hematopoietic stem cells, HSC) compared to the CD133- cells.	58	0.2566	1.63E-38	6.94E-36
+VERHAAK_GLIOBLASTOMA_MESENCHYMAL	216	Genes correlated with mesenchymal type of glioblastoma multiforme tumors.	56	0.2593	1.74E-37	6.56E-35
+LINDGREN_BLADDER_CANCER_CLUSTER_2B	392	Genes specifically up-regulated in Cluster IIb of urothelial cell carcinom (UCC) tumors.	71	0.1811	3.87E-36	1.32E-33
+THUM_SYSTOLIC_HEART_FAILURE_UP	423	Genes up-regulated in samples with systolic heart failure compared to normal hearts.	73	0.1726	1.13E-35	3.49E-33
+CHYLA_CBFA2T3_TARGETS_UP	387	Genes up-regulated in immature bone marrow progenitor cells upon knock out of CBFA2T3 [GeneID=863].	70	0.1809	1.32E-35	3.74E-33
+KOINUMA_TARGETS_OF_SMAD2_OR_SMAD3	824	Genes with promoters occupied by SMAD2 or SMAD3 [GeneID=4087, 4088] in HaCaT cells (keratinocyte) according to a ChIP-chip analysis.	100	0.1214	7.55E-35	1.97E-32
+FULCHER_INFLAMMATORY_RESPONSE_LECTIN_VS_LPS_DN	463	Genes down-regulated in monocyte-derived dendritic cells (MDDC) after stimulation with galecin-1 (lectin, LGALS1) [GeneID=3956] compared to that with bacterial lipopolysaccharide (LPS).	75	0.1620	1.07E-34	2.47E-32
+LU_AGING_BRAIN_UP	262	Age up-regulated genes in the human frontal cortex.	58	0.2214	1.09E-34	2.47E-32
+CHARAFE_BREAST_CANCER_LUMINAL_VS_BASAL_DN	455	Genes down-regulated in luminal-like breast cancer cell lines compared to the basal-like ones.	74	0.1626	2.28E-34	4.85E-32
+MARTINEZ_RB1_AND_TP53_TARGETS_UP	601	Genes up-regulated in mice with skin specific double knockout of both RB1 and TP53 [GeneID=5925;7157] by Cre-lox.	83	0.1381	4.27E-33	8.55E-31
+BENPORATH_SUZ12_TARGETS	1038	Set 'Suz12 targets': genes identified by ChIP on chip as targets of the Polycomb protein SUZ12 [GeneID=23512] in human embryonic stem cells.	110	0.1060	6.56E-33	1.24E-30
+WALLACE_PROSTATE_CANCER_RACE_UP	299	Genes up-regulated in prostate cancer samples from African-American patients compared to those from the European-American patients.	59	0.1973	2.4E-32	4.3E-30
+BENPORATH_EED_TARGETS	1062	Set 'Eed targets': genes identified by ChIP on chip as targets of the Polycomb protein EED [GeneID=8726] in human embryonic stem cells.	110	0.1036	4.96E-32	8.43E-30

@@ -1,0 +1,21 @@
+GeneSet	GenesInGS(K)	Desc	GenesinOL(k)	k/K	pValue	qValue
+NABA_MATRISOME	1028	Ensemble of genes encoding extracellular matrix and extracellular matrix-associated proteins	64	0.0623	1.61E-22	2.14E-19
+NABA_MATRISOME_ASSOCIATED	753	Ensemble of genes encoding ECM-associated proteins including ECM-affilaited proteins, ECM regulators and secreted factors	44	0.0584	7.83E-15	5.2E-12
+REACTOME_IMMUNE_SYSTEM	933	Genes involved in Immune System	43	0.0461	4E-11	1.77E-8
+REACTOME_INNATE_IMMUNE_SYSTEM	279	Genes involved in Innate Immune System	22	0.0789	1.77E-10	4.72E-8
+PID_P53_DOWNSTREAM_PATHWAY	137	Direct p53 effectors	16	0.1168	1.78E-10	4.72E-8
+REACTOME_SLC_MEDIATED_TRANSMEMBRANE_TRANSPORT	241	Genes involved in SLC-mediated transmembrane transport	20	0.0830	4.86E-10	9.13E-8
+KEGG_LEISHMANIA_INFECTION	72	Leishmania infection	12	0.1667	5.23E-10	9.13E-8
+REACTOME_TRANSMEMBRANE_TRANSPORT_OF_SMALL_MOLECULES	413	Genes involved in Transmembrane transport of small molecules	26	0.0630	5.5E-10	9.13E-8
+NABA_CORE_MATRISOME	275	Ensemble of genes encoding core extracellular matrix including ECM glycoproteins, collagens and proteoglycans	20	0.0727	4.78E-9	7.07E-7
+REACTOME_TRANSPORT_OF_GLUCOSE_AND_OTHER_SUGARS_BILE_SALTS_AND_ORGANIC_ACIDS_METAL_IONS_AND_AMINE_COMPOUNDS	89	Genes involved in Transport of glucose and other sugars, bile salts and organic acids, metal ions and amine compounds	12	0.1348	6.47E-9	8.59E-7
+PID_MYC_REPRESS_PATHWAY	63	Validated targets of C-MYC transcriptional repression	10	0.1587	2.38E-8	2.88E-6
+PID_CXCR4_PATHWAY	102	CXCR4-mediated signaling events	12	0.1176	3.1E-8	3.44E-6
+PID_CMYB_PATHWAY	84	C-MYB transcription factor network	11	0.1310	3.77E-8	3.86E-6
+REACTOME_TOLL_RECEPTOR_CASCADES	118	Genes involved in Toll Receptor Cascades	12	0.1017	1.59E-7	1.51E-5
+KEGG_CYTOKINE_CYTOKINE_RECEPTOR_INTERACTION	267	Cytokine-cytokine receptor interaction	17	0.0637	4.5E-7	3.99E-5
+REACTOME_GLYCOSAMINOGLYCAN_METABOLISM	111	Genes involved in Glycosaminoglycan metabolism	11	0.0991	6.76E-7	5.32E-5
+KEGG_COMPLEMENT_AND_COAGULATION_CASCADES	69	Complement and coagulation cascades	9	0.1304	6.81E-7	5.32E-5
+PID_AP1_PATHWAY	70	AP-1 transcription factor network	9	0.1286	7.72E-7	5.43E-5
+REACTOME_METABOLISM_OF_CARBOHYDRATES	247	Genes involved in Metabolism of carbohydrates	16	0.0648	7.77E-7	5.43E-5
+BIOCARTA_TOLL_PATHWAY	37	Toll-Like Receptor Pathway	7	0.1892	9E-7	5.98E-5

@@ -1,0 +1,22 @@
+GeneSet	GenesInGS(K)	Desc	GenesinOL(k)	k/K	pValue	qValue
+MEISSNER_BRAIN_HCP_WITH_H3K27ME3	269	Genes with high-CpG-density promoters (HCP) bearing the H3K27 tri-methylation (H3K27me3) mark in brain.	22	0.0818	4.87E-23	1.66E-19
+CHEN_LVAD_SUPPORT_OF_FAILING_HEART_UP	103	Up-regulated genesin the left ventricle myocardium of patients with heart failure following implantation of LVAD (left ventricular assist device).	14	0.1359	3.18E-18	5.41E-15
+BENPORATH_EED_TARGETS	1062	Set 'Eed targets': genes identified by ChIP on chip as targets of the Polycomb protein EED [GeneID=8726] in human embryonic stem cells.	30	0.0282	7.2E-18	8.16E-15
+MIKKELSEN_NPC_HCP_WITH_H3K27ME3	341	Genes with high-CpG-density promoters (HCP) bearing histone H3 trimethylation mark at K27 (H3K27me3) in neural progenitor cells (NPC).	18	0.0528	1.14E-15	8.92E-13
+NAKAMURA_ADIPOGENESIS_EARLY_UP	66	Genes up-regulated in mesenchymal stem cells during early phase of adipogenesis, defined as days 1 to 5 of culturing with adipogenic hormones.	11	0.1667	1.31E-15	8.92E-13
+MCLACHLAN_DENTAL_CARIES_UP	254	Genes up-regulated in pulpal tissue extracted from carious teeth.	16	0.0630	2.99E-15	1.69E-12
+VECCHI_GASTRIC_CANCER_EARLY_DN	367	Down-regulated genes distinguishing between early gastric cancer (EGC) and normal tissue samples.	18	0.0490	4.07E-15	1.89E-12
+SMID_BREAST_CANCER_LUMINAL_B_DN	564	Genes down-regulated in the luminal B subtype of breast cancer.	21	0.0372	4.44E-15	1.89E-12
+BENPORATH_SUZ12_TARGETS	1038	Set 'Suz12 targets': genes identified by ChIP on chip as targets of the Polycomb protein SUZ12 [GeneID=23512] in human embryonic stem cells.	26	0.0250	2.3E-14	8.68E-12
+DELYS_THYROID_CANCER_DN	232	Genes down-regulated in papillary thyroid carcinoma (PTC) compared to normal tissue.	14	0.0603	3.07E-13	1.04E-10
+SARRIO_EPITHELIAL_MESENCHYMAL_TRANSITION_DN	154	Genes down-regulated in MCF10A cells (breast cancer) grown at low (mesenchymal phenotype) compared to those grown at high (epithelial, basal-like phenotype) confluency.	12	0.0779	7.74E-13	2.39E-10
+BENPORATH_ES_WITH_H3K27ME3	1118	Set 'H3K27 bound': genes posessing the trimethylated H3K27 (H3K27me3) mark in their promoters in human embryonic stem cells, as identified by ChIP on chip.	25	0.0224	9.19E-13	2.6E-10
+CHARAFE_BREAST_CANCER_LUMINAL_VS_BASAL_DN	455	Genes down-regulated in luminal-like breast cancer cell lines compared to the basal-like ones.	17	0.0374	1.93E-12	5.05E-10
+MEISSNER_NPC_HCP_WITH_H3K27ME3	79	Genes with high-CpG-density promoters (HCP) bearing the H3K27 tri-methylation (H3K27me3) mark in neural precursor cells (NPC).	9	0.1139	1.92E-11	4.66E-9
+LINDGREN_BLADDER_CANCER_CLUSTER_2B	392	Genes specifically up-regulated in Cluster IIb of urothelial cell carcinom (UCC) tumors.	15	0.0383	2.92E-11	6.61E-9
+BLALOCK_ALZHEIMERS_DISEASE_UP	1691	Genes up-regulated in brain from patients with Alzheimer's disease.	28	0.0166	4.25E-11	9.01E-9
+ZHENG_RESPONSE_TO_ARSENITE_UP	18	Up-regulated in HEK293 cells (kidney epithelium) by treatment with sodium arsenite [PubChem=26435].	6	0.3333	4.5E-11	9.01E-9
+RUTELLA_RESPONSE_TO_HGF_VS_CSF2RB_AND_IL4_UP	408	Genes up-regulated in peripheral blood mononucleocytes by HGF [GeneID=3082] compared to those regulated by CSF2RB (GM-CSF) and IL4 [GeneID=1437;3565].	15	0.0368	5.1E-11	9.64E-9
+ALTEMEIER_RESPONSE_TO_LPS_WITH_MECHANICAL_VENTILATION	128	Genes up-regulated in lung tissue upon LPS aspiration with mechanical ventilation (MV) compared to control (PBS aspiration without MV).	10	0.0781	6.42E-11	1.15E-8
+WANG_MLL_TARGETS	289	Genes requiring MLL [GeneID=4297] for H3K4me3 and expression in MEF cells (embryonic fibroblast).	13	0.0450	8.76E-11	1.49E-8
+

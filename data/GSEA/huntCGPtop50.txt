@@ -1,0 +1,21 @@
+GeneSet	GenesInGS(K)	Desc	GenesinOL(k)	k/K	pValue	qValue
+MEISSNER_BRAIN_HCP_WITH_H3K27ME3	269	Genes with high-CpG-density promoters (HCP) bearing the H3K27 tri-methylation (H3K27me3) mark in brain.	14	0.0520	2.22E-20	7.54E-17
+BENPORATH_ES_WITH_H3K27ME3	1118	Set 'H3K27 bound': genes posessing the trimethylated H3K27 (H3K27me3) mark in their promoters in human embryonic stem cells, as identified by ChIP on chip.	15	0.0134	4.1E-13	6.98E-10
+MIKKELSEN_NPC_HCP_WITH_H3K27ME3	341	Genes with high-CpG-density promoters (HCP) bearing histone H3 trimethylation mark at K27 (H3K27me3) in neural progenitor cells (NPC).	10	0.0293	2.82E-12	3.08E-9
+BENPORATH_EED_TARGETS	1062	Set 'Eed targets': genes identified by ChIP on chip as targets of the Polycomb protein EED [GeneID=8726] in human embryonic stem cells.	14	0.0132	3.62E-12	3.08E-9
+BENPORATH_SUZ12_TARGETS	1038	Set 'Suz12 targets': genes identified by ChIP on chip as targets of the Polycomb protein SUZ12 [GeneID=23512] in human embryonic stem cells.	13	0.0125	4.58E-11	3.11E-8
+MEISSNER_NPC_HCP_WITH_H3K27ME3	79	Genes with high-CpG-density promoters (HCP) bearing the H3K27 tri-methylation (H3K27me3) mark in neural precursor cells (NPC).	6	0.0759	2.8E-10	1.59E-7
+NIKOLSKY_BREAST_CANCER_7P15_AMPLICON	11	Genes within amplicon 7p15 identified in a copy number alterations study of 191 breast tumor samples.	4	0.3636	3.74E-10	1.82E-7
+WANG_MLL_TARGETS	289	Genes requiring MLL [GeneID=4297] for H3K4me3 and expression in MEF cells (embryonic fibroblast).	8	0.0277	8.01E-10	3.4E-7
+CHEN_LVAD_SUPPORT_OF_FAILING_HEART_UP	103	Up-regulated genesin the left ventricle myocardium of patients with heart failure following implantation of LVAD (left ventricular assist device).	6	0.0583	1.41E-9	5.24E-7
+BENPORATH_PRC2_TARGETS	652	Set 'PRC2 targets': Polycomb Repression Complex 2 (PRC) targets; identified by ChIP on chip on human embryonic stem cells as genes that: posess the trimethylated H3K27 mark in their promoters and are bound by SUZ12 [GeneID=23512] and EED [GeneID=8726] Polycomb proteins.	10	0.0153	1.54E-9	5.24E-7
+SMID_BREAST_CANCER_LUMINAL_B_DN	564	Genes down-regulated in the luminal B subtype of breast cancer.	9	0.0160	7.87E-9	2.43E-6
+MIKKELSEN_IPS_WITH_HCP_H3K27ME3	102	Genes with high-CpG-density promoters (HCP) bearing the tri-methylation mark at H3K27 (H3K27me3) in MCV8.1 (induced pluripotent cells, iPS).	5	0.0490	8.61E-8	2.44E-5
+ZHANG_RESPONSE_TO_IKK_INHIBITOR_AND_TNF_UP	223	Genes up-regulated in BxPC3 cells (pancreatic cancer) after treatment with TNF [GeneID=7124] or IKI-1, an inhibitor of IkappaB kinase (IKK).	6	0.0269	1.43E-7	3.75E-5
+WONG_ADULT_TISSUE_STEM_MODULE	721	The 'adult tissue stem' module: genes coordinately up-regulated in a compendium of adult tissue stem cells.	8	0.0111	9.03E-7	2.19E-4
+KATSANOU_ELAVL1_TARGETS_UP	169	Genes up-regulated in MEF cells (embryonic fibroblast) with ELAVL1 [GeneID=1994] knocked out.	5	0.0296	1.06E-6	2.4E-4
+HESS_TARGETS_OF_HOXA9_AND_MEIS1_DN	77	Genes down-regulated in hematopoietic precursor cells conditionally expressing HOXA9 and MEIS1 [GeneID=3205;4211].	4	0.0519	1.46E-6	3.1E-4
+TAKEDA_TARGETS_OF_NUP98_HOXA9_FUSION_6HR_UP	85	Genes up-rgulated in CD34+ [GeneID=947] hematopoetic cells by expression of NUP98-HOXA9 fusion [GeneID=4928;3205] off a retroviral vector at 6h.	4	0.0471	2.17E-6	4.33E-4
+HINATA_NFKB_TARGETS_KERATINOCYTE_UP	91	Genes up-regulated in primary keratinocytes by expression of p50 (NFKB1) and p65 (RELA) [GeneID=4790;5970] components of NFKB.	4	0.0440	2.85E-6	5.38E-4
+RUTELLA_RESPONSE_TO_HGF_VS_CSF2RB_AND_IL4_UP	408	Genes up-regulated in peripheral blood mononucleocytes by HGF [GeneID=3082] compared to those regulated by CSF2RB (GM-CSF) and IL4 [GeneID=1437;3565].	6	0.0147	4.78E-6	8.55E-4
+PLASARI_TGFB1_TARGETS_10HR_DN	244	Genes down-regulated in MEF cells (embryonic fibroblast) upon stimulation with TGFB1 [GeneID=7040] for 10 h.	5	0.0205	6.38E-6	1.08E-3

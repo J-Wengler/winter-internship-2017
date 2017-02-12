@@ -1,0 +1,21 @@
+GeneSet	GenesInGS(K)	Desc	GenesinOL(k)	k/K	pValue	qValue
+REACTOME_SLC_MEDIATED_TRANSMEMBRANE_TRANSPORT	241	Genes involved in SLC-mediated transmembrane transport	8	0.0332	3.92E-6	3.76E-3
+REACTOME_TOLL_RECEPTOR_CASCADES	118	Genes involved in Toll Receptor Cascades	6	0.0508	5.87E-6	3.76E-3
+NABA_MATRISOME	1028	Ensemble of genes encoding extracellular matrix and extracellular matrix-associated proteins	15	0.0146	8.49E-6	3.76E-3
+REACTOME_TRANSPORT_OF_GLUCOSE_AND_OTHER_SUGARS_BILE_SALTS_AND_ORGANIC_ACIDS_METAL_IONS_AND_AMINE_COMPOUNDS	89	Genes involved in Transport of glucose and other sugars, bile salts and organic acids, metal ions and amine compounds	5	0.0562	2.23E-5	7.41E-3
+KEGG_TOLL_LIKE_RECEPTOR_SIGNALING_PATHWAY	102	Toll-like receptor signaling pathway	5	0.0490	4.3E-5	1.14E-2
+REACTOME_IMMUNE_SYSTEM	933	Genes involved in Immune System	13	0.0139	5.51E-5	1.14E-2
+KEGG_HEDGEHOG_SIGNALING_PATHWAY	56	Hedgehog signaling pathway	4	0.0714	5.98E-5	1.14E-2
+KEGG_CYTOKINE_CYTOKINE_RECEPTOR_INTERACTION	267	Cytokine-cytokine receptor interaction	7	0.0262	7.14E-5	1.19E-2
+REACTOME_TAK1_ACTIVATES_NFKB_BY_PHOSPHORYLATION_AND_ACTIVATION_OF_IKKS_COMPLEX	23	Genes involved in TAK1 activates NFkB by phosphorylation and activation of IKKs complex	3	0.1304	8.63E-5	1.25E-2
+REACTOME_INNATE_IMMUNE_SYSTEM	279	Genes involved in Innate Immune System	7	0.0251	9.39E-5	1.25E-2
+PID_INSULIN_GLUCOSE_PATHWAY	26	Insulin-mediated glucose transport	3	0.1154	1.26E-4	1.52E-2
+NABA_MATRISOME_ASSOCIATED	753	Ensemble of genes encoding ECM-associated proteins including ECM-affilaited proteins, ECM regulators and secreted factors	11	0.0146	1.38E-4	1.53E-2
+KEGG_LEISHMANIA_INFECTION	72	Leishmania infection	4	0.0556	1.6E-4	1.58E-2
+PID_P53_DOWNSTREAM_PATHWAY	137	Direct p53 effectors	5	0.0365	1.74E-4	1.58E-2
+REACTOME_TRANSMEMBRANE_TRANSPORT_OF_SMALL_MOLECULES	413	Genes involved in Transmembrane transport of small molecules	8	0.0194	1.78E-4	1.58E-2
+REACTOME_TRAF6_MEDIATED_INDUCTION_OF_NFKB_AND_MAP_KINASES_UPON_TLR7_8_OR_9_ACTIVATION	77	Genes involved in TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation	4	0.0519	2.07E-4	1.68E-2
+REACTOME_AMINO_ACID_TRANSPORT_ACROSS_THE_PLASMA_MEMBRANE	31	Genes involved in Amino acid transport across the plasma membrane	3	0.0968	2.14E-4	1.68E-2
+REACTOME_MYD88_MAL_CASCADE_INITIATED_ON_PLASMA_MEMBRANE	83	Genes involved in MyD88:Mal cascade initiated on plasma membrane	4	0.0482	2.77E-4	2.04E-2
+BIOCARTA_ALK_PATHWAY	37	ALK in cardiac myocytes	3	0.0811	3.65E-4	2.42E-2
+BIOCARTA_TOLL_PATHWAY	37	Toll-Like Receptor Pathway	3	0.0811	3.65E-4	2.42E-2

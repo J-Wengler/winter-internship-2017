@@ -1,0 +1,22 @@
+GeneSet	GenesInGS(K)	Desc	GenesinOL(k)	k/K	pValue	qValue
+MCLACHLAN_DENTAL_CARIES_UP	254	Genes up-regulated in pulpal tissue extracted from carious teeth.	30	0.1181	4.19E-27	1.43E-23
+SMID_BREAST_CANCER_LUMINAL_B_DN	564	Genes down-regulated in the luminal B subtype of breast cancer.	39	0.0691	4.12E-26	7E-23
+BLALOCK_ALZHEIMERS_DISEASE_UP	1691	Genes up-regulated in brain from patients with Alzheimer's disease.	59	0.0349	1.44E-23	1.63E-20
+MEISSNER_BRAIN_HCP_WITH_H3K27ME3	269	Genes with high-CpG-density promoters (HCP) bearing the H3K27 tri-methylation (H3K27me3) mark in brain.	27	0.1004	1.34E-22	1.14E-19
+LINDGREN_BLADDER_CANCER_CLUSTER_2B	392	Genes specifically up-regulated in Cluster IIb of urothelial cell carcinom (UCC) tumors.	29	0.0740	1.81E-20	1.23E-17
+BENPORATH_EED_TARGETS	1062	Set 'Eed targets': genes identified by ChIP on chip as targets of the Polycomb protein EED [GeneID=8726] in human embryonic stem cells.	43	0.0405	1.16E-19	6.58E-17
+CHEN_LVAD_SUPPORT_OF_FAILING_HEART_UP	103	Up-regulated genesin the left ventricle myocardium of patients with heart failure following implantation of LVAD (left ventricular assist device).	17	0.1650	2.01E-18	9.77E-16
+JAATINEN_HEMATOPOIETIC_STEM_CELL_DN	226	Genes down-regulated in CD133+ [GeneID=8842] cells (hematopoietic stem cells, HSC) compared to the CD133- cells.	21	0.0929	3.71E-17	1.58E-14
+NAKAMURA_ADIPOGENESIS_EARLY_UP	66	Genes up-regulated in mesenchymal stem cells during early phase of adipogenesis, defined as days 1 to 5 of culturing with adipogenic hormones.	14	0.2121	5.01E-17	1.89E-14
+DELYS_THYROID_CANCER_DN	232	Genes down-regulated in papillary thyroid carcinoma (PTC) compared to normal tissue.	21	0.0905	6.34E-17	2.16E-14
+BENPORATH_SUZ12_TARGETS	1038	Set 'Suz12 targets': genes identified by ChIP on chip as targets of the Polycomb protein SUZ12 [GeneID=23512] in human embryonic stem cells.	39	0.0376	7.98E-17	2.47E-14
+RUTELLA_RESPONSE_TO_HGF_VS_CSF2RB_AND_IL4_UP	408	Genes up-regulated in peripheral blood mononucleocytes by HGF [GeneID=3082] compared to those regulated by CSF2RB (GM-CSF) and IL4 [GeneID=1437;3565].	25	0.0613	6.86E-16	1.94E-13
+CHARAFE_BREAST_CANCER_LUMINAL_VS_BASAL_DN	455	Genes down-regulated in luminal-like breast cancer cell lines compared to the basal-like ones.	26	0.0571	9.41E-16	2.46E-13
+MARTINEZ_RB1_AND_TP53_TARGETS_UP	601	Genes up-regulated in mice with skin specific double knockout of both RB1 and TP53 [GeneID=5925;7157] by Cre-lox.	29	0.0483	1.63E-15	3.95E-13
+ALTEMEIER_RESPONSE_TO_LPS_WITH_MECHANICAL_VENTILATION	128	Genes up-regulated in lung tissue upon LPS aspiration with mechanical ventilation (MV) compared to control (PBS aspiration without MV).	16	0.1250	1.98E-15	4.22E-13
+LENAOUR_DENDRITIC_CELL_MATURATION_DN	128	Genes down-regulated during in vitro maturation of CD14+ [GeneID=929] monocytes (day 0) into immature (day 7) and mature dendritic cells (day 14).	16	0.1250	1.98E-15	4.22E-13
+SCHUETZ_BREAST_CANCER_DUCTAL_INVASIVE_UP	351	Genes up-regulated in invasive ductal carcinoma (IDC) relative to ductal carcinoma in situ (DCIS, non-invasive).	23	0.0655	2.44E-15	4.87E-13
+SMID_BREAST_CANCER_NORMAL_LIKE_UP	476	Genes up-regulated in the normal-like subtype of breast cancer.	26	0.0546	2.74E-15	5.17E-13
+WEST_ADRENOCORTICAL_TUMOR_DN	546	Down-regulated genes in pediatric adrenocortical tumors (ACT) compared to the normal tissue.	27	0.0495	8.82E-15	1.58E-12
+CHEN_METABOLIC_SYNDROM_NETWORK	1210	Genes forming the macrophage-enriched metabolic network (MEMN) claimed to have a causal relationship with the metabolic syndrom traits.	39	0.0322	1.16E-14	1.97E-12
+

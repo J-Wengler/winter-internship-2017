@@ -1,0 +1,22 @@
+GeneSet	GenesInGS(K)	Desc	GenesinOL(k)	k/K	pValue	qValue
+MEISSNER_BRAIN_HCP_WITH_H3K27ME3	269	Genes with high-CpG-density promoters (HCP) bearing the H3K27 tri-methylation (H3K27me3) mark in brain.	18	0.0669	1.18E-22	4.01E-19
+BENPORATH_ES_WITH_H3K27ME3	1118	Set 'H3K27 bound': genes posessing the trimethylated H3K27 (H3K27me3) mark in their promoters in human embryonic stem cells, as identified by ChIP on chip.	23	0.0206	2.67E-17	4.53E-14
+BENPORATH_EED_TARGETS	1062	Set 'Eed targets': genes identified by ChIP on chip as targets of the Polycomb protein EED [GeneID=8726] in human embryonic stem cells.	20	0.0188	2.2E-14	2.49E-11
+MIKKELSEN_NPC_HCP_WITH_H3K27ME3	341	Genes with high-CpG-density promoters (HCP) bearing histone H3 trimethylation mark at K27 (H3K27me3) in neural progenitor cells (NPC).	12	0.0352	4.29E-12	3.64E-9
+SMID_BREAST_CANCER_LUMINAL_B_DN	564	Genes down-regulated in the luminal B subtype of breast cancer.	14	0.0248	6.74E-12	4.58E-9
+WANG_MLL_TARGETS	289	Genes requiring MLL [GeneID=4297] for H3K4me3 and expression in MEF cells (embryonic fibroblast).	11	0.0381	1.52E-11	8.64E-9
+BENPORATH_SUZ12_TARGETS	1038	Set 'Suz12 targets': genes identified by ChIP on chip as targets of the Polycomb protein SUZ12 [GeneID=23512] in human embryonic stem cells.	17	0.0164	2.18E-11	1.06E-8
+CHEN_LVAD_SUPPORT_OF_FAILING_HEART_UP	103	Up-regulated genesin the left ventricle myocardium of patients with heart failure following implantation of LVAD (left ventricular assist device).	8	0.0777	3.52E-11	1.49E-8
+DELYS_THYROID_CANCER_DN	232	Genes down-regulated in papillary thyroid carcinoma (PTC) compared to normal tissue.	10	0.0431	3.98E-11	1.5E-8
+BENPORATH_PRC2_TARGETS	652	Set 'PRC2 targets': Polycomb Repression Complex 2 (PRC) targets; identified by ChIP on chip on human embryonic stem cells as genes that: posess the trimethylated H3K27 mark in their promoters and are bound by SUZ12 [GeneID=23512] and EED [GeneID=8726] Polycomb proteins.	14	0.0215	4.57E-11	1.55E-8
+VECCHI_GASTRIC_CANCER_EARLY_DN	367	Down-regulated genes distinguishing between early gastric cancer (EGC) and normal tissue samples.	11	0.0300	1.94E-10	6E-8
+MEISSNER_NPC_HCP_WITH_H3K27ME3	79	Genes with high-CpG-density promoters (HCP) bearing the H3K27 tri-methylation (H3K27me3) mark in neural precursor cells (NPC).	7	0.0886	2.44E-10	6.9E-8
+KATSANOU_ELAVL1_TARGETS_UP	169	Genes up-regulated in MEF cells (embryonic fibroblast) with ELAVL1 [GeneID=1994] knocked out.	8	0.0473	1.86E-9	4.85E-7
+NAKAMURA_ADIPOGENESIS_EARLY_UP	66	Genes up-regulated in mesenchymal stem cells during early phase of adipogenesis, defined as days 1 to 5 of culturing with adipogenic hormones.	6	0.0909	4.21E-9	1.02E-6
+NIKOLSKY_BREAST_CANCER_7P15_AMPLICON	11	Genes within amplicon 7p15 identified in a copy number alterations study of 191 breast tumor samples.	4	0.3636	4.7E-9	1.06E-6
+CHARAFE_BREAST_CANCER_LUMINAL_VS_BASAL_DN	455	Genes down-regulated in luminal-like breast cancer cell lines compared to the basal-like ones.	10	0.0220	2.58E-8	5.29E-6
+SARRIO_EPITHELIAL_MESENCHYMAL_TRANSITION_DN	154	Genes down-regulated in MCF10A cells (breast cancer) grown at low (mesenchymal phenotype) compared to those grown at high (epithelial, basal-like phenotype) confluency.	7	0.0455	2.64E-8	5.29E-6
+BOQUEST_STEM_CELL_UP	260	Genes up-regulated in freshly isolated CD31- [GeneID=5175] (stromal stem cells from adipose tissue) versus the CD31+ (non-stem) counterparts.	8	0.0308	5.34E-8	1.01E-5
+SMID_BREAST_CANCER_BASAL_UP	648	Genes up-regulated in basal subtype of breast cancer samles.	11	0.0170	6.87E-8	1.23E-5
+WONG_ADULT_TISSUE_STEM_MODULE	721	The 'adult tissue stem' module: genes coordinately up-regulated in a compendium of adult tissue stem cells.	11	0.0153	1.99E-7	3.39E-5
+

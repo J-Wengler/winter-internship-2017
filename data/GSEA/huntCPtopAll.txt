@@ -1,0 +1,21 @@
+GeneSet	GenesInGS(K)	Desc	GenesinOL(k)	k/K	pValue	qValue
+REACTOME_IMMUNE_SYSTEM	933	Genes involved in Immune System	164	0.1758	7E-41	9.3E-38
+NABA_MATRISOME	1028	Ensemble of genes encoding extracellular matrix and extracellular matrix-associated proteins	170	0.1654	8.14E-39	5.41E-36
+NABA_MATRISOME_ASSOCIATED	753	Ensemble of genes encoding ECM-associated proteins including ECM-affilaited proteins, ECM regulators and secreted factors	121	0.1607	9.8E-27	4.34E-24
+REACTOME_HEMOSTASIS	466	Genes involved in Hemostasis	91	0.1953	1.49E-26	4.94E-24
+REACTOME_ADAPTIVE_IMMUNE_SYSTEM	539	Genes involved in Adaptive Immune System	91	0.1688	6.47E-22	1.72E-19
+REACTOME_INNATE_IMMUNE_SYSTEM	279	Genes involved in Innate Immune System	62	0.2222	1.55E-21	3.43E-19
+KEGG_LEISHMANIA_INFECTION	72	Leishmania infection	30	0.4167	1.77E-19	3.36E-17
+KEGG_CYTOKINE_CYTOKINE_RECEPTOR_INTERACTION	267	Cytokine-cytokine receptor interaction	57	0.2135	4.8E-19	7.8E-17
+KEGG_COMPLEMENT_AND_COAGULATION_CASCADES	69	Complement and coagulation cascades	29	0.4203	5.28E-19	7.8E-17
+REACTOME_TRANSMEMBRANE_TRANSPORT_OF_SMALL_MOLECULES	413	Genes involved in Transmembrane transport of small molecules	72	0.1743	2.04E-18	2.72E-16
+REACTOME_METABOLISM_OF_LIPIDS_AND_LIPOPROTEINS	478	Genes involved in Metabolism of lipids and lipoproteins	75	0.1569	1.71E-16	2.06E-14
+REACTOME_TOLL_RECEPTOR_CASCADES	118	Genes involved in Toll Receptor Cascades	34	0.2881	4.53E-16	5.02E-14
+KEGG_MAPK_SIGNALING_PATHWAY	267	MAPK signaling pathway	52	0.1948	9.77E-16	9.99E-14
+REACTOME_CYTOKINE_SIGNALING_IN_IMMUNE_SYSTEM	270	Genes involved in Cytokine Signaling in Immune system	51	0.1889	6.68E-15	6.35E-13
+REACTOME_METABOLISM_OF_CARBOHYDRATES	247	Genes involved in Metabolism of carbohydrates	48	0.1943	1.33E-14	1.18E-12
+REACTOME_DEVELOPMENTAL_BIOLOGY	396	Genes involved in Developmental Biology	63	0.1591	2.28E-14	1.89E-12
+REACTOME_PLATELET_ACTIVATION_SIGNALING_AND_AGGREGATION	208	Genes involved in Platelet activation, signaling and aggregation	43	0.2067	3.27E-14	2.56E-12
+NABA_ECM_REGULATORS	238	Genes encoding enzymes and their regulators involved in the remodeling of the extracellular matrix	46	0.1933	5.78E-14	4.11E-12
+PID_P53_DOWNSTREAM_PATHWAY	137	Direct p53 effectors	34	0.2482	5.87E-14	4.11E-12
+REACTOME_SLC_MEDIATED_TRANSMEMBRANE_TRANSPORT	241	Genes involved in SLC-mediated transmembrane transport	46	0.1909	9.31E-14	6.19E-12

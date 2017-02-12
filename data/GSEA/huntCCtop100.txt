@@ -1,0 +1,9 @@
+GeneSet	GenesInGS(K)	Desc	GenesinOL(k)	k/K	pValue	qValue
+GO_TRANSCRIPTION_FACTOR_COMPLEX	298	A protein complex that is capable of associating with DNA by direct binding, or via other DNA-binding proteins or complexes, and regulating transcription.	7	0.0235	2.28E-6	1.33E-3
+GO_EXTRACELLULAR_MATRIX	426	A structure lying external to one or more cells, which provides structural support for cells or tissues; may be completely external to the cell (as in animals and bacteria) or be part of the cell (as in plants).	7	0.0164	2.32E-5	6.77E-3
+GO_PROTEINACEOUS_EXTRACELLULAR_MATRIX	356	A layer consisting mainly of proteins (especially collagen) and glycosaminoglycans (mostly as proteoglycans) that forms a sheet underlying or overlying cells such as endothelial and epithelial cells. The proteins are secreted by cells in the vicinity. An example of this component is found in Mus musculus.	6	0.0169	7.94E-5	1.47E-2
+GO_INTRINSIC_COMPONENT_OF_PLASMA_MEMBRANE	1649	The component of the plasma membrane consisting of the gene products and protein complexes having either part of their peptide sequence embedded in the hydrophobic region of the membrane or some other covalently attached group such as a GPI anchor that is similarly embedded in the membrane.	12	0.0073	1.01E-4	1.47E-2
+GO_PHAGOCYTIC_VESICLE_MEMBRANE	58	The lipid bilayer surrounding a phagocytic vesicle.	3	0.0517	2.14E-4	2.5E-2
+GO_EXTRACELLULAR_SPACE	1376	That part of a multicellular organism outside the cells proper, usually taken to be outside the plasma membranes, and occupied by fluid.	10	0.0073	4E-4	3.9E-2
+GO_NUCLEAR_BODY	349	Extra-nucleolar nuclear domains usually visualized by confocal microscopy and fluorescent antibodies to specific proteins.	5	0.0143	6.69E-4	4.98E-2
+GO_PHAGOCYTIC_VESICLE	86	A membrane-bounded intracellular vesicle that arises from the ingestion of particulate material by phagocytosis.	3	0.0349	6.82E-4	4.98E-2

@@ -1,0 +1,19 @@
+GeneSet	GenesInGS(K)	Desc	GenesinOL(k)	k/K	pValue	qValue
+REACTOME_SLC_MEDIATED_TRANSMEMBRANE_TRANSPORT	241	Genes involved in SLC-mediated transmembrane transport	7	0.0290	5.56E-7	7.39E-4
+KEGG_HEDGEHOG_SIGNALING_PATHWAY	56	Hedgehog signaling pathway	4	0.0714	4.88E-6	2.73E-3
+NABA_MATRISOME	1028	Ensemble of genes encoding extracellular matrix and extracellular matrix-associated proteins	11	0.0107	6.17E-6	2.73E-3
+REACTOME_TRANSMEMBRANE_TRANSPORT_OF_SMALL_MOLECULES	413	Genes involved in Transmembrane transport of small molecules	7	0.0169	1.9E-5	6.32E-3
+REACTOME_TRANSPORT_OF_GLUCOSE_AND_OTHER_SUGARS_BILE_SALTS_AND_ORGANIC_ACIDS_METAL_IONS_AND_AMINE_COMPOUNDS	89	Genes involved in Transport of glucose and other sugars, bile salts and organic acids, metal ions and amine compounds	4	0.0449	3.09E-5	7.18E-3
+REACTOME_AMINO_ACID_TRANSPORT_ACROSS_THE_PLASMA_MEMBRANE	31	Genes involved in Amino acid transport across the plasma membrane	3	0.0968	3.24E-5	7.18E-3
+REACTOME_TRANSPORT_OF_INORGANIC_CATIONS_ANIONS_AND_AMINO_ACIDS_OLIGOPEPTIDES	94	Genes involved in Transport of inorganic cations/anions and amino acids/oligopeptides	4	0.0426	3.83E-5	7.27E-3
+BIOCARTA_ALK_PATHWAY	37	ALK in cardiac myocytes	3	0.0811	5.56E-5	9.23E-3
+NABA_MATRISOME_ASSOCIATED	753	Ensemble of genes encoding ECM-associated proteins including ECM-affilaited proteins, ECM regulators and secreted factors	8	0.0106	1.29E-4	1.72E-2
+REACTOME_AMINO_ACID_AND_OLIGOPEPTIDE_SLC_TRANSPORTERS	49	Genes involved in Amino acid and oligopeptide SLC transporters	3	0.0612	1.3E-4	1.72E-2
+KEGG_CYTOKINE_CYTOKINE_RECEPTOR_INTERACTION	267	Cytokine-cytokine receptor interaction	5	0.0187	1.97E-4	2.33E-2
+REACTOME_KERATAN_SULFATE_DEGRADATION	11	Genes involved in Keratan sulfate degradation	2	0.1818	2.11E-4	2.33E-2
+KEGG_EPITHELIAL_CELL_SIGNALING_IN_HELICOBACTER_PYLORI_INFECTION	68	Epithelial cell signaling in Helicobacter pylori infection	3	0.0441	3.43E-4	3.51E-2
+KEGG_PANTOTHENATE_AND_COA_BIOSYNTHESIS	16	Pantothenate and CoA biosynthesis	2	0.1250	4.57E-4	4.34E-2
+REACTOME_NA_CL_DEPENDENT_NEUROTRANSMITTER_TRANSPORTERS	17	Genes involved in Na+/Cl- dependent neurotransmitter transporters	2	0.1176	5.17E-4	4.58E-2
+REACTOME_RIP_MEDIATED_NFKB_ACTIVATION_VIA_DAI	18	Genes involved in RIP-mediated NFkB activation via DAI	2	0.1111	5.81E-4	4.81E-2
+REACTOME_MYD88_MAL_CASCADE_INITIATED_ON_PLASMA_MEMBRANE	83	Genes involved in MyD88:Mal cascade initiated on plasma membrane	3	0.0361	6.15E-4	4.81E-2
+

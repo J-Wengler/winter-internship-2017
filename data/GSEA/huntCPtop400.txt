@@ -1,0 +1,22 @@
+GeneSet	GenesInGS(K)	Desc	GenesinOL(k)	k/K	pValue	qValue
+NABA_MATRISOME	1028	Ensemble of genes encoding extracellular matrix and extracellular matrix-associated proteins	33	0.0321	1.62E-12	2.16E-9
+NABA_MATRISOME_ASSOCIATED	753	Ensemble of genes encoding ECM-associated proteins including ECM-affilaited proteins, ECM regulators and secreted factors	23	0.0305	1.09E-8	7.27E-6
+REACTOME_SLC_MEDIATED_TRANSMEMBRANE_TRANSPORT	241	Genes involved in SLC-mediated transmembrane transport	11	0.0456	1.87E-6	8.31E-4
+KEGG_HEDGEHOG_SIGNALING_PATHWAY	56	Hedgehog signaling pathway	6	0.1071	3.43E-6	1.14E-3
+REACTOME_IMMUNE_SYSTEM	933	Genes involved in Immune System	21	0.0225	6.36E-6	1.68E-3
+REACTOME_INNATE_IMMUNE_SYSTEM	279	Genes involved in Innate Immune System	11	0.0394	7.59E-6	1.68E-3
+KEGG_TOLL_LIKE_RECEPTOR_SIGNALING_PATHWAY	102	Toll-like receptor signaling pathway	7	0.0686	1.05E-5	1.94E-3
+KEGG_COMPLEMENT_AND_COAGULATION_CASCADES	69	Complement and coagulation cascades	6	0.0870	1.17E-5	1.94E-3
+REACTOME_SIGNALING_BY_ILS	107	Genes involved in Signaling by Interleukins	7	0.0654	1.44E-5	2.12E-3
+REACTOME_TOLL_RECEPTOR_CASCADES	118	Genes involved in Toll Receptor Cascades	7	0.0593	2.71E-5	3.6E-3
+NABA_CORE_MATRISOME	275	Ensemble of genes encoding core extracellular matrix including ECM glycoproteins, collagens and proteoglycans	10	0.0364	3.9E-5	4.72E-3
+REACTOME_TRANSPORT_OF_GLUCOSE_AND_OTHER_SUGARS_BILE_SALTS_AND_ORGANIC_ACIDS_METAL_IONS_AND_AMINE_COMPOUNDS	89	Genes involved in Transport of glucose and other sugars, bile salts and organic acids, metal ions and amine compounds	6	0.0674	5.01E-5	5.55E-3
+REACTOME_TRANSMEMBRANE_TRANSPORT_OF_SMALL_MOLECULES	413	Genes involved in Transmembrane transport of small molecules	12	0.0291	6.01E-5	6.15E-3
+NABA_ECM_REGULATORS	238	Genes encoding enzymes and their regulators involved in the remodeling of the extracellular matrix	9	0.0378	7.03E-5	6.68E-3
+PID_IL1_PATHWAY	34	IL1-mediated signaling events	4	0.1176	1.08E-4	9.59E-3
+NABA_PROTEOGLYCANS	35	Genes encoding proteoglycans	4	0.1143	1.21E-4	1.01E-2
+PID_AP1_PATHWAY	70	AP-1 transcription factor network	5	0.0714	1.64E-4	1.13E-2
+KEGG_CYTOKINE_CYTOKINE_RECEPTOR_INTERACTION	267	Cytokine-cytokine receptor interaction	9	0.0337	1.68E-4	1.13E-2
+REACTOME_GLYCOSAMINOGLYCAN_METABOLISM	111	Genes involved in Glycosaminoglycan metabolism	6	0.0541	1.71E-4	1.13E-2
+REACTOME_CYTOKINE_SIGNALING_IN_IMMUNE_SYSTEM	270	Genes involved in Cytokine Signaling in Immune system	9	0.0333	1.82E-4	1.13E-2
+

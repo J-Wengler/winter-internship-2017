@@ -1,0 +1,21 @@
+GeneSet	GenesInGS(K)	Desc	GenesinOL(k)	k/K	pValue	qValue
+MEISSNER_BRAIN_HCP_WITH_H3K27ME3	269	Genes with high-CpG-density promoters (HCP) bearing the H3K27 tri-methylation (H3K27me3) mark in brain.	12	0.0446	6.14E-21	2.09E-17
+MIKKELSEN_NPC_HCP_WITH_H3K27ME3	341	Genes with high-CpG-density promoters (HCP) bearing histone H3 trimethylation mark at K27 (H3K27me3) in neural progenitor cells (NPC).	10	0.0293	1.31E-15	2.23E-12
+BENPORATH_ES_WITH_H3K27ME3	1118	Set 'H3K27 bound': genes posessing the trimethylated H3K27 (H3K27me3) mark in their promoters in human embryonic stem cells, as identified by ChIP on chip.	12	0.0107	1.58E-13	1.79E-10
+MEISSNER_NPC_HCP_WITH_H3K27ME3	79	Genes with high-CpG-density promoters (HCP) bearing the H3K27 tri-methylation (H3K27me3) mark in neural precursor cells (NPC).	6	0.0759	3.67E-12	3.12E-9
+NIKOLSKY_BREAST_CANCER_7P15_AMPLICON	11	Genes within amplicon 7p15 identified in a copy number alterations study of 191 breast tumor samples.	4	0.3636	2.24E-11	1.52E-8
+BENPORATH_EED_TARGETS	1062	Set 'Eed targets': genes identified by ChIP on chip as targets of the Polycomb protein EED [GeneID=8726] in human embryonic stem cells.	10	0.0094	9.94E-11	5.63E-8
+BENPORATH_SUZ12_TARGETS	1038	Set 'Suz12 targets': genes identified by ChIP on chip as targets of the Polycomb protein SUZ12 [GeneID=23512] in human embryonic stem cells.	9	0.0087	2.18E-9	1.06E-6
+MIKKELSEN_IPS_WITH_HCP_H3K27ME3	102	Genes with high-CpG-density promoters (HCP) bearing the tri-methylation mark at H3K27 (H3K27me3) in MCV8.1 (induced pluripotent cells, iPS).	5	0.0490	2.5E-9	1.06E-6
+BENPORATH_PRC2_TARGETS	652	Set 'PRC2 targets': Polycomb Repression Complex 2 (PRC) targets; identified by ChIP on chip on human embryonic stem cells as genes that: posess the trimethylated H3K27 mark in their promoters and are bound by SUZ12 [GeneID=23512] and EED [GeneID=8726] Polycomb proteins.	7	0.0107	4.31E-8	1.63E-5
+WANG_MLL_TARGETS	289	Genes requiring MLL [GeneID=4297] for H3K4me3 and expression in MEF cells (embryonic fibroblast).	5	0.0173	4.55E-7	1.55E-4
+ALCALAY_AML_BY_NPM1_LOCALIZATION_UP	140	Genes up-regulated in acute myeloid leukemia (AML) with respect to cellular localization of NPM1 [GeneID=4869]: cytoplasmic vs. nucleolar.	4	0.0286	9.93E-7	3.07E-4
+PLASARI_TGFB1_TARGETS_10HR_DN	244	Genes down-regulated in MEF cells (embryonic fibroblast) upon stimulation with TGFB1 [GeneID=7040] for 10 h.	4	0.0164	8.98E-6	2.55E-3
+SMID_BREAST_CANCER_LUMINAL_B_DN	564	Genes down-regulated in the luminal B subtype of breast cancer.	5	0.0089	1.19E-5	3.1E-3
+TAKEDA_TARGETS_OF_NUP98_HOXA9_FUSION_6HR_UP	85	Genes up-rgulated in CD34+ [GeneID=947] hematopoetic cells by expression of NUP98-HOXA9 fusion [GeneID=4928;3205] off a retroviral vector at 6h.	3	0.0353	1.36E-5	3.12E-3
+NAKAYAMA_SOFT_TISSUE_TUMORS_PCA2_UP	87	Top 100 probe sets contrubuting to the positive side of the 2nd principal component; associated with adipocytic differentiation.	3	0.0345	1.46E-5	3.12E-3
+MIKKELSEN_MEF_HCP_WITH_H3K27ME3	590	Genes with high-CpG-density promoters (HCP) bearing histone H3 trimethylation mark at K27 (H3K27me3) in MEF cells (embryonic fibroblast).	5	0.0085	1.47E-5	3.12E-3
+MYLLYKANGAS_AMPLIFICATION_HOT_SPOT_29	11	Amplification hot spot 29: colocolized fragile sites and cancer genes in the 7p22-p13 region.	2	0.1818	1.56E-5	3.12E-3
+MEISSNER_NPC_HCP_WITH_H3K4ME2_AND_H3K27ME3	349	Genes with high-CpG-density promoters (HCP) bearing histone H3 dimethylation mark at K4 (H3K4me2) and trimethylation mark at K27 (H3K27me3) in neural precursor cells (NPC).	4	0.0115	3.65E-5	6.89E-3
+DELACROIX_RARG_BOUND_MEF	367	Genes with DNA sequences bound by RARG [GeneID=5916] in MEF cells (embryonic fibroblast).	4	0.0109	4.43E-5	7.93E-3
+YAO_HOXA10_TARGETS_VIA_PROGESTERONE_DN	19	Genes down-regulated in the uteri of ovariectomized mice 6 h after progesterone [PubChem=5994] injection: HOXA10 [GeneID=3206] knockout vs wild type animals.	2	0.1053	4.83E-5	8.21E-3

@@ -1,0 +1,22 @@
+GeneSet	GenesInGS(K)	Desc	GenesinOL(k)	k/K	pValue	qValue
+BLALOCK_ALZHEIMERS_DISEASE_UP	1691	Genes up-regulated in brain from patients with Alzheimer's disease.	345	0.2040	8.41E-106	2.86E-102
+CHEN_METABOLIC_SYNDROM_NETWORK	1210	Genes forming the macrophage-enriched metabolic network (MEMN) claimed to have a causal relationship with the metabolic syndrom traits.	268	0.2215	6.34E-90	1.08E-86
+PILON_KLF1_TARGETS_DN	1972	Genes down-regulated in erythroid progenitor cells from fetal livers of E13.5 embryos with KLF1 [GeneID=10661] knockout compared to those from the wild type embryos.	328	0.1663	3.63E-76	4.11E-73
+MCLACHLAN_DENTAL_CARIES_UP	254	Genes up-regulated in pulpal tissue extracted from carious teeth.	111	0.4370	4.55E-71	3.87E-68
+MEISSNER_BRAIN_HCP_WITH_H3K4ME3_AND_H3K27ME3	1069	Genes with high-CpG-density promoters (HCP) bearing histone H3 dimethylation at K4 (H3K4me2) and trimethylation at K27 (H3K27me3) in brain.	219	0.2049	1.09E-66	7.43E-64
+SCHUETZ_BREAST_CANCER_DUCTAL_INVASIVE_UP	351	Genes up-regulated in invasive ductal carcinoma (IDC) relative to ductal carcinoma in situ (DCIS, non-invasive).	122	0.3476	2.5E-64	1.42E-61
+SMID_BREAST_CANCER_LUMINAL_B_DN	564	Genes down-regulated in the luminal B subtype of breast cancer.	145	0.2571	3.8E-57	1.84E-54
+VERHAAK_GLIOBLASTOMA_MESENCHYMAL	216	Genes correlated with mesenchymal type of glioblastoma multiforme tumors.	89	0.4120	1.6E-54	6.78E-52
+WONG_ADULT_TISSUE_STEM_MODULE	721	The 'adult tissue stem' module: genes coordinately up-regulated in a compendium of adult tissue stem cells.	161	0.2233	2.58E-54	9.75E-52
+GRAESSMANN_APOPTOSIS_BY_DOXORUBICIN_DN	1781	Genes down-regulated in ME-A cells (breast cancer) undergoing apoptosis in response to doxorubicin [PubChem=31703].	268	0.1505	6.12E-53	2.08E-50
+FULCHER_INFLAMMATORY_RESPONSE_LECTIN_VS_LPS_DN	463	Genes down-regulated in monocyte-derived dendritic cells (MDDC) after stimulation with galecin-1 (lectin, LGALS1) [GeneID=3956] compared to that with bacterial lipopolysaccharide (LPS).	126	0.2721	9.69E-53	2.99E-50
+LINDGREN_BLADDER_CANCER_CLUSTER_2B	392	Genes specifically up-regulated in Cluster IIb of urothelial cell carcinom (UCC) tumors.	115	0.2934	6.53E-52	1.85E-49
+LU_AGING_BRAIN_UP	262	Age up-regulated genes in the human frontal cortex.	94	0.3588	3.42E-51	8.38E-49
+CHARAFE_BREAST_CANCER_LUMINAL_VS_BASAL_DN	455	Genes down-regulated in luminal-like breast cancer cell lines compared to the basal-like ones.	123	0.2703	3.69E-51	8.38E-49
+BUYTAERT_PHOTODYNAMIC_THERAPY_STRESS_UP	811	Genes up-regulated in T24 (bladder cancer) cells in response to the photodynamic therapy (PDT) stress.	167	0.2059	3.7E-51	8.38E-49
+SMID_BREAST_CANCER_NORMAL_LIKE_UP	476	Genes up-regulated in the normal-like subtype of breast cancer.	125	0.2626	1.83E-50	3.89E-48
+RODWELL_AGING_KIDNEY_UP	487	Genes whose expression increases with age in normal kidney.	125	0.2567	2.77E-49	5.55E-47
+WALLACE_PROSTATE_CANCER_RACE_UP	299	Genes up-regulated in prostate cancer samples from African-American patients compared to those from the European-American patients.	98	0.3278	3.21E-49	6.07E-47
+LEE_BMP2_TARGETS_UP	745	Genes up-regulated in uterus upon knockout of BMP2 [GeneID=650].	156	0.2094	8.4E-49	1.5E-46
+KOINUMA_TARGETS_OF_SMAD2_OR_SMAD3	824	Genes with promoters occupied by SMAD2 or SMAD3 [GeneID=4087, 4088] in HaCaT cells (keratinocyte) according to a ChIP-chip analysis.	164	0.1990	3.58E-48	6.09E-46
+
