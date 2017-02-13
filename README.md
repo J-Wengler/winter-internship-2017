@@ -19,7 +19,7 @@ Analyses were perfomed in Python and R, depend on the necessities. The final pro
 - [ ] [DESeq2-like Analyzer in Python](https://github.com/hariesramdhani/winter-internship-2017/blob/master/src/DESeq2-like%20Analyzer%20in%20Python.ipynb) (*updating*...:running:)
 
 **Tools**
-- [ ] Quality Assessor, Table Simplifier, CSV Exporter
+- [x] [Quality Assessor, Table Simplifier, CSV Exporter](https://github.com/hariesramdhani/winter-internship-2017/blob/master/src/Quality%20Assessor%2C%20Table%20Simplifier%2C%20CSV%20Exporter.ipynb)
 
 ### Final Reports
 Final reports are reports that were written at the end of each stage, the first stage was developing the program to retrieve data sets from GEO Database while the second stage is analyzing the RNA-Seq data of Parkinson disease. Final reports are in the `.docx` (Microsoft Word 2007++) extension.
