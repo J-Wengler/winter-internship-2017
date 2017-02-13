@@ -18,13 +18,13 @@ A collection of logs written in GitHub Wiki. The first ten days are the days whe
 - [x] [Day 11 - February 1, 2017](https://github.com/hariesramdhani/winter-internship-2017/wiki/Day-11)
 - [x] [Day 12 - February 2, 2017](https://github.com/hariesramdhani/winter-internship-2017/wiki/Day-12)
 - [x] [Day 13 - February 3, 2017](https://github.com/hariesramdhani/winter-internship-2017/wiki/Day-13)
-- [x] [Day 14 - February 6, 2017](https://github.com/hariesramdhani/winter-internship-2017/wiki/Day-14) **(will be updated later)** :fire::fire::fire:
-- [ ] Day 15 - February 7, 2017
-- [ ] Day 16 - February 8, 2017
-- [ ] Day 17 - February 9, 2017
-- [ ] Day 18 - February 10, 2017
-- [ ] Day 19 - February 13, 2017
+- [x] [Day 14 - February 6, 2017](https://github.com/hariesramdhani/winter-internship-2017/wiki/Day-14)
+- [ ] [Day 15 - February 7, 2017](https://github.com/hariesramdhani/winter-internship-2017/wiki/Day-15)
+- [ ] [Day 16 - February 8, 2017](https://github.com/hariesramdhani/winter-internship-2017/wiki/Day-16)
+- [ ] [Day 17 - February 9, 2017](https://github.com/hariesramdhani/winter-internship-2017/wiki/Day-17)
+- [ ] [Day 18 - February 10, 2017](https://github.com/harsramdhani/winter-internship-2017/wiki/Day-18)
+- [ ] [Day 19 - February 13, 2017](https://github.com/hariesramdhani/winter-internship-2017/wiki/Day-19)
 
 **Final internship report preparation:** Wrapping up everything
-- [ ] Day 20 - February 14, 2017
+- [ ] [Day 20 - February 14, 2017](https://github.com/hariesramdhani/winter-internship-2017/wiki/Day-20)
 
