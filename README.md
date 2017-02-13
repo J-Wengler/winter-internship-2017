@@ -12,11 +12,10 @@ Analyses were perfomed in Python and R, depend on the necessities. The final pro
 - [x] [msigDB Canonical Pathway Analysis Proteomics and RNA-Seq Genes](https://github.com/hariesramdhani/winter-internship-2017/blob/master/src/msigDB%20Canonical%20Pathway%20Analysis%20Proteomics%20and%20RNA-Seq%20Genes.ipynb) 
 - [ ] [Comparison between Alzheimer's and Parkinson's Disease](https://github.com/hariesramdhani/winter-internship-2017/blob/master/src/Comparison%20between%20Alzheimer's%20and%20Parkinson's%20Disease.ipynb)
 - [ ] [Volcano Plot of RNA-Seq and MS3 Proteomics Data](https://github.com/hariesramdhani/winter-internship-2017/blob/master/src/%20Volcano%20Plot%20of%20RNA-Seq%20and%20MS3%20Proteomics%20Data.ipynb)
-- [ ] Further Analysis
 - [ ] [Distribution of Log Fold Changes of Huntington's Disease and Comparison to Parkinson's Disease](https://github.com/hariesramdhani/winter-internship-2017/blob/master/src/Distribution%20of%20Log%20Fold%20Change%20Huntington's%20Disease.ipynb)
 - [ ] [Gene Set Enrichment Analysis of Huntington's Disease](https://github.com/hariesramdhani/winter-internship-2017/blob/master/src/GSEA%20Huntington's%20Disease.ipynb)
-- [ ] Distribution of Log Fold Changes of Alzheimer's Disease
-- [ ] [DESeq2-like Analyzer in Python](https://github.com/hariesramdhani/winter-internship-2017/blob/master/src/DESeq2-like%20Analyzer%20in%20Python.ipynb) (*updating*...:running:)
+- [ ] Distribution of Log Fold Changes of Alzheimer's Disease\*\*
+- [ ] [DESeq2-like Analyzer in Python](https://github.com/hariesramdhani/winter-internship-2017/blob/master/src/DESeq2-like%20Analyzer%20in%20Python.ipynb) **(*unsuccessful*)**
 
 **Tools**
 - [x] [Quality Assessor, Table Simplifier, CSV Exporter](https://github.com/hariesramdhani/winter-internship-2017/blob/master/src/Quality%20Assessor%2C%20Table%20Simplifier%2C%20CSV%20Exporter.ipynb)
