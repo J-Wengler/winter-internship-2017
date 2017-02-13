@@ -44,8 +44,8 @@ in Turkish </tbw/>
 
 ### Data Sources
 These are the collections of data that are used for the project/analyses, majority of these data are gathered from all over the internet, mostly from big databases. The data are stored in the `~/data` folder.
-- [Integrative analyses of proteomics and RNA transcriptomics implicate mitochondrial processes, protein folding pathways and GWAS loci in Parkinson disease. BMC Med Genomics 2016 Jan 21;9:5. PMID: 26793951](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE68719)
-- TBW
+- [mRNA-Seq expression and MS3 proteomics profiling of human post-mortem BA9 brain tissue for Parkinson Disease and neurologically normal individuals](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE68719)
+- [mRNA-Seq Expression profiling of human post-mortem BA9 brain tissue for Huntington's Disease and neurologically normal individuals](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE64810)
 - TBW
 
 ######**Disclaimer: All images are mine and created by me unless stated otherwise.
