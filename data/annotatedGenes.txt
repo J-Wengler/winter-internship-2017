@@ -1,0 +1,1827 @@
+HGNC symbol	Description	Phenotype description
+A2ML1	alpha-2-macroglobulin like 1 [Source:HGNC Symbol;Acc:HGNC:23336]	NOONAN SYNDROME
+ABCB6	ATP binding cassette subfamily B member 6 (Langereis blood group) [Source:HGNC Symbol;Acc:HGNC:47]	Coloboma of choroid and retina
+ABCB6	ATP binding cassette subfamily B member 6 (Langereis blood group) [Source:HGNC Symbol;Acc:HGNC:47]	Coloboma of eye lens
+ABCB6	ATP binding cassette subfamily B member 6 (Langereis blood group) [Source:HGNC Symbol;Acc:HGNC:47]	Coloboma of eyelid
+ABCB6	ATP binding cassette subfamily B member 6 (Langereis blood group) [Source:HGNC Symbol;Acc:HGNC:47]	Coloboma of iris
+ABCB6	ATP binding cassette subfamily B member 6 (Langereis blood group) [Source:HGNC Symbol;Acc:HGNC:47]	Coloboma of macula
+ABCB6	ATP binding cassette subfamily B member 6 (Langereis blood group) [Source:HGNC Symbol;Acc:HGNC:47]	Coloboma of optic papilla
+ABCB6	ATP binding cassette subfamily B member 6 (Langereis blood group) [Source:HGNC Symbol;Acc:HGNC:47]	Colobomatous microphthalmia
+ABCB6	ATP binding cassette subfamily B member 6 (Langereis blood group) [Source:HGNC Symbol;Acc:HGNC:47]	Dyschromatosis universalis hereditaria 3
+ABCB6	ATP binding cassette subfamily B member 6 (Langereis blood group) [Source:HGNC Symbol;Acc:HGNC:47]	Familial pseudohyperkalemia
+ABCB6	ATP binding cassette subfamily B member 6 (Langereis blood group) [Source:HGNC Symbol;Acc:HGNC:47]	BLOOD GROUP LANGEREIS SYSTEM
+ABCB6	ATP binding cassette subfamily B member 6 (Langereis blood group) [Source:HGNC Symbol;Acc:HGNC:47]	Microphthalmia isolated with coloboma 7
+ABCB6	ATP binding cassette subfamily B member 6 (Langereis blood group) [Source:HGNC Symbol;Acc:HGNC:47]	PSEUDOHYPERKALEMIA FAMILIAL 2 DUE TO RED CELL LEAK
+ABCE1	ATP binding cassette subfamily E member 1 [Source:HGNC Symbol;Acc:HGNC:69]	
+ACADSB	acyl-CoA dehydrogenase, short/branched chain [Source:HGNC Symbol;Acc:HGNC:91]	2-@METHYLBUTYRYL-CoA DEHYDROGENASE DEFICIENCY
+ACADVL	acyl-CoA dehydrogenase, very long chain [Source:HGNC Symbol;Acc:HGNC:92]	Very long chain acyl-CoA dehydrogenase deficiency
+ACADVL	acyl-CoA dehydrogenase, very long chain [Source:HGNC Symbol;Acc:HGNC:92]	ACYL-CoA DEHYDROGENASE VERY LONG-CHAIN DEFICIENCY OF
+ACADVL	acyl-CoA dehydrogenase, very long chain [Source:HGNC Symbol;Acc:HGNC:92]	Very Long Chain Acyl-Coenzyme A Dehydrogenase Deficiency
+ACRC	acidic repeat containing [Source:HGNC Symbol;Acc:HGNC:15805]	
+ACTA2	actin, alpha 2, smooth muscle, aorta [Source:HGNC Symbol;Acc:HGNC:130]	Familial thoracic aortic aneurysm and aortic dissection
+ACTA2	actin, alpha 2, smooth muscle, aorta [Source:HGNC Symbol;Acc:HGNC:130]	Moyamoya disease
+ACTA2	actin, alpha 2, smooth muscle, aorta [Source:HGNC Symbol;Acc:HGNC:130]	MULTISYSTEMIC SMOOTH MUSCLE DYSFUNCTION SYNDROME
+ACTA2	actin, alpha 2, smooth muscle, aorta [Source:HGNC Symbol;Acc:HGNC:130]	AORTIC ANEURYSM FAMILIAL THORACIC 6
+ACTA2	actin, alpha 2, smooth muscle, aorta [Source:HGNC Symbol;Acc:HGNC:130]	Moyamoya disease 5
+ACTN2	actinin alpha 2 [Source:HGNC Symbol;Acc:HGNC:164]	Familial isolated dilated cardiomyopathy
+ACTN2	actinin alpha 2 [Source:HGNC Symbol;Acc:HGNC:164]	CARDIOMYOPATHY DILATED 1AA WITH OR WITHOUT LEFT VENTRICULAR NONCOMPACTION
+ADAM33	ADAM metallopeptidase domain 33 [Source:HGNC Symbol;Acc:HGNC:15478]	
+ADAMTS2	ADAM metallopeptidase with thrombospondin type 1 motif 2 [Source:HGNC Symbol;Acc:HGNC:218]	Ehlers-Danlos syndrome dermatosparaxis type
+ADAMTS2	ADAM metallopeptidase with thrombospondin type 1 motif 2 [Source:HGNC Symbol;Acc:HGNC:218]	EHLERS-DANLOS SYNDROME TYPE VII AUTOSOMAL RECESSIVE
+ADAMTS5	ADAM metallopeptidase with thrombospondin type 1 motif 5 [Source:HGNC Symbol;Acc:HGNC:221]	
+ADAT1	adenosine deaminase, tRNA specific 1 [Source:HGNC Symbol;Acc:HGNC:228]	
+ADAT2	adenosine deaminase, tRNA specific 2 [Source:HGNC Symbol;Acc:HGNC:21172]	
+ADCY10	adenylate cyclase 10, soluble [Source:HGNC Symbol;Acc:HGNC:21285]	Idiopathic hypercalciuria
+ADCY10	adenylate cyclase 10, soluble [Source:HGNC Symbol;Acc:HGNC:21285]	HYPERCALCIURIA ABSORPTIVE 2
+ADCYAP1	adenylate cyclase activating polypeptide 1 [Source:HGNC Symbol;Acc:HGNC:241]	cAMP-mediated signaling
+ADGB	androglobin [Source:HGNC Symbol;Acc:HGNC:21212]	
+ADM	adrenomedullin [Source:HGNC Symbol;Acc:HGNC:259]	
+AGFG2	ArfGAP with FG repeats 2 [Source:HGNC Symbol;Acc:HGNC:5177]	
+AGTPBP1	ATP/GTP binding protein 1 [Source:HGNC Symbol;Acc:HGNC:17258]	
+AHSA1	activator of Hsp90 ATPase activity 1 [Source:HGNC Symbol;Acc:HGNC:1189]	
+AIMP2	aminoacyl tRNA synthetase complex interacting multifunctional protein 2 [Source:HGNC Symbol;Acc:HGNC:20609]	
+AK1	adenylate kinase 1 [Source:HGNC Symbol;Acc:HGNC:361]	Hemolytic anemia due to adenylate kinase deficiency
+AK1	adenylate kinase 1 [Source:HGNC Symbol;Acc:HGNC:361]	ADENYLATE KINASE DEFICIENCY HEMOLYTIC ANEMIA DUE TO
+AK7	adenylate kinase 7 [Source:HGNC Symbol;Acc:HGNC:20091]	
+AKAP5	A-kinase anchoring protein 5 [Source:HGNC Symbol;Acc:HGNC:375]	
+AKAP6	A-kinase anchoring protein 6 [Source:HGNC Symbol;Acc:HGNC:376]	
+AKR1C2	aldo-keto reductase family 1 member C2 [Source:HGNC Symbol;Acc:HGNC:385]	46XY disorder of sex development due to testicular 1720-desmolase deficiency
+AKR1C2	aldo-keto reductase family 1 member C2 [Source:HGNC Symbol;Acc:HGNC:385]	46XY SEX REVERSAL 8
+ALB	albumin [Source:HGNC Symbol;Acc:HGNC:399]	Congenital analbuminemia
+ALB	albumin [Source:HGNC Symbol;Acc:HGNC:399]	Analbuminemia
+ALB	albumin [Source:HGNC Symbol;Acc:HGNC:399]	HYPERTHYROXINEMIA FAMILIAL DYSALBUMINEMIC
+ALDH1A1	aldehyde dehydrogenase 1 family member A1 [Source:HGNC Symbol;Acc:HGNC:402]	
+ALKBH8	alkB homolog 8, tRNA methyltransferase [Source:HGNC Symbol;Acc:HGNC:25189]	
+ALMS1	ALMS1, centrosome and basal body associated protein [Source:HGNC Symbol;Acc:HGNC:428]	Alstrom Syndrome
+ALOX15B	arachidonate 15-lipoxygenase, type B [Source:HGNC Symbol;Acc:HGNC:434]	negative regulation of cell proliferation
+ALOX15B	arachidonate 15-lipoxygenase, type B [Source:HGNC Symbol;Acc:HGNC:434]	positive regulation of chemokine secretion
+ALOX15B	arachidonate 15-lipoxygenase, type B [Source:HGNC Symbol;Acc:HGNC:434]	positive regulation of macrophage derived foam cell differentiation
+AMDHD1	amidohydrolase domain containing 1 [Source:HGNC Symbol;Acc:HGNC:28577]	
+AMY2A	amylase, alpha 2A (pancreatic) [Source:HGNC Symbol;Acc:HGNC:477]	
+ANAPC1	anaphase promoting complex subunit 1 [Source:HGNC Symbol;Acc:HGNC:19988]	
+ANAPC16	anaphase promoting complex subunit 16 [Source:HGNC Symbol;Acc:HGNC:26976]	
+ANGPT2	angiopoietin 2 [Source:HGNC Symbol;Acc:HGNC:485]	
+ANGPTL2	angiopoietin like 2 [Source:HGNC Symbol;Acc:HGNC:490]	
+ANK3	ankyrin 3 [Source:HGNC Symbol;Acc:HGNC:494]	Intellectual disability-hypotonia-spasticity-sleep disorder syndrome
+ANK3	ankyrin 3 [Source:HGNC Symbol;Acc:HGNC:494]	MENTAL RETARDATION AUTOSOMAL RECESSIVE 37
+ANKLE1	ankyrin repeat and LEM domain containing 1 [Source:HGNC Symbol;Acc:HGNC:26812]	mRNA export from nucleus
+ANKLE1	ankyrin repeat and LEM domain containing 1 [Source:HGNC Symbol;Acc:HGNC:26812]	positive regulation of protein export from nucleus
+ANKRD13C	ankyrin repeat domain 13C [Source:HGNC Symbol;Acc:HGNC:25374]	
+ANKRD34B	ankyrin repeat domain 34B [Source:HGNC Symbol;Acc:HGNC:33736]	
+ANKRD36	ankyrin repeat domain 36 [Source:HGNC Symbol;Acc:HGNC:24079]	
+ANKRD36C	ankyrin repeat domain 36C [Source:HGNC Symbol;Acc:HGNC:32946]	
+ANKRD37	ankyrin repeat domain 37 [Source:HGNC Symbol;Acc:HGNC:29593]	
+ANKRD66	ankyrin repeat domain 66 [Source:HGNC Symbol;Acc:HGNC:44669]	
+ANO2	anoctamin 2 [Source:HGNC Symbol;Acc:HGNC:1183]	
+ANPEP	alanyl aminopeptidase, membrane [Source:HGNC Symbol;Acc:HGNC:500]	
+AOC2	amine oxidase, copper containing 2 [Source:HGNC Symbol;Acc:HGNC:549]	
+APOOL	apolipoprotein O like [Source:HGNC Symbol;Acc:HGNC:24009]	
+ARAP1	ArfGAP with RhoGAP domain, ankyrin repeat and PH domain 1 [Source:HGNC Symbol;Acc:HGNC:16925]	
+AREL1	apoptosis resistant E3 ubiquitin protein ligase 1 [Source:HGNC Symbol;Acc:HGNC:20363]	
+ARHGEF19	Rho guanine nucleotide exchange factor 19 [Source:HGNC Symbol;Acc:HGNC:26604]	
+ARID5A	AT-rich interaction domain 5A [Source:HGNC Symbol;Acc:HGNC:17361]	
+ARIH2OS	ariadne homolog 2 opposite strand [Source:HGNC Symbol;Acc:HGNC:34425]	
+ARL6IP4	ADP ribosylation factor like GTPase 6 interacting protein 4 [Source:HGNC Symbol;Acc:HGNC:18076]	
+ARMCX4	armadillo repeat containing, X-linked 4 [Source:HGNC Symbol;Acc:HGNC:28615]	
+ARMCX5	armadillo repeat containing, X-linked 5 [Source:HGNC Symbol;Acc:HGNC:25772]	
+ARR3	arrestin 3 [Source:HGNC Symbol;Acc:HGNC:710]	
+ARSB	arylsulfatase B [Source:HGNC Symbol;Acc:HGNC:714]	Mucopolysaccharidosis type 6 rapidly progressing
+ARSB	arylsulfatase B [Source:HGNC Symbol;Acc:HGNC:714]	Mucopolysaccharidosis type 6 slowly progressing
+ARSB	arylsulfatase B [Source:HGNC Symbol;Acc:HGNC:714]	MUCOPOLYSACCHARIDOSIS TYPE VI
+ART3	ADP-ribosyltransferase 3 [Source:HGNC Symbol;Acc:HGNC:725]	
+ASTE1	asteroid homolog 1 (Drosophila) [Source:HGNC Symbol;Acc:HGNC:25021]	
+ATF4	activating transcription factor 4 [Source:HGNC Symbol;Acc:HGNC:786]	
+ATF6	activating transcription factor 6 [Source:HGNC Symbol;Acc:HGNC:791]	Achromatopsia
+ATF6	activating transcription factor 6 [Source:HGNC Symbol;Acc:HGNC:791]	ACHROMATOPSIA 7
+ATG14	autophagy related 14 [Source:HGNC Symbol;Acc:HGNC:19962]	
+ATG4B	autophagy related 4B cysteine peptidase [Source:HGNC Symbol;Acc:HGNC:20790]	
+ATOH8	atonal bHLH transcription factor 8 [Source:HGNC Symbol;Acc:HGNC:24126]	negative regulation of endothelial cell proliferation
+ATOH8	atonal bHLH transcription factor 8 [Source:HGNC Symbol;Acc:HGNC:24126]	positive regulation of endothelial cell differentiation
+ATOH8	atonal bHLH transcription factor 8 [Source:HGNC Symbol;Acc:HGNC:24126]	canonical Wnt signaling pathway involved in positive regulation of endothelial cell migration
+ATOH8	atonal bHLH transcription factor 8 [Source:HGNC Symbol;Acc:HGNC:24126]	tube formation
+ATP10B	ATPase phospholipid transporting 10B (putative) [Source:HGNC Symbol;Acc:HGNC:13543]	
+ATR	ATR serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:882]	Familial cutaneous telangiectasia and oropharyngeal predisposition cancer syndrome
+ATR	ATR serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:882]	Seckel syndrome
+ATR	ATR serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:882]	CUTANEOUS TELANGIECTASIA AND CANCER SYNDROME FAMILIAL
+ATR	ATR serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:882]	SECKEL SYNDROME 1
+ATR	ATR serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:882]	Seckel syndrome type 1 (SCKL1)
+ATXN3	ataxin 3 [Source:HGNC Symbol;Acc:HGNC:7106]	Machado-Joseph disease type 1
+ATXN3	ataxin 3 [Source:HGNC Symbol;Acc:HGNC:7106]	Machado-Joseph disease type 2
+ATXN3	ataxin 3 [Source:HGNC Symbol;Acc:HGNC:7106]	Machado-Joseph disease type 3
+ATXN3	ataxin 3 [Source:HGNC Symbol;Acc:HGNC:7106]	MACHADO-JOSEPH DISEASE
+ATXN3	ataxin 3 [Source:HGNC Symbol;Acc:HGNC:7106]	actin cytoskeleton organization
+ATXN3	ataxin 3 [Source:HGNC Symbol;Acc:HGNC:7106]	intermediate filament cytoskeleton organization
+ATXN3	ataxin 3 [Source:HGNC Symbol;Acc:HGNC:7106]	microtubule cytoskeleton organization
+ATXN3	ataxin 3 [Source:HGNC Symbol;Acc:HGNC:7106]	positive regulation of ERAD pathway
+ATXN3	ataxin 3 [Source:HGNC Symbol;Acc:HGNC:7106]	protein deubiquitination involved in ubiquitin-dependent protein catabolic process
+ATXN3	ataxin 3 [Source:HGNC Symbol;Acc:HGNC:7106]	protein localization to cytosolic proteasome complex involved in ERAD pathway
+ATXN3	ataxin 3 [Source:HGNC Symbol;Acc:HGNC:7106]	negative regulation of cell-substrate adhesion
+AUP1	ancient ubiquitous protein 1 [Source:HGNC Symbol;Acc:HGNC:891]	
+AURKC	aurora kinase C [Source:HGNC Symbol;Acc:HGNC:11391]	Male infertility due to large-headed multiflagellar polyploid spermatozoa
+AURKC	aurora kinase C [Source:HGNC Symbol;Acc:HGNC:11391]	SPERMATOGENIC FAILURE 5
+AZGP1	alpha-2-glycoprotein 1, zinc-binding [Source:HGNC Symbol;Acc:HGNC:910]	
+B4GALNT4	beta-1,4-N-acetyl-galactosaminyltransferase 4 [Source:HGNC Symbol;Acc:HGNC:26315]	
+BAG3	BCL2 associated athanogene 3 [Source:HGNC Symbol;Acc:HGNC:939]	Familial isolated dilated cardiomyopathy
+BAG3	BCL2 associated athanogene 3 [Source:HGNC Symbol;Acc:HGNC:939]	Muscular dystrophy Selcen type
+BAG3	BCL2 associated athanogene 3 [Source:HGNC Symbol;Acc:HGNC:939]	CARDIOMYOPATHY DILATED 1HH
+BAG3	BCL2 associated athanogene 3 [Source:HGNC Symbol;Acc:HGNC:939]	Myopathy myofibrillar 6
+BANP	BTG3 associated nuclear protein [Source:HGNC Symbol;Acc:HGNC:13450]	
+BARHL2	BarH like homeobox 2 [Source:HGNC Symbol;Acc:HGNC:954]	
+BCAT2	branched chain amino acid transaminase 2 [Source:HGNC Symbol;Acc:HGNC:977]	
+BCL3	B-cell CLL/lymphoma 3 [Source:HGNC Symbol;Acc:HGNC:998]	DNA damage response signal transduction by p53 class mediator
+BCL3	B-cell CLL/lymphoma 3 [Source:HGNC Symbol;Acc:HGNC:998]	intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator
+BCL3	B-cell CLL/lymphoma 3 [Source:HGNC Symbol;Acc:HGNC:998]	negative regulation of interleukin-8 biosynthetic process
+BCL3	B-cell CLL/lymphoma 3 [Source:HGNC Symbol;Acc:HGNC:998]	positive regulation of translation
+BCL3	B-cell CLL/lymphoma 3 [Source:HGNC Symbol;Acc:HGNC:998]	negative regulation of protein import into nucleus translocation
+BCL6	B-cell CLL/lymphoma 6 [Source:HGNC Symbol;Acc:HGNC:1001]	Follicular lymphoma
+BCL6	B-cell CLL/lymphoma 6 [Source:HGNC Symbol;Acc:HGNC:1001]	Intravascular large B-cell lymphoma
+BCL6	B-cell CLL/lymphoma 6 [Source:HGNC Symbol;Acc:HGNC:1001]	Primary mediastinal large B-cell lymphoma
+BCL6	B-cell CLL/lymphoma 6 [Source:HGNC Symbol;Acc:HGNC:1001]	negative regulation of transcription DNA-templated
+BCL6	B-cell CLL/lymphoma 6 [Source:HGNC Symbol;Acc:HGNC:1001]	RNA polymerase II transcription factor activity sequence-specific DNA binding
+BDNF	brain derived neurotrophic factor [Source:HGNC Symbol;Acc:HGNC:1033]	WAGR syndrome
+BDNF	brain derived neurotrophic factor [Source:HGNC Symbol;Acc:HGNC:1033]	BULIMIA NERVOSA SUSCEPTIBILITY TO 1
+BDNF	brain derived neurotrophic factor [Source:HGNC Symbol;Acc:HGNC:1033]	BULIMIA NERVOSA SUSCEPTIBILITY TO 2
+BDNF	brain derived neurotrophic factor [Source:HGNC Symbol;Acc:HGNC:1033]	CENTRAL HYPOVENTILATION SYNDROME CONGENITAL
+BDNF	brain derived neurotrophic factor [Source:HGNC Symbol;Acc:HGNC:1033]	Obsessive-compulsive disorder
+BMP2K	BMP2 inducible kinase [Source:HGNC Symbol;Acc:HGNC:18041]	
+BNIPL	BCL2 interacting protein like [Source:HGNC Symbol;Acc:HGNC:16976]	
+BOD1L1	biorientation of chromosomes in cell division 1 like 1 [Source:HGNC Symbol;Acc:HGNC:31792]	
+BRAF	B-Raf proto-oncogene, serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:1097]	CARDIOFACIOCUTANEOUS SYNDROME
+BRAF	B-Raf proto-oncogene, serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:1097]	Craniopharyngioma
+BRAF	B-Raf proto-oncogene, serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:1097]	Differentiated thyroid carcinoma
+BRAF	B-Raf proto-oncogene, serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:1097]	Hairy cell leukemia
+BRAF	B-Raf proto-oncogene, serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:1097]	Hashimoto-Pritzker syndrome
+BRAF	B-Raf proto-oncogene, serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:1097]	NOONAN SYNDROME
+BRAF	B-Raf proto-oncogene, serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:1097]	Noonan syndrome with multiple lentigines
+BRAF	B-Raf proto-oncogene, serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:1097]	Pilocytic astrocytoma
+BRAF	B-Raf proto-oncogene, serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:1097]	CARDIOFACIOCUTANEOUS SYNDROME 1
+BRAF	B-Raf proto-oncogene, serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:1097]	LEOPARD SYNDROME 3
+BRAF	B-Raf proto-oncogene, serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:1097]	LUNG CANCER ALVEOLAR CELL CARCINOMA INCLUDED
+BRAF	B-Raf proto-oncogene, serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:1097]	NOONAN SYNDROME 1
+BRAF	B-Raf proto-oncogene, serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:1097]	NOONAN SYNDROME 7
+BRAF	B-Raf proto-oncogene, serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:1097]	LEOPARD syndrome type 3 (LEOPARD3)
+BRAF	B-Raf proto-oncogene, serine/threonine kinase [Source:HGNC Symbol;Acc:HGNC:1097]	Noonan syndrome type 7 (NS7)
+BRI3	brain protein I3 [Source:HGNC Symbol;Acc:HGNC:1109]	
+BTAF1	B-TFIID TATA-box binding protein associated factor 1 [Source:HGNC Symbol;Acc:HGNC:17307]	
+C10orf107	chromosome 10 open reading frame 107 [Source:HGNC Symbol;Acc:HGNC:28678]	
+C10orf111	chromosome 10 open reading frame 111 [Source:HGNC Symbol;Acc:HGNC:28582]	
+C11orf16	chromosome 11 open reading frame 16 [Source:HGNC Symbol;Acc:HGNC:1169]	
+C11orf84	chromosome 11 open reading frame 84 [Source:HGNC Symbol;Acc:HGNC:25115]	
+C11orf94	chromosome 11 open reading frame 94 [Source:HGNC Symbol;Acc:HGNC:37213]	
+C15orf39	chromosome 15 open reading frame 39 [Source:HGNC Symbol;Acc:HGNC:24497]	
+C17orf67	chromosome 17 open reading frame 67 [Source:HGNC Symbol;Acc:HGNC:27900]	
+C19orf33	chromosome 19 open reading frame 33 [Source:HGNC Symbol;Acc:HGNC:16668]	
+C19orf48	chromosome 19 open reading frame 48 [Source:HGNC Symbol;Acc:HGNC:29667]	
+C1orf143	chromosome 1 open reading frame 143 [Source:HGNC Symbol;Acc:HGNC:32045]	
+C1orf145	chromosome 1 open reading frame 145 [Source:HGNC Symbol;Acc:HGNC:32047]	
+C1QA	complement C1q A chain [Source:HGNC Symbol;Acc:HGNC:1241]	Immunodeficiency due to a classical component pathway complement deficiency
+C1QA	complement C1q A chain [Source:HGNC Symbol;Acc:HGNC:1241]	C1q DEFICIENCY
+C1QTNF7	C1q and tumor necrosis factor related protein 7 [Source:HGNC Symbol;Acc:HGNC:14342]	
+C22orf34	chromosome 22 open reading frame 34 [Source:HGNC Symbol;Acc:HGNC:28010]	
+C2orf16	chromosome 2 open reading frame 16 [Source:HGNC Symbol;Acc:HGNC:25275]	
+C4orf22	chromosome 4 open reading frame 22 [Source:HGNC Symbol;Acc:HGNC:28554]	
+C4orf33	chromosome 4 open reading frame 33 [Source:HGNC Symbol;Acc:HGNC:27025]	
+C4orf50	chromosome 4 open reading frame 50 [Source:HGNC Symbol;Acc:HGNC:33766]	
+C5	complement C5 [Source:HGNC Symbol;Acc:HGNC:1331]	Immunodeficiency due to a late component of complement deficiency
+C5	complement C5 [Source:HGNC Symbol;Acc:HGNC:1331]	COMPLEMENT COMPONENT 5 DEFICIENCY
+C5	complement C5 [Source:HGNC Symbol;Acc:HGNC:1331]	ECULIZUMAB POOR RESPONSE TO
+C5orf42	chromosome 5 open reading frame 42 [Source:HGNC Symbol;Acc:HGNC:25801]	JOUBERT SYNDROME
+C5orf42	chromosome 5 open reading frame 42 [Source:HGNC Symbol;Acc:HGNC:25801]	Joubert syndrome with orofaciodigital defect
+C5orf42	chromosome 5 open reading frame 42 [Source:HGNC Symbol;Acc:HGNC:25801]	Monomelic amyotrophy
+C5orf42	chromosome 5 open reading frame 42 [Source:HGNC Symbol;Acc:HGNC:25801]	JOUBERT SYNDROME 1
+C5orf42	chromosome 5 open reading frame 42 [Source:HGNC Symbol;Acc:HGNC:25801]	JOUBERT SYNDROME 17
+C5orf42	chromosome 5 open reading frame 42 [Source:HGNC Symbol;Acc:HGNC:25801]	OROFACIODIGITAL SYNDROME VI
+C5orf42	chromosome 5 open reading frame 42 [Source:HGNC Symbol;Acc:HGNC:25801]	cilium assembly
+C6orf141	chromosome 6 open reading frame 141 [Source:HGNC Symbol;Acc:HGNC:21351]	
+C7orf55-LUC7L2	C7orf55-LUC7L2 readthrough [Source:HGNC Symbol;Acc:HGNC:44671]	
+C7orf57	chromosome 7 open reading frame 57 [Source:HGNC Symbol;Acc:HGNC:22247]	
+C7orf61	chromosome 7 open reading frame 61 [Source:HGNC Symbol;Acc:HGNC:22135]	
+C8orf44	chromosome 8 open reading frame 44 [Source:HGNC Symbol;Acc:HGNC:25646]	
+C9orf152	chromosome 9 open reading frame 152 [Source:HGNC Symbol;Acc:HGNC:31455]	
+CACUL1	CDK2 associated cullin domain 1 [Source:HGNC Symbol;Acc:HGNC:23727]	
+CALN1	calneuron 1 [Source:HGNC Symbol;Acc:HGNC:13248]	
+CAPN2	calpain 2 [Source:HGNC Symbol;Acc:HGNC:1479]	
+CARD14	caspase recruitment domain family member 14 [Source:HGNC Symbol;Acc:HGNC:16446]	Pityriasis rubra pilaris
+CARD14	caspase recruitment domain family member 14 [Source:HGNC Symbol;Acc:HGNC:16446]	Psoriasis 2
+CARD14	caspase recruitment domain family member 14 [Source:HGNC Symbol;Acc:HGNC:16446]	canonical Wnt signaling pathway involved in negative regulation of apoptotic process
+CARD14	caspase recruitment domain family member 14 [Source:HGNC Symbol;Acc:HGNC:16446]	positive regulation of NF-kappaB transcription factor activity
+CARD14	caspase recruitment domain family member 14 [Source:HGNC Symbol;Acc:HGNC:16446]	positive regulation of tumor necrosis factor-mediated signaling pathway
+CARD9	caspase recruitment domain family member 9 [Source:HGNC Symbol;Acc:HGNC:16391]	Predisposition to invasive fungal disease due to CARD9 deficiency
+CARD9	caspase recruitment domain family member 9 [Source:HGNC Symbol;Acc:HGNC:16391]	CANDIDIASIS FAMILIAL 2
+CASP4	caspase 4 [Source:HGNC Symbol;Acc:HGNC:1505]	
+CASP7	caspase 7 [Source:HGNC Symbol;Acc:HGNC:1508]	
+CBLN1	cerebellin 1 precursor [Source:HGNC Symbol;Acc:HGNC:1543]	
+CBLN3	cerebellin 3 precursor [Source:HGNC Symbol;Acc:HGNC:20146]	
+CBX2	chromobox 2 [Source:HGNC Symbol;Acc:HGNC:1552]	46XY complete gonadal dysgenesis
+CBX2	chromobox 2 [Source:HGNC Symbol;Acc:HGNC:1552]	46XY SEX REVERSAL 5
+CCDC102A	coiled-coil domain containing 102A [Source:HGNC Symbol;Acc:HGNC:28097]	
+CCDC113	coiled-coil domain containing 113 [Source:HGNC Symbol;Acc:HGNC:25002]	centriolar satellite
+CCDC113	coiled-coil domain containing 113 [Source:HGNC Symbol;Acc:HGNC:25002]	cilium assembly
+CCDC117	coiled-coil domain containing 117 [Source:HGNC Symbol;Acc:HGNC:26599]	
+CCDC144A	coiled-coil domain containing 144A [Source:HGNC Symbol;Acc:HGNC:29072]	
+CCDC151	coiled-coil domain containing 151 [Source:HGNC Symbol;Acc:HGNC:28303]	Primary ciliary dyskinesia
+CCDC151	coiled-coil domain containing 151 [Source:HGNC Symbol;Acc:HGNC:28303]	Ciliary dyskinesia primary 30
+CCDC151	coiled-coil domain containing 151 [Source:HGNC Symbol;Acc:HGNC:28303]	Primary cillary dyskineasia
+CCDC151	coiled-coil domain containing 151 [Source:HGNC Symbol;Acc:HGNC:28303]	cilium movement
+CCDC151	coiled-coil domain containing 151 [Source:HGNC Symbol;Acc:HGNC:28303]	determination of left/right symmetry
+CCDC36	coiled-coil domain containing 36 [Source:HGNC Symbol;Acc:HGNC:27945]	
+CCDC43	coiled-coil domain containing 43 [Source:HGNC Symbol;Acc:HGNC:26472]	
+CCDC88A	coiled-coil domain containing 88A [Source:HGNC Symbol;Acc:HGNC:25523]	PEHO-like syndrome
+CCDC88A	coiled-coil domain containing 88A [Source:HGNC Symbol;Acc:HGNC:25523]	PEHO syndrome
+CCHCR1	coiled-coil alpha-helical rod protein 1 [Source:HGNC Symbol;Acc:HGNC:13930]	
+CCL17	C-C motif chemokine ligand 17 [Source:HGNC Symbol;Acc:HGNC:10615]	
+CCND3	cyclin D3 [Source:HGNC Symbol;Acc:HGNC:1585]	
+CCNH	cyclin H [Source:HGNC Symbol;Acc:HGNC:1594]	
+CCSER2	coiled-coil serine rich protein 2 [Source:HGNC Symbol;Acc:HGNC:29197]	
+CCT6B	chaperonin containing TCP1 subunit 6B [Source:HGNC Symbol;Acc:HGNC:1621]	
+CD177	CD177 molecule [Source:HGNC Symbol;Acc:HGNC:30072]	
+CD36	CD36 molecule [Source:HGNC Symbol;Acc:HGNC:1663]	CORONARY HEART DISEASE SUSCEPTIBILITY TO 7
+CD36	CD36 molecule [Source:HGNC Symbol;Acc:HGNC:1663]	MALARIA SUSCEPTIBILITY TO MALARIA RESISTANCE TO INCLUDED
+CD36	CD36 molecule [Source:HGNC Symbol;Acc:HGNC:1663]	PLATELET GLYCOPROTEIN IV DEFICIENCY
+CD36	CD36 molecule [Source:HGNC Symbol;Acc:HGNC:1663]	positive regulation of lipid storage
+CD36	CD36 molecule [Source:HGNC Symbol;Acc:HGNC:1663]	lipoprotein transport
+CD36	CD36 molecule [Source:HGNC Symbol;Acc:HGNC:1663]	low-density lipoprotein particle clearance
+CD36	CD36 molecule [Source:HGNC Symbol;Acc:HGNC:1663]	low-density lipoprotein receptor activity
+CD36	CD36 molecule [Source:HGNC Symbol;Acc:HGNC:1663]	positive regulation of macrophage derived foam cell differentiation
+CD38	CD38 molecule [Source:HGNC Symbol;Acc:HGNC:1667]	
+CD4	CD4 molecule [Source:HGNC Symbol;Acc:HGNC:1678]	OKT4 EPITOPE DEFICIENCY
+CD47	CD47 molecule [Source:HGNC Symbol;Acc:HGNC:1682]	
+CDC42BPG	CDC42 binding protein kinase gamma [Source:HGNC Symbol;Acc:HGNC:29829]	
+CDH15	cadherin 15 [Source:HGNC Symbol;Acc:HGNC:1754]	Autosomal dominant non-syndromic intellectual disability
+CDH15	cadherin 15 [Source:HGNC Symbol;Acc:HGNC:1754]	MENTAL RETARDATION AUTOSOMAL DOMINANT 3
+CDH15	cadherin 15 [Source:HGNC Symbol;Acc:HGNC:1754]	mental retardation autosomal dominant type 3 (MRD3)
+CDK10	cyclin dependent kinase 10 [Source:HGNC Symbol;Acc:HGNC:1770]	
+CDK2AP2	cyclin dependent kinase 2 associated protein 2 [Source:HGNC Symbol;Acc:HGNC:30833]	
+CDKL5	cyclin dependent kinase like 5 [Source:HGNC Symbol;Acc:HGNC:11411]	Atypical Rett syndrome
+CDKL5	cyclin dependent kinase like 5 [Source:HGNC Symbol;Acc:HGNC:11411]	Early infantile epileptic encephalopathy
+CDKL5	cyclin dependent kinase like 5 [Source:HGNC Symbol;Acc:HGNC:11411]	West syndrome
+CDKL5	cyclin dependent kinase like 5 [Source:HGNC Symbol;Acc:HGNC:11411]	EPILEPTIC ENCEPHALOPATHY EARLY INFANTILE 2
+CDKL5	cyclin dependent kinase like 5 [Source:HGNC Symbol;Acc:HGNC:11411]	epileptic encephalopathy early infantile type 2 (EIEE2)
+CEBPB	CCAAT/enhancer binding protein beta [Source:HGNC Symbol;Acc:HGNC:1834]	
+CEBPD	CCAAT/enhancer binding protein delta [Source:HGNC Symbol;Acc:HGNC:1835]	
+CEBPG	CCAAT/enhancer binding protein gamma [Source:HGNC Symbol;Acc:HGNC:1837]	
+CEL	carboxyl ester lipase [Source:HGNC Symbol;Acc:HGNC:1848]	MODY type II
+CEL	carboxyl ester lipase [Source:HGNC Symbol;Acc:HGNC:1848]	MATURITY-ONSET DIABETES OF THE YOUNG TYPE 8 WITH EXOCRINE DYSFUNCTION
+CELSR1	cadherin EGF LAG seven-pass G-type receptor 1 [Source:HGNC Symbol;Acc:HGNC:1850]	
+CENPL	centromere protein L [Source:HGNC Symbol;Acc:HGNC:17879]	
+CERS1	ceramide synthase 1 [Source:HGNC Symbol;Acc:HGNC:14253]	Progressive myoclonic epilepsy type 8
+CERS1	ceramide synthase 1 [Source:HGNC Symbol;Acc:HGNC:14253]	Conotruncal heart malformations
+CERS1	ceramide synthase 1 [Source:HGNC Symbol;Acc:HGNC:14253]	EPILEPSY PROGRESSIVE MYOCLONIC 8 (1 family)
+CERS1	ceramide synthase 1 [Source:HGNC Symbol;Acc:HGNC:14253]	RIGHT ATRIAL ISOMERISM
+CERS1	ceramide synthase 1 [Source:HGNC Symbol;Acc:HGNC:14253]	TETRALOGY OF FALLOT
+CERS1	ceramide synthase 1 [Source:HGNC Symbol;Acc:HGNC:14253]	TRANSPOSITION OF THE GREAT ARTERIES DEXTRO-LOOPED 3
+CES2	carboxylesterase 2 [Source:HGNC Symbol;Acc:HGNC:1864]	
+CFD	complement factor D [Source:HGNC Symbol;Acc:HGNC:2771]	COMPLEMENT FACTOR D DEFICIENCY
+CFD	complement factor D [Source:HGNC Symbol;Acc:HGNC:2771]	Recurrent Neisseria infections due to factor D deficiency
+CFTR	cystic fibrosis transmembrane conductance regulator [Source:HGNC Symbol;Acc:HGNC:1884]	Congenital bilateral absence of vas deferens
+CFTR	cystic fibrosis transmembrane conductance regulator [Source:HGNC Symbol;Acc:HGNC:1884]	CYSTIC FIBROSIS
+CFTR	cystic fibrosis transmembrane conductance regulator [Source:HGNC Symbol;Acc:HGNC:1884]	Hereditary chronic pancreatitis
+CFTR	cystic fibrosis transmembrane conductance regulator [Source:HGNC Symbol;Acc:HGNC:1884]	Idiopathic bronchiectasis
+CFTR	cystic fibrosis transmembrane conductance regulator [Source:HGNC Symbol;Acc:HGNC:1884]	Male infertility with azoospermia or oligozoospermia due to single gene mutation
+CFTR	cystic fibrosis transmembrane conductance regulator [Source:HGNC Symbol;Acc:HGNC:1884]	BRONCHIECTASIS WITH OR WITHOUT ELEVATED SWEAT CHLORIDE 1
+CFTR	cystic fibrosis transmembrane conductance regulator [Source:HGNC Symbol;Acc:HGNC:1884]	PANCREATITIS HEREDITARY
+CFTR	cystic fibrosis transmembrane conductance regulator [Source:HGNC Symbol;Acc:HGNC:1884]	VAS DEFERENS CONGENITAL BILATERAL APLASIA OF
+CFTR	cystic fibrosis transmembrane conductance regulator [Source:HGNC Symbol;Acc:HGNC:1884]	chloride channel activity
+CFTR	cystic fibrosis transmembrane conductance regulator [Source:HGNC Symbol;Acc:HGNC:1884]	chloride transmembrane transport
+CFTR	cystic fibrosis transmembrane conductance regulator [Source:HGNC Symbol;Acc:HGNC:1884]	positive regulation of cyclic nucleotide-gated ion channel activity
+CFTR	cystic fibrosis transmembrane conductance regulator [Source:HGNC Symbol;Acc:HGNC:1884]	positive regulation of exocytosis
+CFTR	cystic fibrosis transmembrane conductance regulator [Source:HGNC Symbol;Acc:HGNC:1884]	positive regulation of insulin secretion involved in cellular response to glucose stimulus
+CHD6	chromodomain helicase DNA binding protein 6 [Source:HGNC Symbol;Acc:HGNC:19057]	
+CHIC2	cysteine rich hydrophobic domain 2 [Source:HGNC Symbol;Acc:HGNC:1935]	
+CHMP4A	charged multivesicular body protein 4A [Source:HGNC Symbol;Acc:HGNC:20274]	
+CHORDC1	cysteine and histidine rich domain containing 1 [Source:HGNC Symbol;Acc:HGNC:14525]	
+CIRBP	cold inducible RNA binding protein [Source:HGNC Symbol;Acc:HGNC:1982]	
+CKS2	CDC28 protein kinase regulatory subunit 2 [Source:HGNC Symbol;Acc:HGNC:2000]	
+CLASP2	cytoplasmic linker associated protein 2 [Source:HGNC Symbol;Acc:HGNC:17078]	
+CLDN15	claudin 15 [Source:HGNC Symbol;Acc:HGNC:2036]	
+CLDN3	claudin 3 [Source:HGNC Symbol;Acc:HGNC:2045]	bicellular tight junction assembly
+CLDN3	claudin 3 [Source:HGNC Symbol;Acc:HGNC:2045]	positive regulation of protein homooligomerization
+CLDN7	claudin 7 [Source:HGNC Symbol;Acc:HGNC:2049]	
+CLEC18A	C-type lectin domain family 18 member A [Source:HGNC Symbol;Acc:HGNC:30388]	
+CLEC18B	C-type lectin domain family 18 member B [Source:HGNC Symbol;Acc:HGNC:33849]	
+CLEC2B	C-type lectin domain family 2 member B [Source:HGNC Symbol;Acc:HGNC:2053]	
+CLEC4F	C-type lectin domain family 4 member F [Source:HGNC Symbol;Acc:HGNC:25357]	
+CLIC2	chloride intracellular channel 2 [Source:HGNC Symbol;Acc:HGNC:2063]	X-linked intellectual disability-cardiomegaly-congestive heart failure syndrome
+CLIC2	chloride intracellular channel 2 [Source:HGNC Symbol;Acc:HGNC:2063]	MENTAL RETARDATION X-LINKED SYNDROMIC 32
+CLU	clusterin [Source:HGNC Symbol;Acc:HGNC:2095]	
+CNTD2	cyclin N-terminal domain containing 2 [Source:HGNC Symbol;Acc:HGNC:25805]	
+CNTNAP5	contactin associated protein like 5 [Source:HGNC Symbol;Acc:HGNC:18748]	
+COA1	cytochrome c oxidase assembly factor 1 homolog [Source:HGNC Symbol;Acc:HGNC:21868]	
+COCH	cochlin [Source:HGNC Symbol;Acc:HGNC:2180]	Autosomal dominant nonsyndromic sensorineural deafness type DFNA
+COCH	cochlin [Source:HGNC Symbol;Acc:HGNC:2180]	DEAFNESS AUTOSOMAL DOMINANT 9
+COL13A1	collagen type XIII alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2190]	Postsynaptic congenital myasthenic syndromes
+COL13A1	collagen type XIII alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2190]	Presynaptic congenital myasthenic syndromes
+COL13A1	collagen type XIII alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2190]	Myasthenic syndrome congenital 19
+COL13A1	collagen type XIII alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2190]	Congenital Myasthenic Syndrome Type 19
+COL19A1	collagen type XIX alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2196]	
+COLGALT1	collagen beta(1-O)galactosyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:26182]	
+COPG2	coatomer protein complex subunit gamma 2 [Source:HGNC Symbol;Acc:HGNC:2237]	
+COX11	COX11, cytochrome c oxidase copper chaperone [Source:HGNC Symbol;Acc:HGNC:2261]	
+COX15	COX15, cytochrome c oxidase assembly homolog [Source:HGNC Symbol;Acc:HGNC:2263]	Fatal infantile cytochrome C oxidase deficiency
+COX15	COX15, cytochrome c oxidase assembly homolog [Source:HGNC Symbol;Acc:HGNC:2263]	Leigh syndrome with leukodystrophy
+COX15	COX15, cytochrome c oxidase assembly homolog [Source:HGNC Symbol;Acc:HGNC:2263]	CARDIOENCEPHALOMYOPATHY FATAL INFANTILE DUE TO CYTOCHROME c OXIDASEDEFICIENCY 2
+COX15	COX15, cytochrome c oxidase assembly homolog [Source:HGNC Symbol;Acc:HGNC:2263]	Leigh syndrome
+COX15	COX15, cytochrome c oxidase assembly homolog [Source:HGNC Symbol;Acc:HGNC:2263]	MITOCHONDRIAL COMPLEX IV DEFICIENCY
+COX18	COX18, cytochrome c oxidase assembly factor [Source:HGNC Symbol;Acc:HGNC:26801]	
+CPT1B	carnitine palmitoyltransferase 1B [Source:HGNC Symbol;Acc:HGNC:2329]	
+CRABP1	cellular retinoic acid binding protein 1 [Source:HGNC Symbol;Acc:HGNC:2338]	
+CRELD1	cysteine rich with EGF like domains 1 [Source:HGNC Symbol;Acc:HGNC:14630]	Complete atrioventricular canal-Fallot tetralogy syndrome
+CRELD1	cysteine rich with EGF like domains 1 [Source:HGNC Symbol;Acc:HGNC:14630]	Complete atrioventricular canal-left heart obstruction syndrome
+CRELD1	cysteine rich with EGF like domains 1 [Source:HGNC Symbol;Acc:HGNC:14630]	Complete atrioventricular canal-ventricle hypoplasia syndrome
+CRELD1	cysteine rich with EGF like domains 1 [Source:HGNC Symbol;Acc:HGNC:14630]	Partial atrioventricular canal
+CRELD1	cysteine rich with EGF like domains 1 [Source:HGNC Symbol;Acc:HGNC:14630]	ATRIOVENTRICULAR SEPTAL DEFECT SUSCEPTIBILITY TO 2
+CRELD1	cysteine rich with EGF like domains 1 [Source:HGNC Symbol;Acc:HGNC:14630]	Heterotaxy Syndrome
+CRTAM	cytotoxic and regulatory T-cell molecule [Source:HGNC Symbol;Acc:HGNC:24313]	
+CRYZL1	crystallin zeta like 1 [Source:HGNC Symbol;Acc:HGNC:2420]	
+CSAG1	chondrosarcoma associated gene 1 [Source:HGNC Symbol;Acc:HGNC:24294]	
+CSF1	colony stimulating factor 1 [Source:HGNC Symbol;Acc:HGNC:2432]	
+CTTNBP2	cortactin binding protein 2 [Source:HGNC Symbol;Acc:HGNC:15679]	
+CUZD1	CUB and zona pellucida like domains 1 [Source:HGNC Symbol;Acc:HGNC:17937]	
+CXCL6	C-X-C motif chemokine ligand 6 [Source:HGNC Symbol;Acc:HGNC:10643]	
+CXCR4	C-X-C motif chemokine receptor 4 [Source:HGNC Symbol;Acc:HGNC:2561]	WHIM SYNDROME
+CXCR4	C-X-C motif chemokine receptor 4 [Source:HGNC Symbol;Acc:HGNC:2561]	calcium-mediated signaling
+CXCR4	C-X-C motif chemokine receptor 4 [Source:HGNC Symbol;Acc:HGNC:2561]	positive regulation of chemotaxis
+CXorf56	chromosome X open reading frame 56 [Source:HGNC Symbol;Acc:HGNC:26239]	
+CXorf67	chromosome X open reading frame 67 [Source:HGNC Symbol;Acc:HGNC:33738]	
+CYB561D2	cytochrome b561 family member D2 [Source:HGNC Symbol;Acc:HGNC:30253]	
+CYBA	cytochrome b-245 alpha chain [Source:HGNC Symbol;Acc:HGNC:2577]	Chronic granulomatous disease
+CYBA	cytochrome b-245 alpha chain [Source:HGNC Symbol;Acc:HGNC:2577]	GRANULOMATOUS DISEASE CHRONIC AUTOSOMAL RECESSIVE CYTOCHROME b-NEGATIVE
+CYHR1	cysteine and histidine rich 1 [Source:HGNC Symbol;Acc:HGNC:17806]	
+CYP17A1	cytochrome P450 family 17 subfamily A member 1 [Source:HGNC Symbol;Acc:HGNC:2593]	46XY disorder of sex development due to isolated 17 20 lyase deficiency
+CYP17A1	cytochrome P450 family 17 subfamily A member 1 [Source:HGNC Symbol;Acc:HGNC:2593]	Congenital adrenal hyperplasia due to 17-alpha-hydroxylase deficiency
+CYP17A1	cytochrome P450 family 17 subfamily A member 1 [Source:HGNC Symbol;Acc:HGNC:2593]	ADRENAL HYPERPLASIA CONGENITAL DUE TO 17-ALPHA-HYDROXYLASE DEFICIENCY
+CYP17A1	cytochrome P450 family 17 subfamily A member 1 [Source:HGNC Symbol;Acc:HGNC:2593]	17-alpha-hydroxyprogesterone aldolase activity
+CYP17A1	cytochrome P450 family 17 subfamily A member 1 [Source:HGNC Symbol;Acc:HGNC:2593]	steroid 17-alpha-monooxygenase activity
+DAO	D-amino acid oxidase [Source:HGNC Symbol;Acc:HGNC:2671]	Amyotrophic lateral sclerosis
+DAO	D-amino acid oxidase [Source:HGNC Symbol;Acc:HGNC:2671]	SCHIZOPHRENIA
+DAXX	death domain associated protein [Source:HGNC Symbol;Acc:HGNC:2681]	
+DBT	dihydrolipoamide branched chain transacylase E2 [Source:HGNC Symbol;Acc:HGNC:2698]	Classic maple syrup urine disease
+DBT	dihydrolipoamide branched chain transacylase E2 [Source:HGNC Symbol;Acc:HGNC:2698]	Intermediate maple syrup urine disease
+DBT	dihydrolipoamide branched chain transacylase E2 [Source:HGNC Symbol;Acc:HGNC:2698]	Intermittent maple syrup urine disease
+DBT	dihydrolipoamide branched chain transacylase E2 [Source:HGNC Symbol;Acc:HGNC:2698]	Thiamine-responsive maple syrup urine disease
+DBT	dihydrolipoamide branched chain transacylase E2 [Source:HGNC Symbol;Acc:HGNC:2698]	Maple Syrup Urine Disease
+DBT	dihydrolipoamide branched chain transacylase E2 [Source:HGNC Symbol;Acc:HGNC:2698]	Maple Syrup Urine Diseaseq
+DCAF16	DDB1 and CUL4 associated factor 16 [Source:HGNC Symbol;Acc:HGNC:25987]	
+DCAF4L1	DDB1 and CUL4 associated factor 4 like 1 [Source:HGNC Symbol;Acc:HGNC:27723]	
+DCC	DCC netrin 1 receptor [Source:HGNC Symbol;Acc:HGNC:2701]	Familial congenital mirror movements
+DCC	DCC netrin 1 receptor [Source:HGNC Symbol;Acc:HGNC:2701]	COLORECTAL CANCER
+DCC	DCC netrin 1 receptor [Source:HGNC Symbol;Acc:HGNC:2701]	ESOPHAGEAL CANCER ESOPHAGEAL SQUAMOUS CELL CARCINOMA SUSCEPTIBILITY TO INCLUDED
+DCC	DCC netrin 1 receptor [Source:HGNC Symbol;Acc:HGNC:2701]	MIRROR MOVEMENTS 1
+DCC	DCC netrin 1 receptor [Source:HGNC Symbol;Acc:HGNC:2701]	positive regulation of neuron death
+DCTN4	dynactin subunit 4 [Source:HGNC Symbol;Acc:HGNC:15518]	CYSTIC FIBROSIS
+DDHD1	DDHD domain containing 1 [Source:HGNC Symbol;Acc:HGNC:19714]	Autosomal recessive spastic paraplegia type 28
+DDHD1	DDHD domain containing 1 [Source:HGNC Symbol;Acc:HGNC:19714]	SPASTIC PARAPLEGIA 28 AUTOSOMAL RECESSIVE
+DDHD1	DDHD domain containing 1 [Source:HGNC Symbol;Acc:HGNC:19714]	Hereditary Spastic Paraplegia
+DDHD2	DDHD domain containing 2 [Source:HGNC Symbol;Acc:HGNC:29106]	Autosomal recessive spastic paraplegia type 54
+DDHD2	DDHD domain containing 2 [Source:HGNC Symbol;Acc:HGNC:29106]	SPASTIC PARAPLEGIA 54 AUTOSOMAL RECESSIVE
+DDHD2	DDHD domain containing 2 [Source:HGNC Symbol;Acc:HGNC:29106]	Complex Hereditary Spastic Paraplegia
+DDIT4	DNA damage inducible transcript 4 [Source:HGNC Symbol;Acc:HGNC:24944]	negative regulation of TOR signaling
+DDIT4L	DNA damage inducible transcript 4 like [Source:HGNC Symbol;Acc:HGNC:30555]	
+DDX19A	DEAD-box helicase 19A [Source:HGNC Symbol;Acc:HGNC:25628]	
+DDX27	DEAD-box helicase 27 [Source:HGNC Symbol;Acc:HGNC:15837]	
+DEDD	death effector domain containing [Source:HGNC Symbol;Acc:HGNC:2755]	
+DEDD2	death effector domain containing 2 [Source:HGNC Symbol;Acc:HGNC:24450]	extrinsic apoptotic signaling pathway via death domain receptors
+DEDD2	death effector domain containing 2 [Source:HGNC Symbol;Acc:HGNC:24450]	positive regulation of extrinsic apoptotic signaling pathway
+DGKI	diacylglycerol kinase iota [Source:HGNC Symbol;Acc:HGNC:2855]	
+DHRS3	dehydrogenase/reductase 3 [Source:HGNC Symbol;Acc:HGNC:17693]	
+DHX57	DExH-box helicase 57 [Source:HGNC Symbol;Acc:HGNC:20086]	
+DIEXF	digestive organ expansion factor homolog (zebrafish) [Source:HGNC Symbol;Acc:HGNC:28440]	
+DIO3	deiodinase, iodothyronine type III [Source:HGNC Symbol;Acc:HGNC:2885]	
+DLL4	delta like canonical Notch ligand 4 [Source:HGNC Symbol;Acc:HGNC:2910]	Adams Oliver syndrome
+DLL4	delta like canonical Notch ligand 4 [Source:HGNC Symbol;Acc:HGNC:2910]	Aplasia cutis congenita
+DLL4	delta like canonical Notch ligand 4 [Source:HGNC Symbol;Acc:HGNC:2910]	ADAMS-OLIVER SYNDROME 6
+DMPK	dystrophia myotonica protein kinase [Source:HGNC Symbol;Acc:HGNC:2933]	Steinert myotonic dystrophy
+DMPK	dystrophia myotonica protein kinase [Source:HGNC Symbol;Acc:HGNC:2933]	MYOTONIC DYSTROPHY 1
+DMPK	dystrophia myotonica protein kinase [Source:HGNC Symbol;Acc:HGNC:2933]	dystrophia myotonica type 1 (DM1)
+DMPK	dystrophia myotonica protein kinase [Source:HGNC Symbol;Acc:HGNC:2933]	nuclear envelope organization
+DMRTC1B	DMRT like family C1B [Source:HGNC Symbol;Acc:HGNC:31686]	
+DNAJB1	DnaJ heat shock protein family (Hsp40) member B1 [Source:HGNC Symbol;Acc:HGNC:5270]	Fibrolamellar hepatocellular carcinoma
+DNAJB7	DnaJ heat shock protein family (Hsp40) member B7 [Source:HGNC Symbol;Acc:HGNC:24986]	
+DNAJC10	DnaJ heat shock protein family (Hsp40) member C10 [Source:HGNC Symbol;Acc:HGNC:24637]	
+DNAJC18	DnaJ heat shock protein family (Hsp40) member C18 [Source:HGNC Symbol;Acc:HGNC:28429]	
+DNAJC22	DnaJ heat shock protein family (Hsp40) member C22 [Source:HGNC Symbol;Acc:HGNC:25802]	
+DNAJC6	DnaJ heat shock protein family (Hsp40) member C6 [Source:HGNC Symbol;Acc:HGNC:15469]	Atypical juvenile parkinsonism
+DNAJC6	DnaJ heat shock protein family (Hsp40) member C6 [Source:HGNC Symbol;Acc:HGNC:15469]	Young-onset Parkinson disease
+DNAJC6	DnaJ heat shock protein family (Hsp40) member C6 [Source:HGNC Symbol;Acc:HGNC:15469]	PARKINSON DISEASE 19A JUVENILE-ONSET
+DNASE1L2	deoxyribonuclease 1 like 2 [Source:HGNC Symbol;Acc:HGNC:2958]	
+DNASE1L3	deoxyribonuclease 1 like 3 [Source:HGNC Symbol;Acc:HGNC:2959]	Autosomal recessive systemic lupus erythematosus
+DNASE1L3	deoxyribonuclease 1 like 3 [Source:HGNC Symbol;Acc:HGNC:2959]	Hypocomplementemic urticarial vasculitis
+DNASE1L3	deoxyribonuclease 1 like 3 [Source:HGNC Symbol;Acc:HGNC:2959]	SYSTEMIC LUPUS ERYTHEMATOSUS 16
+DOCK6	dedicator of cytokinesis 6 [Source:HGNC Symbol;Acc:HGNC:19189]	Adams Oliver syndrome
+DOCK6	dedicator of cytokinesis 6 [Source:HGNC Symbol;Acc:HGNC:19189]	Adams-Oliver syndrome 2
+DOK1	docking protein 1 [Source:HGNC Symbol;Acc:HGNC:2990]	
+DOPEY1	dopey family member 1 [Source:HGNC Symbol;Acc:HGNC:21194]	
+DPAGT1	dolichyl-phosphate N-acetylglucosaminephosphotransferase 1 [Source:HGNC Symbol;Acc:HGNC:2995]	Congenital myasthenic syndromes with glycosylation defect
+DPAGT1	dolichyl-phosphate N-acetylglucosaminephosphotransferase 1 [Source:HGNC Symbol;Acc:HGNC:2995]	DPAGT1-CDG syndrome
+DPAGT1	dolichyl-phosphate N-acetylglucosaminephosphotransferase 1 [Source:HGNC Symbol;Acc:HGNC:2995]	CONGENITAL DISORDER OF GLYCOSYLATION TYPE Ij
+DPAGT1	dolichyl-phosphate N-acetylglucosaminephosphotransferase 1 [Source:HGNC Symbol;Acc:HGNC:2995]	MYASTHENIC SYNDROME CONGENITAL 13
+DPAGT1	dolichyl-phosphate N-acetylglucosaminephosphotransferase 1 [Source:HGNC Symbol;Acc:HGNC:2995]	MYASTHENIC SYNDROME CONGENITAL WITH TUBULAR AGGREGATES 2
+DRD3	dopamine receptor D3 [Source:HGNC Symbol;Acc:HGNC:3024]	SCHIZOPHRENIA
+DRD3	dopamine receptor D3 [Source:HGNC Symbol;Acc:HGNC:3024]	TREMOR HEREDITARY ESSENTIAL 1
+DRD3	dopamine receptor D3 [Source:HGNC Symbol;Acc:HGNC:3024]	positive regulation of cytokinesis
+DRD3	dopamine receptor D3 [Source:HGNC Symbol;Acc:HGNC:3024]	prepulse inhibition
+DROSHA	drosha ribonuclease III [Source:HGNC Symbol;Acc:HGNC:17904]	
+DTWD2	DTW domain containing 2 [Source:HGNC Symbol;Acc:HGNC:19334]	
+DTX2	deltex E3 ubiquitin ligase 2 [Source:HGNC Symbol;Acc:HGNC:15973]	
+DUS4L	dihydrouridine synthase 4 like [Source:HGNC Symbol;Acc:HGNC:21517]	
+DUSP4	dual specificity phosphatase 4 [Source:HGNC Symbol;Acc:HGNC:3070]	negative regulation of ERK1 and ERK2 cascade
+DUSP9	dual specificity phosphatase 9 [Source:HGNC Symbol;Acc:HGNC:3076]	
+DYDC2	DPY30 domain containing 2 [Source:HGNC Symbol;Acc:HGNC:23468]	
+DZANK1	double zinc ribbon and ankyrin repeat domains 1 [Source:HGNC Symbol;Acc:HGNC:15858]	
+E2F4	E2F transcription factor 4 [Source:HGNC Symbol;Acc:HGNC:3118]	
+EBI3	Epstein-Barr virus induced 3 [Source:HGNC Symbol;Acc:HGNC:3129]	
+ECD	ecdysoneless cell cycle regulator [Source:HGNC Symbol;Acc:HGNC:17029]	
+ECHDC3	enoyl-CoA hydratase domain containing 3 [Source:HGNC Symbol;Acc:HGNC:23489]	
+EFCAB10	EF-hand calcium binding domain 10 [Source:HGNC Symbol;Acc:HGNC:34531]	
+EFCAB6	EF-hand calcium binding domain 6 [Source:HGNC Symbol;Acc:HGNC:24204]	
+EGFL8	EGF like domain multiple 8 [Source:HGNC Symbol;Acc:HGNC:13944]	
+EHMT1	euchromatic histone lysine methyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:24650]	Kleefstra syndrome due to 9q34 microdeletion
+EHMT1	euchromatic histone lysine methyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:24650]	Kleefstra syndrome due to a point mutation
+EHMT1	euchromatic histone lysine methyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:24650]	KLEEFSTRA SYNDROME
+EHMT1	euchromatic histone lysine methyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:24650]	9q subtelomeric deletion syndrome (9q- syndrome)
+EIF4EBP1	eukaryotic translation initiation factor 4E binding protein 1 [Source:HGNC Symbol;Acc:HGNC:3288]	
+ELP2	elongator acetyltransferase complex subunit 2 [Source:HGNC Symbol;Acc:HGNC:18248]	Autosomal Recessive Mental Retardation
+EMP3	epithelial membrane protein 3 [Source:HGNC Symbol;Acc:HGNC:3335]	
+EMX2	empty spiracles homeobox 2 [Source:HGNC Symbol;Acc:HGNC:3341]	Schizencephaly
+EMX2	empty spiracles homeobox 2 [Source:HGNC Symbol;Acc:HGNC:3341]	FAMILIAL SCHIZENCEPHALY EMX2-RELATED
+EN2	engrailed homeobox 2 [Source:HGNC Symbol;Acc:HGNC:3343]	
+ENDOD1	endonuclease domain containing 1 [Source:HGNC Symbol;Acc:HGNC:29129]	
+ENOSF1	enolase superfamily member 1 [Source:HGNC Symbol;Acc:HGNC:30365]	
+ENTPD5	ectonucleoside triphosphate diphosphohydrolase 5 [Source:HGNC Symbol;Acc:HGNC:3367]	
+EOMES	eomesodermin [Source:HGNC Symbol;Acc:HGNC:3372]	Microcephaly-polymicrogyria-corpus callosum agenesis syndrome
+EOMES	eomesodermin [Source:HGNC Symbol;Acc:HGNC:3372]	POLYMICROGYRIA AND CORPUS CALLOSUM AGENESIS
+EPB41L3	erythrocyte membrane protein band 4.1 like 3 [Source:HGNC Symbol;Acc:HGNC:3380]	
+EPHA2	EPH receptor A2 [Source:HGNC Symbol;Acc:HGNC:3386]	Early-onset nuclear cataract
+EPHA2	EPH receptor A2 [Source:HGNC Symbol;Acc:HGNC:3386]	Early-onset posterior polar cataract
+EPHA2	EPH receptor A2 [Source:HGNC Symbol;Acc:HGNC:3386]	Early-onset posterior subcapsular cataract
+EPHA2	EPH receptor A2 [Source:HGNC Symbol;Acc:HGNC:3386]	Total early-onset cataract
+EPHA2	EPH receptor A2 [Source:HGNC Symbol;Acc:HGNC:3386]	Cataract 6 multiple types
+EPM2AIP1	EPM2A interacting protein 1 [Source:HGNC Symbol;Acc:HGNC:19735]	
+EPOR	erythropoietin receptor [Source:HGNC Symbol;Acc:HGNC:3416]	Primary familial polycythemia
+EPOR	erythropoietin receptor [Source:HGNC Symbol;Acc:HGNC:3416]	ERYTHROCYTOSIS FAMILIAL 1
+EPPIN	epididymal peptidase inhibitor [Source:HGNC Symbol;Acc:HGNC:15932]	negative regulation of calcium ion import
+EPPIN	epididymal peptidase inhibitor [Source:HGNC Symbol;Acc:HGNC:15932]	negative regulation of flagellated sperm motility
+EPS8L1	EPS8 like 1 [Source:HGNC Symbol;Acc:HGNC:21295]	
+ERI2	ERI1 exoribonuclease family member 2 [Source:HGNC Symbol;Acc:HGNC:30541]	
+ERVW-1	endogenous retrovirus group W member 1 [Source:HGNC Symbol;Acc:HGNC:13525]	
+ETV4	ETS variant 4 [Source:HGNC Symbol;Acc:HGNC:3493]	Ewing sarcoma
+EVA1B	eva-1 homolog B [Source:HGNC Symbol;Acc:HGNC:25558]	
+EVC2	EvC ciliary complex subunit 2 [Source:HGNC Symbol;Acc:HGNC:19747]	Acrofacial dysostosis Weyers type
+EVC2	EvC ciliary complex subunit 2 [Source:HGNC Symbol;Acc:HGNC:19747]	ELLIS-VAN CREVELD SYNDROME
+EVC2	EvC ciliary complex subunit 2 [Source:HGNC Symbol;Acc:HGNC:19747]	WEYERS ACROFACIAL DYSOSTOSIS
+EVC2	EvC ciliary complex subunit 2 [Source:HGNC Symbol;Acc:HGNC:19747]	acrofacial dysostosis Weyers type (WAD)
+EXOC6B	exocyst complex component 6B [Source:HGNC Symbol;Acc:HGNC:17085]	
+EXOG	exo/endonuclease G [Source:HGNC Symbol;Acc:HGNC:3347]	
+EYA2	EYA transcriptional coactivator and phosphatase 2 [Source:HGNC Symbol;Acc:HGNC:3520]	
+EZR	ezrin [Source:HGNC Symbol;Acc:HGNC:12691]	Autosomal recessive non-syndromic intellectual disability
+FAM109A	family with sequence similarity 109 member A [Source:HGNC Symbol;Acc:HGNC:26509]	
+FAM120AOS	family with sequence similarity 120A opposite strand [Source:HGNC Symbol;Acc:HGNC:23389]	
+FAM129B	family with sequence similarity 129 member B [Source:HGNC Symbol;Acc:HGNC:25282]	
+FAM150B	family with sequence similarity 150 member B [Source:HGNC Symbol;Acc:HGNC:27683]	
+FAM167B	family with sequence similarity 167 member B [Source:HGNC Symbol;Acc:HGNC:28133]	
+FAM181B	family with sequence similarity 181 member B [Source:HGNC Symbol;Acc:HGNC:28512]	
+FAM183A	family with sequence similarity 183 member A [Source:HGNC Symbol;Acc:HGNC:34347]	
+FAM188A	family with sequence similarity 188 member A [Source:HGNC Symbol;Acc:HGNC:23578]	
+FAM216B	family with sequence similarity 216 member B [Source:HGNC Symbol;Acc:HGNC:26883]	
+FAM221B	family with sequence similarity 221 member B [Source:HGNC Symbol;Acc:HGNC:30762]	
+FAM229A	family with sequence similarity 229 member A [Source:HGNC Symbol;Acc:HGNC:44652]	
+FAM47E	family with sequence similarity 47 member E [Source:HGNC Symbol;Acc:HGNC:34343]	
+FAM65C	family with sequence similarity 65 member C [Source:HGNC Symbol;Acc:HGNC:16168]	
+FAM83D	family with sequence similarity 83 member D [Source:HGNC Symbol;Acc:HGNC:16122]	
+FAM86B1	family with sequence similarity 86 member B1 [Source:HGNC Symbol;Acc:HGNC:28268]	
+FAM86B2	family with sequence similarity 86 member B2 [Source:HGNC Symbol;Acc:HGNC:32222]	
+FANCD2	Fanconi anemia complementation group D2 [Source:HGNC Symbol;Acc:HGNC:3585]	Fanconi anemia
+FANCD2	Fanconi anemia complementation group D2 [Source:HGNC Symbol;Acc:HGNC:3585]	FANCONI ANEMIA COMPLEMENTATION GROUP D2
+FANCD2	Fanconi anemia complementation group D2 [Source:HGNC Symbol;Acc:HGNC:3585]	TRACHEOESOPHAGEAL FISTULA WITH OR WITHOUT ESOPHAGEAL ATRESIA
+FASTKD2	FAST kinase domains 2 [Source:HGNC Symbol;Acc:HGNC:29160]	FASTKD2-related infantile mitochondrial encephalomyopathy
+FASTKD2	FAST kinase domains 2 [Source:HGNC Symbol;Acc:HGNC:29160]	MITOCHONDRIAL COMPLEX IV DEFICIENCY
+FAT2	FAT atypical cadherin 2 [Source:HGNC Symbol;Acc:HGNC:3596]	
+FBLN1	fibulin 1 [Source:HGNC Symbol;Acc:HGNC:3600]	FBLN1-related developmental delay-central nervous system anomaly-syndactyly syndrome
+FBLN1	fibulin 1 [Source:HGNC Symbol;Acc:HGNC:3600]	Synpolydactyly type 2
+FBLN1	fibulin 1 [Source:HGNC Symbol;Acc:HGNC:3600]	SYNPOLYDACTYLY 2
+FBLN1	fibulin 1 [Source:HGNC Symbol;Acc:HGNC:3600]	SYNPOLYDACTYLY 3/3-PRIME/4 ASSOCIATED WITH METACARPAL AND METATARSAL SYNOSTOSES
+FBN1	fibrillin 1 [Source:HGNC Symbol;Acc:HGNC:3603]	ACROMICRIC DYSPLASIA
+FBN1	fibrillin 1 [Source:HGNC Symbol;Acc:HGNC:3603]	Familial thoracic aortic aneurysm and aortic dissection
+FBN1	fibrillin 1 [Source:HGNC Symbol;Acc:HGNC:3603]	Geleophysic dysplasia
+FBN1	fibrillin 1 [Source:HGNC Symbol;Acc:HGNC:3603]	Glaucoma-ectopia-microspherophakia-stiff joints-short stature syndrome
+FBN1	fibrillin 1 [Source:HGNC Symbol;Acc:HGNC:3603]	isolated ectopia lentis (EL)
+FBN1	fibrillin 1 [Source:HGNC Symbol;Acc:HGNC:3603]	Marfan syndrome type 1
+FBN1	fibrillin 1 [Source:HGNC Symbol;Acc:HGNC:3603]	Neonatal Marfan syndrome
+FBN1	fibrillin 1 [Source:HGNC Symbol;Acc:HGNC:3603]	Progeroid and marfanoid aspect-lipodystrophy syndrome
+FBN1	fibrillin 1 [Source:HGNC Symbol;Acc:HGNC:3603]	SHPRINTZEN-GOLDBERG SYNDROME
+FBN1	fibrillin 1 [Source:HGNC Symbol;Acc:HGNC:3603]	Stiff skin syndrome
+FBN1	fibrillin 1 [Source:HGNC Symbol;Acc:HGNC:3603]	Weill-Marchesani syndrome
+FBN1	fibrillin 1 [Source:HGNC Symbol;Acc:HGNC:3603]	ECTOPIA LENTIS 1 ISOLATED AUTOSOMAL DOMINANT
+FBN1	fibrillin 1 [Source:HGNC Symbol;Acc:HGNC:3603]	GELEOPHYSIC DYSPLASIA 2
+FBN1	fibrillin 1 [Source:HGNC Symbol;Acc:HGNC:3603]	MARFAN LIPODYSTROPHY SYNDROME
+FBN1	fibrillin 1 [Source:HGNC Symbol;Acc:HGNC:3603]	MARFAN SYNDROME
+FBN1	fibrillin 1 [Source:HGNC Symbol;Acc:HGNC:3603]	MASS SYNDROME/overlap connective tissue disease (OCTD)
+FBN1	fibrillin 1 [Source:HGNC Symbol;Acc:HGNC:3603]	WEILL-MARCHESANI SYNDROME 2
+FBN1	fibrillin 1 [Source:HGNC Symbol;Acc:HGNC:3603]	Shprintzen-Goldberg craniosynostosis syndrome
+FBN1	fibrillin 1 [Source:HGNC Symbol;Acc:HGNC:3603]	WEILL-MARCHESANI SYNDROME AUTOSOMAL DOMINANT
+FBXL22	F-box and leucine rich repeat protein 22 [Source:HGNC Symbol;Acc:HGNC:27537]	
+FBXO2	F-box protein 2 [Source:HGNC Symbol;Acc:HGNC:13581]	
+FBXO36	F-box protein 36 [Source:HGNC Symbol;Acc:HGNC:27020]	
+FBXW2	F-box and WD repeat domain containing 2 [Source:HGNC Symbol;Acc:HGNC:13608]	
+FCGRT	Fc fragment of IgG receptor and transporter [Source:HGNC Symbol;Acc:HGNC:3621]	
+FES	FES proto-oncogene, tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:3657]	
+FGF17	fibroblast growth factor 17 [Source:HGNC Symbol;Acc:HGNC:3673]	Kallmann Syndrome
+FGF17	fibroblast growth factor 17 [Source:HGNC Symbol;Acc:HGNC:3673]	Normosmic congenital hypogonadotropic hypogonadism
+FGF17	fibroblast growth factor 17 [Source:HGNC Symbol;Acc:HGNC:3673]	Hypogonadotropic hypogonadism 20 with or without anosmia
+FGR	FGR proto-oncogene, Src family tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:3697]	integrin-mediated signaling pathway
+FGR	FGR proto-oncogene, Src family tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:3697]	positive regulation of phosphatidylinositol 3-kinase activity
+FGR	FGR proto-oncogene, Src family tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:3697]	positive regulation of phosphatidylinositol 3-kinase signaling
+FHOD1	formin homology 2 domain containing 1 [Source:HGNC Symbol;Acc:HGNC:17905]	
+FITM1	fat storage inducing transmembrane protein 1 [Source:HGNC Symbol;Acc:HGNC:33714]	
+FKBP4	FK506 binding protein 4 [Source:HGNC Symbol;Acc:HGNC:3720]	
+FKBP5	FK506 binding protein 5 [Source:HGNC Symbol;Acc:HGNC:3721]	MAJOR DEPRESSIVE DISORDER
+FKTN	fukutin [Source:HGNC Symbol;Acc:HGNC:3622]	Autosomal recessive limb-girdle muscular dystrophy type 2M
+FKTN	fukutin [Source:HGNC Symbol;Acc:HGNC:3622]	Congenital muscular dystrophy without intellectual disability
+FKTN	fukutin [Source:HGNC Symbol;Acc:HGNC:3622]	Congenital muscular dystrophy Fukuyama type
+FKTN	fukutin [Source:HGNC Symbol;Acc:HGNC:3622]	Familial isolated dilated cardiomyopathy
+FKTN	fukutin [Source:HGNC Symbol;Acc:HGNC:3622]	Muscle-eye-brain disease with bilateral multicystic leucodystrophy
+FKTN	fukutin [Source:HGNC Symbol;Acc:HGNC:3622]	Walker-Warburg syndrome
+FKTN	fukutin [Source:HGNC Symbol;Acc:HGNC:3622]	CARDIOMYOPATHY DILATED 1X
+FKTN	fukutin [Source:HGNC Symbol;Acc:HGNC:3622]	MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (CONGENITAL WITH BRAIN AND EYEANOMALIES) TYPE A 1
+FKTN	fukutin [Source:HGNC Symbol;Acc:HGNC:3622]	MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (CONGENITAL WITH BRAIN AND EYE ANOMALIES) TYPE A 4
+FKTN	fukutin [Source:HGNC Symbol;Acc:HGNC:3622]	MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (CONGENITAL WITHOUT MENTAL RETARDATION) TYPE B 4
+FKTN	fukutin [Source:HGNC Symbol;Acc:HGNC:3622]	MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (LIMB-GIRDLE) TYPE C 4
+FKTN	fukutin [Source:HGNC Symbol;Acc:HGNC:3622]	cardiomyopathy dilated type 1X (CMD1X)
+FKTN	fukutin [Source:HGNC Symbol;Acc:HGNC:3622]	muscular dystrophy-dystroglycanopathy congenital with brain and eye anomalies type A4 (MDDGA4)
+FKTN	fukutin [Source:HGNC Symbol;Acc:HGNC:3622]	muscular dystrophy-dystroglycanopathy congenital without mental retardation type B4 (MDDGB4)
+FKTN	fukutin [Source:HGNC Symbol;Acc:HGNC:3622]	muscular dystrophy-dystroglycanopathy limb-girdle type C4 (MDDGC4)
+FKTN	fukutin [Source:HGNC Symbol;Acc:HGNC:3622]	negative regulation of JNK cascade
+FKTN	fukutin [Source:HGNC Symbol;Acc:HGNC:3622]	negative regulation of cell proliferation
+FKTN	fukutin [Source:HGNC Symbol;Acc:HGNC:3622]	protein O-linked mannosylation
+FLCN	folliculin [Source:HGNC Symbol;Acc:HGNC:27310]	Birt-Hogg-Dube syndrome
+FLCN	folliculin [Source:HGNC Symbol;Acc:HGNC:27310]	Familial spontaneous pneumothorax
+FLCN	folliculin [Source:HGNC Symbol;Acc:HGNC:27310]	COLORECTAL CANCER
+FLCN	folliculin [Source:HGNC Symbol;Acc:HGNC:27310]	Pneumothorax primary spontaneous
+FLCN	folliculin [Source:HGNC Symbol;Acc:HGNC:27310]	RENAL CELL CARCINOMA NONPAPILLARY
+FLT3	fms related tyrosine kinase 3 [Source:HGNC Symbol;Acc:HGNC:3765]	Acute biphenotypic leukemia
+FLT3	fms related tyrosine kinase 3 [Source:HGNC Symbol;Acc:HGNC:3765]	Acute myeloblastic leukemia with maturation
+FLT3	fms related tyrosine kinase 3 [Source:HGNC Symbol;Acc:HGNC:3765]	Acute myeloblastic leukemia without maturation
+FLT3	fms related tyrosine kinase 3 [Source:HGNC Symbol;Acc:HGNC:3765]	Acute myeloid leukemia with abnormal bone marrow eosinophils inv(16)(p13q22) or t(16;16)(p13;q22)
+FLT3	fms related tyrosine kinase 3 [Source:HGNC Symbol;Acc:HGNC:3765]	Acute myeloid leukemia with t(8;21)(q22;q22) translocation
+FLT3	fms related tyrosine kinase 3 [Source:HGNC Symbol;Acc:HGNC:3765]	Minimally differentiated acute myeloblastic leukemia
+FLT3	fms related tyrosine kinase 3 [Source:HGNC Symbol;Acc:HGNC:3765]	Precursor B-cell acute lymphoblastic leukemia
+FLT3	fms related tyrosine kinase 3 [Source:HGNC Symbol;Acc:HGNC:3765]	Precursor T-cell acute lymphoblastic leukemia
+FLT3	fms related tyrosine kinase 3 [Source:HGNC Symbol;Acc:HGNC:3765]	Leukemia acute lymphoblastic 3
+FLT3LG	fms related tyrosine kinase 3 ligand [Source:HGNC Symbol;Acc:HGNC:3766]	
+FLT4	fms related tyrosine kinase 4 [Source:HGNC Symbol;Acc:HGNC:3767]	Milroy Disease
+FLT4	fms related tyrosine kinase 4 [Source:HGNC Symbol;Acc:HGNC:3767]	cellular response to vascular endothelial growth factor stimulus
+FLT4	fms related tyrosine kinase 4 [Source:HGNC Symbol;Acc:HGNC:3767]	lymphangiogenesis
+FLT4	fms related tyrosine kinase 4 [Source:HGNC Symbol;Acc:HGNC:3767]	canonical Wnt signaling pathway involved in negative regulation of apoptotic process
+FLT4	fms related tyrosine kinase 4 [Source:HGNC Symbol;Acc:HGNC:3767]	positive regulation of ERK1 and ERK2 cascade
+FLT4	fms related tyrosine kinase 4 [Source:HGNC Symbol;Acc:HGNC:3767]	positive regulation of JNK cascade
+FLT4	fms related tyrosine kinase 4 [Source:HGNC Symbol;Acc:HGNC:3767]	positive regulation of MAPK cascade
+FLT4	fms related tyrosine kinase 4 [Source:HGNC Symbol;Acc:HGNC:3767]	positive regulation of cell proliferation
+FLT4	fms related tyrosine kinase 4 [Source:HGNC Symbol;Acc:HGNC:3767]	canonical Wnt signaling pathway involved in positive regulation of endothelial cell migration
+FLT4	fms related tyrosine kinase 4 [Source:HGNC Symbol;Acc:HGNC:3767]	positive regulation of endothelial cell proliferation
+FLT4	fms related tyrosine kinase 4 [Source:HGNC Symbol;Acc:HGNC:3767]	positive regulation of protein kinase C signaling
+FLT4	fms related tyrosine kinase 4 [Source:HGNC Symbol;Acc:HGNC:3767]	positive regulation of protein phosphorylation
+FLT4	fms related tyrosine kinase 4 [Source:HGNC Symbol;Acc:HGNC:3767]	positive regulation of vascular endothelial growth factor production
+FLT4	fms related tyrosine kinase 4 [Source:HGNC Symbol;Acc:HGNC:3767]	transmembrane receptor protein tyrosine kinase activity
+FLT4	fms related tyrosine kinase 4 [Source:HGNC Symbol;Acc:HGNC:3767]	positive regulation of endothelial cell chemotaxis by VEGF-activated vascular endothelial growth factor receptor signaling pathway
+FLT4	fms related tyrosine kinase 4 [Source:HGNC Symbol;Acc:HGNC:3767]	vascular endothelial growth factor-activated receptor activity
+FOXD4	forkhead box D4 [Source:HGNC Symbol;Acc:HGNC:3805]	
+FOXF1	forkhead box F1 [Source:HGNC Symbol;Acc:HGNC:3809]	Congenital alveolar capillary dysplasia
+FOXF1	forkhead box F1 [Source:HGNC Symbol;Acc:HGNC:3809]	Alveolar capillary dysplasia with misalignment of pulmonary veins
+FOXF1	forkhead box F1 [Source:HGNC Symbol;Acc:HGNC:3809]	RNA polymerase II regulatory region sequence-specific DNA binding
+FOXF1	forkhead box F1 [Source:HGNC Symbol;Acc:HGNC:3809]	blood vessel development
+FOXF1	forkhead box F1 [Source:HGNC Symbol;Acc:HGNC:3809]	branching involved in open tracheal system development
+FOXF1	forkhead box F1 [Source:HGNC Symbol;Acc:HGNC:3809]	cardiac left ventricle morphogenesis
+FOXF1	forkhead box F1 [Source:HGNC Symbol;Acc:HGNC:3809]	digestive tract development
+FOXF1	forkhead box F1 [Source:HGNC Symbol;Acc:HGNC:3809]	ductus arteriosus closure
+FOXF1	forkhead box F1 [Source:HGNC Symbol;Acc:HGNC:3809]	embryonic digestive tract morphogenesis
+FOXF1	forkhead box F1 [Source:HGNC Symbol;Acc:HGNC:3809]	embryonic ectodermal digestive tract morphogenesis
+FOXF1	forkhead box F1 [Source:HGNC Symbol;Acc:HGNC:3809]	endocardial cushion development
+FOXF1	forkhead box F1 [Source:HGNC Symbol;Acc:HGNC:3809]	Notch signaling involved in heart development
+FOXF1	forkhead box F1 [Source:HGNC Symbol;Acc:HGNC:3809]	in utero embryonic development
+FOXF1	forkhead box F1 [Source:HGNC Symbol;Acc:HGNC:3809]	lung development
+FOXF1	forkhead box F1 [Source:HGNC Symbol;Acc:HGNC:3809]	lung vasculature development
+FOXF1	forkhead box F1 [Source:HGNC Symbol;Acc:HGNC:3809]	midgut development
+FOXF1	forkhead box F1 [Source:HGNC Symbol;Acc:HGNC:3809]	morphogenesis of a branching structure
+FOXF1	forkhead box F1 [Source:HGNC Symbol;Acc:HGNC:3809]	endocrine pancreas development
+FOXF1	forkhead box F1 [Source:HGNC Symbol;Acc:HGNC:3809]	positive regulation of transcription from RNA polymerase II promoter
+FOXF1	forkhead box F1 [Source:HGNC Symbol;Acc:HGNC:3809]	renal system development
+FOXF1	forkhead box F1 [Source:HGNC Symbol;Acc:HGNC:3809]	respiratory tube development
+FOXF1	forkhead box F1 [Source:HGNC Symbol;Acc:HGNC:3809]	transcriptional activator activity RNA polymerase II transcription regulatory region sequence-specific binding
+FOXF1	forkhead box F1 [Source:HGNC Symbol;Acc:HGNC:3809]	ureter development
+FOXF1	forkhead box F1 [Source:HGNC Symbol;Acc:HGNC:3809]	venous blood vessel development
+FOXJ1	forkhead box J1 [Source:HGNC Symbol;Acc:HGNC:3816]	
+FPGT-TNNI3K	FPGT-TNNI3K readthrough [Source:HGNC Symbol;Acc:HGNC:42952]	
+FRAT2	frequently rearranged in advanced T-cell lymphomas 2 [Source:HGNC Symbol;Acc:HGNC:16048]	
+FRRS1L	ferric chelate reductase 1 like [Source:HGNC Symbol;Acc:HGNC:1362]	EPILEPTIC ENCEPHALOPATHY EARLY INFANTILE 37
+FRRS1L	ferric chelate reductase 1 like [Source:HGNC Symbol;Acc:HGNC:1362]	Epileptic encephalopathy with continuous spike-and-wave during sleep
+FURIN	furin, paired basic amino acid cleaving enzyme [Source:HGNC Symbol;Acc:HGNC:8568]	
+FXYD2	FXYD domain containing ion transport regulator 2 [Source:HGNC Symbol;Acc:HGNC:4026]	Autosomal dominant primary hypomagnesemia with hypocalciuria
+FXYD2	FXYD domain containing ion transport regulator 2 [Source:HGNC Symbol;Acc:HGNC:4026]	HYPOMAGNESEMIA 2 RENAL
+FZD8	frizzled class receptor 8 [Source:HGNC Symbol;Acc:HGNC:4046]	canonical Wnt signaling pathway
+FZD9	frizzled class receptor 9 [Source:HGNC Symbol;Acc:HGNC:4047]	negative regulation of cell cycle arrest
+FZD9	frizzled class receptor 9 [Source:HGNC Symbol;Acc:HGNC:4047]	negative regulation of neuron apoptotic process
+FZD9	frizzled class receptor 9 [Source:HGNC Symbol;Acc:HGNC:4047]	positive regulation of neural precursor cell proliferation
+G0S2	G0/G1 switch 2 [Source:HGNC Symbol;Acc:HGNC:30229]	
+GABRA6	gamma-aminobutyric acid type A receptor alpha6 subunit [Source:HGNC Symbol;Acc:HGNC:4080]	
+GAGE10	G antigen 10 [Source:HGNC Symbol;Acc:HGNC:30968]	
+GALM	galactose mutarotase [Source:HGNC Symbol;Acc:HGNC:24063]	
+GALNT13	polypeptide N-acetylgalactosaminyltransferase 13 [Source:HGNC Symbol;Acc:HGNC:23242]	
+GALNT5	polypeptide N-acetylgalactosaminyltransferase 5 [Source:HGNC Symbol;Acc:HGNC:4127]	
+GART	phosphoribosylglycinamide formyltransferase, phosphoribosylglycinamide synthetase, phosphoribosylaminoimidazole synthetase [Source:HGNC Symbol;Acc:HGNC:4163]	
+GAS1	growth arrest specific 1 [Source:HGNC Symbol;Acc:HGNC:4165]	Alobar holoprosencephaly
+GAS1	growth arrest specific 1 [Source:HGNC Symbol;Acc:HGNC:4165]	Lobar holoprosencephaly
+GAS1	growth arrest specific 1 [Source:HGNC Symbol;Acc:HGNC:4165]	Microform holoprosencephaly
+GAS1	growth arrest specific 1 [Source:HGNC Symbol;Acc:HGNC:4165]	Midline interhemispheric variant of holoprosencephaly
+GAS1	growth arrest specific 1 [Source:HGNC Symbol;Acc:HGNC:4165]	Semilobar holoprosencephaly
+GAS1	growth arrest specific 1 [Source:HGNC Symbol;Acc:HGNC:4165]	Septopreoptic holoprosencephaly
+GAS1	growth arrest specific 1 [Source:HGNC Symbol;Acc:HGNC:4165]	negative regulation of protein processing
+GAS1	growth arrest specific 1 [Source:HGNC Symbol;Acc:HGNC:4165]	positive regulation of ER to Golgi vesicle-mediated transport
+GAS2L3	growth arrest specific 2 like 3 [Source:HGNC Symbol;Acc:HGNC:27475]	
+GAS7	growth arrest specific 7 [Source:HGNC Symbol;Acc:HGNC:4169]	
+GDPD3	glycerophosphodiester phosphodiesterase domain containing 3 [Source:HGNC Symbol;Acc:HGNC:28638]	
+GEM	GTP binding protein overexpressed in skeletal muscle [Source:HGNC Symbol;Acc:HGNC:4234]	
+GEN1	GEN1, Holliday junction 5' flap endonuclease [Source:HGNC Symbol;Acc:HGNC:26881]	
+GFM1	G elongation factor mitochondrial 1 [Source:HGNC Symbol;Acc:HGNC:13780]	Hepatoencephalopathy due to combined oxidative phosphorylation deficiency type 1
+GFM1	G elongation factor mitochondrial 1 [Source:HGNC Symbol;Acc:HGNC:13780]	COMBINED OXIDATIVE PHOSPHORYLATION DEFICIENCY 1
+GFPT2	glutamine-fructose-6-phosphate transaminase 2 [Source:HGNC Symbol;Acc:HGNC:4242]	
+GJA4	gap junction protein alpha 4 [Source:HGNC Symbol;Acc:HGNC:4278]	
+GJC1	gap junction protein gamma 1 [Source:HGNC Symbol;Acc:HGNC:4280]	
+GLI1	GLI family zinc finger 1 [Source:HGNC Symbol;Acc:HGNC:4317]	negative regulation of canonical Wnt signaling pathway
+GLI1	GLI family zinc finger 1 [Source:HGNC Symbol;Acc:HGNC:4317]	positive regulation of cell proliferation
+GLT8D1	glycosyltransferase 8 domain containing 1 [Source:HGNC Symbol;Acc:HGNC:24870]	
+GOLPH3L	golgi phosphoprotein 3 like [Source:HGNC Symbol;Acc:HGNC:24882]	
+GPCPD1	glycerophosphocholine phosphodiesterase 1 [Source:HGNC Symbol;Acc:HGNC:26957]	
+GPR137C	G protein-coupled receptor 137C [Source:HGNC Symbol;Acc:HGNC:25445]	
+GPR149	G protein-coupled receptor 149 [Source:HGNC Symbol;Acc:HGNC:23627]	
+GPR35	G protein-coupled receptor 35 [Source:HGNC Symbol;Acc:HGNC:4492]	Primary sclerosing cholangitis
+GPR35	G protein-coupled receptor 35 [Source:HGNC Symbol;Acc:HGNC:4492]	C-X-C chemokine receptor activity
+GPR35	G protein-coupled receptor 35 [Source:HGNC Symbol;Acc:HGNC:4492]	chemokine-mediated signaling pathway
+GPR35	G protein-coupled receptor 35 [Source:HGNC Symbol;Acc:HGNC:4492]	negative regulation of voltage-gated calcium channel activity
+GPR35	G protein-coupled receptor 35 [Source:HGNC Symbol;Acc:HGNC:4492]	positive regulation of cytosolic calcium ion concentration
+GPR4	G protein-coupled receptor 4 [Source:HGNC Symbol;Acc:HGNC:4497]	
+GPSM3	G-protein signaling modulator 3 [Source:HGNC Symbol;Acc:HGNC:13945]	
+GREB1L	growth regulation by estrogen in breast cancer 1 like [Source:HGNC Symbol;Acc:HGNC:31042]	
+GRN	granulin precursor [Source:HGNC Symbol;Acc:HGNC:4601]	Behavioral variant of frontotemporal dementia
+GRN	granulin precursor [Source:HGNC Symbol;Acc:HGNC:4601]	CLN11 disease
+GRN	granulin precursor [Source:HGNC Symbol;Acc:HGNC:4601]	Progressive non-fluent aphasia
+GRN	granulin precursor [Source:HGNC Symbol;Acc:HGNC:4601]	Semantic dementia
+GRN	granulin precursor [Source:HGNC Symbol;Acc:HGNC:4601]	CEROID LIPOFUSCINOSIS NEURONAL 11
+GRN	granulin precursor [Source:HGNC Symbol;Acc:HGNC:4601]	FRONTOTEMPORAL LOBAR DEGENERATION WITH TDP43 INCLUSIONS GRN-RELATED
+GSAP	gamma-secretase activating protein [Source:HGNC Symbol;Acc:HGNC:28042]	
+GSDMD	gasdermin D [Source:HGNC Symbol;Acc:HGNC:25697]	
+GSTCD	glutathione S-transferase C-terminal domain containing [Source:HGNC Symbol;Acc:HGNC:25806]	
+GTF2H3	general transcription factor IIH subunit 3 [Source:HGNC Symbol;Acc:HGNC:4657]	
+GTF2H5	general transcription factor IIH subunit 5 [Source:HGNC Symbol;Acc:HGNC:21157]	TRICHOTHIODYSTROPHY 2 PHOTOSENSITIVE
+GTF2H5	general transcription factor IIH subunit 5 [Source:HGNC Symbol;Acc:HGNC:21157]	TRICHOTHIODYSTROPHY 3 PHOTOSENSITIVE
+GTF2H5	general transcription factor IIH subunit 5 [Source:HGNC Symbol;Acc:HGNC:21157]	trichothiodystrophy photosensitive (TTDP)
+GTPBP10	GTP binding protein 10 [Source:HGNC Symbol;Acc:HGNC:25106]	
+HACE1	HECT domain and ankyrin repeat containing E3 ubiquitin protein ligase 1 [Source:HGNC Symbol;Acc:HGNC:21033]	Neuroblastoma
+HACE1	HECT domain and ankyrin repeat containing E3 ubiquitin protein ligase 1 [Source:HGNC Symbol;Acc:HGNC:21033]	Spastic paraplegia and psychomotor retardation with or without seizures
+HACE1	HECT domain and ankyrin repeat containing E3 ubiquitin protein ligase 1 [Source:HGNC Symbol;Acc:HGNC:21033]	HACE1 related disorder
+HACL1	2-hydroxyacyl-CoA lyase 1 [Source:HGNC Symbol;Acc:HGNC:17856]	
+HBB	hemoglobin subunit beta [Source:HGNC Symbol;Acc:HGNC:4827]	BETA-THALASSEMIA INTERMEDIA
+HBB	hemoglobin subunit beta [Source:HGNC Symbol;Acc:HGNC:4827]	Beta-thalassemia major
+HBB	hemoglobin subunit beta [Source:HGNC Symbol;Acc:HGNC:4827]	Delta-beta thalassemia
+HBB	hemoglobin subunit beta [Source:HGNC Symbol;Acc:HGNC:4827]	Dominant beta-thalassemia
+HBB	hemoglobin subunit beta [Source:HGNC Symbol;Acc:HGNC:4827]	Heinz body anemia
+HBB	hemoglobin subunit beta [Source:HGNC Symbol;Acc:HGNC:4827]	Hemoglobin C disease
+HBB	hemoglobin subunit beta [Source:HGNC Symbol;Acc:HGNC:4827]	Hemoglobin C-beta-thalassemia syndrome
+HBB	hemoglobin subunit beta [Source:HGNC Symbol;Acc:HGNC:4827]	Hemoglobin D disease
+HBB	hemoglobin subunit beta [Source:HGNC Symbol;Acc:HGNC:4827]	Hemoglobin E disease
+HBB	hemoglobin subunit beta [Source:HGNC Symbol;Acc:HGNC:4827]	Hemoglobin E-beta-thalassemia syndrome
+HBB	hemoglobin subunit beta [Source:HGNC Symbol;Acc:HGNC:4827]	Hemoglobin Lepore-beta-thalassemia syndrome
+HBB	hemoglobin subunit beta [Source:HGNC Symbol;Acc:HGNC:4827]	Hemoglobin M disease
+HBB	hemoglobin subunit beta [Source:HGNC Symbol;Acc:HGNC:4827]	Hereditary persistence of fetal hemoglobin-beta-thalassemia syndrome
+HBB	hemoglobin subunit beta [Source:HGNC Symbol;Acc:HGNC:4827]	Hereditary persistence of fetal hemoglobin-sickle cell disease syndrome
+HBB	hemoglobin subunit beta [Source:HGNC Symbol;Acc:HGNC:4827]	SICKLE CELL ANEMIA
+HBB	hemoglobin subunit beta [Source:HGNC Symbol;Acc:HGNC:4827]	Sickle cell-beta-thalassemia disease syndrome
+HBB	hemoglobin subunit beta [Source:HGNC Symbol;Acc:HGNC:4827]	Sickle cell-hemoglobin C disease syndrome
+HBB	hemoglobin subunit beta [Source:HGNC Symbol;Acc:HGNC:4827]	Sickle cell-hemoglobin D disease syndrome
+HBB	hemoglobin subunit beta [Source:HGNC Symbol;Acc:HGNC:4827]	Sickle cell-hemoglobin E disease syndrome
+HBB	hemoglobin subunit beta [Source:HGNC Symbol;Acc:HGNC:4827]	ALPHA-THALASSEMIA
+HBB	hemoglobin subunit beta [Source:HGNC Symbol;Acc:HGNC:4827]	BETA-THALASSEMIA
+HBB	hemoglobin subunit beta [Source:HGNC Symbol;Acc:HGNC:4827]	BETA-THALASSEMIA DOMINANT INCLUSION BODY TYPE
+HBB	hemoglobin subunit beta [Source:HGNC Symbol;Acc:HGNC:4827]	FETAL HEMOGLOBIN QUANTITATIVE TRAIT LOCUS 1
+HBB	hemoglobin subunit beta [Source:HGNC Symbol;Acc:HGNC:4827]	HEINZ BODY ANEMIAS
+HBB	hemoglobin subunit beta [Source:HGNC Symbol;Acc:HGNC:4827]	MALARIA SUSCEPTIBILITY TO MALARIA RESISTANCE TO INCLUDED
+HBS1L	HBS1 like translational GTPase [Source:HGNC Symbol;Acc:HGNC:4834]	
+HCLS1	hematopoietic cell-specific Lyn substrate 1 [Source:HGNC Symbol;Acc:HGNC:4844]	
+HDAC10	histone deacetylase 10 [Source:HGNC Symbol;Acc:HGNC:18128]	
+HDGF	hepatoma-derived growth factor [Source:HGNC Symbol;Acc:HGNC:4856]	
+HEATR5B	HEAT repeat containing 5B [Source:HGNC Symbol;Acc:HGNC:29273]	
+HECW2	HECT, C2 and WW domain containing E3 ubiquitin protein ligase 2 [Source:HGNC Symbol;Acc:HGNC:29853]	
+HERC1	HECT and RLD domain containing E3 ubiquitin protein ligase family member 1 [Source:HGNC Symbol;Acc:HGNC:4867]	Megalencephaly-severe kyphoscoliosis-overgrowth syndrome
+HERC1	HECT and RLD domain containing E3 ubiquitin protein ligase family member 1 [Source:HGNC Symbol;Acc:HGNC:4867]	MACROCEPHALY DYSMORPHIC FACIES AND PSYCHOMOTOR RETARDATION
+HES7	hes family bHLH transcription factor 7 [Source:HGNC Symbol;Acc:HGNC:15977]	Autosomal recessive spondylocostal dysostosis
+HES7	hes family bHLH transcription factor 7 [Source:HGNC Symbol;Acc:HGNC:15977]	SPONDYLOCOSTAL DYSOSTOSIS 4 AUTOSOMAL RECESSIVE
+HEXA	hexosaminidase subunit alpha [Source:HGNC Symbol;Acc:HGNC:4878]	Tay-Sachs disease B variant adult form
+HEXA	hexosaminidase subunit alpha [Source:HGNC Symbol;Acc:HGNC:4878]	Tay-Sachs disease B variant infantile form
+HEXA	hexosaminidase subunit alpha [Source:HGNC Symbol;Acc:HGNC:4878]	Tay-Sachs disease B variant juvenile form
+HEXA	hexosaminidase subunit alpha [Source:HGNC Symbol;Acc:HGNC:4878]	TAY-SACHS DISEASE B1 VARIANT
+HEXA	hexosaminidase subunit alpha [Source:HGNC Symbol;Acc:HGNC:4878]	TAY-SACHS DISEASE
+HEXA	hexosaminidase subunit alpha [Source:HGNC Symbol;Acc:HGNC:4878]	GM2-gangliosidosis type 1 (GM2G1)
+HEXIM1	hexamethylene bisacetamide inducible 1 [Source:HGNC Symbol;Acc:HGNC:24953]	
+HHLA2	HERV-H LTR-associating 2 [Source:HGNC Symbol;Acc:HGNC:4905]	
+HIC1	HIC ZBTB transcriptional repressor 1 [Source:HGNC Symbol;Acc:HGNC:4909]	Miller-Dieker syndrome
+HIF3A	hypoxia inducible factor 3 alpha subunit [Source:HGNC Symbol;Acc:HGNC:15825]	
+HIGD1B	HIG1 hypoxia inducible domain family member 1B [Source:HGNC Symbol;Acc:HGNC:24318]	
+HIVEP2	human immunodeficiency virus type I enhancer binding protein 2 [Source:HGNC Symbol;Acc:HGNC:4921]	MENTAL RETARDATION AUTOSOMAL DOMINANT 43
+HK3	hexokinase 3 [Source:HGNC Symbol;Acc:HGNC:4925]	
+HLCS	holocarboxylase synthetase [Source:HGNC Symbol;Acc:HGNC:4976]	HOLOCARBOXYLASE SYNTHETASE DEFICIENCY
+HLTF	helicase like transcription factor [Source:HGNC Symbol;Acc:HGNC:11099]	
+HLX	H2.0 like homeobox [Source:HGNC Symbol;Acc:HGNC:4978]	
+HMBOX1	homeobox containing 1 [Source:HGNC Symbol;Acc:HGNC:26137]	positive regulation of telomerase activity
+HMBOX1	homeobox containing 1 [Source:HGNC Symbol;Acc:HGNC:26137]	positive regulation of telomere maintenance via telomerase
+HMBOX1	homeobox containing 1 [Source:HGNC Symbol;Acc:HGNC:26137]	negative regulation of telomeric DNA binding
+HMG20A	high mobility group 20A [Source:HGNC Symbol;Acc:HGNC:5001]	
+HOOK2	hook microtubule tethering protein 2 [Source:HGNC Symbol;Acc:HGNC:19885]	
+HP	haptoglobin [Source:HGNC Symbol;Acc:HGNC:5141]	Anhaptoglobinemia
+HRH4	histamine receptor H4 [Source:HGNC Symbol;Acc:HGNC:17383]	
+HS6ST3	heparan sulfate 6-O-sulfotransferase 3 [Source:HGNC Symbol;Acc:HGNC:19134]	
+HSD11B2	hydroxysteroid 11-beta dehydrogenase 2 [Source:HGNC Symbol;Acc:HGNC:5209]	APPARENT MINERALOCORTICOID EXCESS
+HSD17B12	hydroxysteroid 17-beta dehydrogenase 12 [Source:HGNC Symbol;Acc:HGNC:18646]	
+HSD3B7	hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 7 [Source:HGNC Symbol;Acc:HGNC:18324]	Congenital bile acid synthesis defect type 1
+HSD3B7	hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 7 [Source:HGNC Symbol;Acc:HGNC:18324]	BILE ACID SYNTHESIS DEFECT CONGENITAL 1
+HSF1	heat shock transcription factor 1 [Source:HGNC Symbol;Acc:HGNC:5224]	
+HSPA14	heat shock protein family A (Hsp70) member 14 [Source:HGNC Symbol;Acc:HGNC:29526]	
+HSPA1A	heat shock protein family A (Hsp70) member 1A [Source:HGNC Symbol;Acc:HGNC:5232]	cellular heat acclimation
+HSPA1A	heat shock protein family A (Hsp70) member 1A [Source:HGNC Symbol;Acc:HGNC:5232]	negative regulation of cell death
+HSPA1A	heat shock protein family A (Hsp70) member 1A [Source:HGNC Symbol;Acc:HGNC:5232]	negative regulation of extrinsic apoptotic signaling pathway in absence of ligand
+HSPA1A	heat shock protein family A (Hsp70) member 1A [Source:HGNC Symbol;Acc:HGNC:5232]	positive regulation of NF-kappaB transcription factor activity
+HSPA1A	heat shock protein family A (Hsp70) member 1A [Source:HGNC Symbol;Acc:HGNC:5232]	positive regulation of gene expression
+HSPA1A	heat shock protein family A (Hsp70) member 1A [Source:HGNC Symbol;Acc:HGNC:5232]	positive regulation of interleukin-8 production
+HSPA1A	heat shock protein family A (Hsp70) member 1A [Source:HGNC Symbol;Acc:HGNC:5232]	positive regulation of nucleotide-binding oligomerization domain containing 2 signaling pathway
+HSPA1A	heat shock protein family A (Hsp70) member 1A [Source:HGNC Symbol;Acc:HGNC:5232]	positive regulation of tumor necrosis factor-mediated signaling pathway
+HSPA1A	heat shock protein family A (Hsp70) member 1A [Source:HGNC Symbol;Acc:HGNC:5232]	protein stabilization
+HSPA1B	heat shock protein family A (Hsp70) member 1B [Source:HGNC Symbol;Acc:HGNC:5233]	cellular heat acclimation
+HSPA1B	heat shock protein family A (Hsp70) member 1B [Source:HGNC Symbol;Acc:HGNC:5233]	negative regulation of cell death
+HSPA1B	heat shock protein family A (Hsp70) member 1B [Source:HGNC Symbol;Acc:HGNC:5233]	negative regulation of extrinsic apoptotic signaling pathway in absence of ligand
+HSPA1B	heat shock protein family A (Hsp70) member 1B [Source:HGNC Symbol;Acc:HGNC:5233]	positive regulation of NF-kappaB transcription factor activity
+HSPA1B	heat shock protein family A (Hsp70) member 1B [Source:HGNC Symbol;Acc:HGNC:5233]	positive regulation of gene expression
+HSPA1B	heat shock protein family A (Hsp70) member 1B [Source:HGNC Symbol;Acc:HGNC:5233]	positive regulation of interleukin-8 production
+HSPA1B	heat shock protein family A (Hsp70) member 1B [Source:HGNC Symbol;Acc:HGNC:5233]	positive regulation of nucleotide-binding oligomerization domain containing 2 signaling pathway
+HSPA1B	heat shock protein family A (Hsp70) member 1B [Source:HGNC Symbol;Acc:HGNC:5233]	positive regulation of tumor necrosis factor-mediated signaling pathway
+HSPA1B	heat shock protein family A (Hsp70) member 1B [Source:HGNC Symbol;Acc:HGNC:5233]	protein stabilization
+HSPA1L	heat shock protein family A (Hsp70) member 1 like [Source:HGNC Symbol;Acc:HGNC:5234]	
+HSPA6	heat shock protein family A (Hsp70) member 6 [Source:HGNC Symbol;Acc:HGNC:5239]	
+HSPB1	heat shock protein family B (small) member 1 [Source:HGNC Symbol;Acc:HGNC:5246]	Autosomal dominant Charcot-Marie-Tooth disease type 2F
+HSPB1	heat shock protein family B (small) member 1 [Source:HGNC Symbol;Acc:HGNC:5246]	Distal hereditary motor neuropathy type 2
+HSPB1	heat shock protein family B (small) member 1 [Source:HGNC Symbol;Acc:HGNC:5246]	CHARCOT-MARIE-TOOTH DISEASE AXONAL TYPE 2F
+HSPB1	heat shock protein family B (small) member 1 [Source:HGNC Symbol;Acc:HGNC:5246]	NEURONOPATHY DISTAL HEREDITARY MOTOR TYPE IIB
+HSPB2	heat shock protein family B (small) member 2 [Source:HGNC Symbol;Acc:HGNC:5247]	
+HSPB9	heat shock protein family B (small) member 9 [Source:HGNC Symbol;Acc:HGNC:30589]	
+HTR2C	5-hydroxytryptamine receptor 2C [Source:HGNC Symbol;Acc:HGNC:5295]	integral component of plasma membrane
+HTR2C	5-hydroxytryptamine receptor 2C [Source:HGNC Symbol;Acc:HGNC:5295]	positive regulation of release of sequestered calcium ion into cytosol
+HTR2C	5-hydroxytryptamine receptor 2C [Source:HGNC Symbol;Acc:HGNC:5295]	serotonin receptor signaling pathway
+HTR4	5-hydroxytryptamine receptor 4 [Source:HGNC Symbol;Acc:HGNC:5299]	
+IBTK	inhibitor of Bruton tyrosine kinase [Source:HGNC Symbol;Acc:HGNC:17853]	
+IFITM5	interferon induced transmembrane protein 5 [Source:HGNC Symbol;Acc:HGNC:16644]	Osteogenesis imperfecta type 5
+IFITM5	interferon induced transmembrane protein 5 [Source:HGNC Symbol;Acc:HGNC:16644]	OSTEOGENESIS IMPERFECTA TYPE VII
+IFITM5	interferon induced transmembrane protein 5 [Source:HGNC Symbol;Acc:HGNC:16644]	Osteogenesis Imperfecta Type V
+IFITM5	interferon induced transmembrane protein 5 [Source:HGNC Symbol;Acc:HGNC:16644]	bone mineralization
+IFITM5	interferon induced transmembrane protein 5 [Source:HGNC Symbol;Acc:HGNC:16644]	bone morphogenesis
+IFNA2	interferon alpha 2 [Source:HGNC Symbol;Acc:HGNC:5423]	
+IFT27	intraflagellar transport 27 [Source:HGNC Symbol;Acc:HGNC:18626]	BARDET-BIEDL SYNDROME
+IFT27	intraflagellar transport 27 [Source:HGNC Symbol;Acc:HGNC:18626]	Bardet-Biedl syndrome 19
+IFT52	intraflagellar transport 52 [Source:HGNC Symbol;Acc:HGNC:15901]	SHORT-RIB THORACIC DYSPLASIA 16 WITH OR WITHOUT POLYDACTYLY
+IGF1R	insulin like growth factor 1 receptor [Source:HGNC Symbol;Acc:HGNC:5465]	Growth delay due to insulin-like growth factor I resistance
+IGF1R	insulin like growth factor 1 receptor [Source:HGNC Symbol;Acc:HGNC:5465]	INSULIN-LIKE GROWTH FACTOR I RESISTANCE TO
+IGFBPL1	insulin like growth factor binding protein like 1 [Source:HGNC Symbol;Acc:HGNC:20081]	
+IGFL2	IGF like family member 2 [Source:HGNC Symbol;Acc:HGNC:32929]	
+IHH	indian hedgehog [Source:HGNC Symbol;Acc:HGNC:5956]	Acrocapitofemoral dysplasia
+IHH	indian hedgehog [Source:HGNC Symbol;Acc:HGNC:5956]	Brachydactyly type A1
+IHH	indian hedgehog [Source:HGNC Symbol;Acc:HGNC:5956]	embryonic skeletal system development
+IL15RA	interleukin 15 receptor subunit alpha [Source:HGNC Symbol;Acc:HGNC:5978]	
+IL17RB	interleukin 17 receptor B [Source:HGNC Symbol;Acc:HGNC:18015]	
+IL17REL	interleukin 17 receptor E like [Source:HGNC Symbol;Acc:HGNC:33808]	
+IL1R2	interleukin 1 receptor type 2 [Source:HGNC Symbol;Acc:HGNC:5994]	
+IL2RG	interleukin 2 receptor subunit gamma [Source:HGNC Symbol;Acc:HGNC:6010]	OMENN SYNDROME
+IL2RG	interleukin 2 receptor subunit gamma [Source:HGNC Symbol;Acc:HGNC:6010]	T-B+ severe combined immunodeficiency due to gamma chain deficiency
+IL2RG	interleukin 2 receptor subunit gamma [Source:HGNC Symbol;Acc:HGNC:6010]	COMBINED IMMUNODEFICIENCY X-LINKED
+IL2RG	interleukin 2 receptor subunit gamma [Source:HGNC Symbol;Acc:HGNC:6010]	SEVERE COMBINED IMMUNODEFICIENCY X-LINKED
+IL4R	interleukin 4 receptor [Source:HGNC Symbol;Acc:HGNC:6015]	HUMAN IMMUNODEFICIENCY VIRUS TYPE 1 SUSCEPTIBILITY TO
+IL4R	interleukin 4 receptor [Source:HGNC Symbol;Acc:HGNC:6015]	IgE RESPONSIVENESS ATOPIC
+IMPAD1	inositol monophosphatase domain containing 1 [Source:HGNC Symbol;Acc:HGNC:26019]	CHONDRODYSPLASIA WITH JOINT DISLOCATIONS GPAPP TYPE
+IMPAD1	inositol monophosphatase domain containing 1 [Source:HGNC Symbol;Acc:HGNC:26019]	Chondrodysplasia with joint dislocations GRAPP type
+IMPDH1	inosine monophosphate dehydrogenase 1 [Source:HGNC Symbol;Acc:HGNC:6052]	Leber congenital amaurosis
+IMPDH1	inosine monophosphate dehydrogenase 1 [Source:HGNC Symbol;Acc:HGNC:6052]	Retinitis pigmentosa
+IMPDH1	inosine monophosphate dehydrogenase 1 [Source:HGNC Symbol;Acc:HGNC:6052]	LEBER CONGENITAL AMAUROSIS 11
+IMPDH1	inosine monophosphate dehydrogenase 1 [Source:HGNC Symbol;Acc:HGNC:6052]	RETINITIS PIGMENTOSA 10
+INPP5D	inositol polyphosphate-5-phosphatase D [Source:HGNC Symbol;Acc:HGNC:6079]	
+INPP5E	inositol polyphosphate-5-phosphatase E [Source:HGNC Symbol;Acc:HGNC:21474]	JOUBERT SYNDROME
+INPP5E	inositol polyphosphate-5-phosphatase E [Source:HGNC Symbol;Acc:HGNC:21474]	Joubert syndrome with hepatic defect
+INPP5E	inositol polyphosphate-5-phosphatase E [Source:HGNC Symbol;Acc:HGNC:21474]	Joubert syndrome with ocular defect
+INPP5E	inositol polyphosphate-5-phosphatase E [Source:HGNC Symbol;Acc:HGNC:21474]	MORM syndrome
+INPP5E	inositol polyphosphate-5-phosphatase E [Source:HGNC Symbol;Acc:HGNC:21474]	JOUBERT SYNDROME 1
+INPP5E	inositol polyphosphate-5-phosphatase E [Source:HGNC Symbol;Acc:HGNC:21474]	MENTAL RETARDATION TRUNCAL OBESITY RETINAL DYSTROPHY AND MICROPENISSYNDROME
+INPP5E	inositol polyphosphate-5-phosphatase E [Source:HGNC Symbol;Acc:HGNC:21474]	Joubert syndrome type 10 (JBTS10)
+INPP5E	inositol polyphosphate-5-phosphatase E [Source:HGNC Symbol;Acc:HGNC:21474]	mental retardation-truncal obesity-retinal dystrophy-micropenis (MORMS)
+INPPL1	inositol polyphosphate phosphatase like 1 [Source:HGNC Symbol;Acc:HGNC:6080]	Opsismodysplasia
+INPPL1	inositol polyphosphate phosphatase like 1 [Source:HGNC Symbol;Acc:HGNC:6080]	SCHNECKENBECKEN DYSPLASIA
+INTU	inturned planar cell polarity protein [Source:HGNC Symbol;Acc:HGNC:29239]	
+IPP	intracisternal A particle-promoted polypeptide [Source:HGNC Symbol;Acc:HGNC:6108]	
+IRF1	interferon regulatory factor 1 [Source:HGNC Symbol;Acc:HGNC:6116]	GASTRIC CANCER GASTRIC CANCER INTESTINAL INCLUDED
+IRF1	interferon regulatory factor 1 [Source:HGNC Symbol;Acc:HGNC:6116]	LUNG CANCER ALVEOLAR CELL CARCINOMA INCLUDED
+IRF1	interferon regulatory factor 1 [Source:HGNC Symbol;Acc:HGNC:6116]	RNA polymerase II core promoter proximal region sequence-specific DNA binding
+IRF1	interferon regulatory factor 1 [Source:HGNC Symbol;Acc:HGNC:6116]	negative regulation of transcription DNA-templated
+IRF1	interferon regulatory factor 1 [Source:HGNC Symbol;Acc:HGNC:6116]	positive regulation of interferon-beta production
+IRF1	interferon regulatory factor 1 [Source:HGNC Symbol;Acc:HGNC:6116]	positive regulation of transcription from RNA polymerase II promoter
+IRF1	interferon regulatory factor 1 [Source:HGNC Symbol;Acc:HGNC:6116]	positive regulation of transcription DNA-templated
+IRF1	interferon regulatory factor 1 [Source:HGNC Symbol;Acc:HGNC:6116]	transcriptional activator activity RNA polymerase II core promoter proximal region sequence-specific binding
+IRF3	interferon regulatory factor 3 [Source:HGNC Symbol;Acc:HGNC:6118]	HERPES SIMPLEX ENCEPHALITIS SUSCEPTIBILITY TO 7 (1 patient)
+IRF7	interferon regulatory factor 7 [Source:HGNC Symbol;Acc:HGNC:6122]	IMMUNODEFICIENCY 39
+IRF7	interferon regulatory factor 7 [Source:HGNC Symbol;Acc:HGNC:6122]	DNA binding
+IRF7	interferon regulatory factor 7 [Source:HGNC Symbol;Acc:HGNC:6122]	positive regulation of interferon-beta production
+IRF7	interferon regulatory factor 7 [Source:HGNC Symbol;Acc:HGNC:6122]	positive regulation of transcription DNA-templated
+ISYNA1	inositol-3-phosphate synthase 1 [Source:HGNC Symbol;Acc:HGNC:29821]	
+ITGA10	integrin subunit alpha 10 [Source:HGNC Symbol;Acc:HGNC:6135]	cell-matrix adhesion
+ITGA10	integrin subunit alpha 10 [Source:HGNC Symbol;Acc:HGNC:6135]	collagen binding involved in cell-matrix adhesion
+ITGA10	integrin subunit alpha 10 [Source:HGNC Symbol;Acc:HGNC:6135]	integrin-mediated signaling pathway
+ITPKB	inositol-trisphosphate 3-kinase B [Source:HGNC Symbol;Acc:HGNC:6179]	
+ITPR3	inositol 1,4,5-trisphosphate receptor type 3 [Source:HGNC Symbol;Acc:HGNC:6182]	DIABETES MELLITUS INSULIN-DEPENDENT 19
+JDP2	Jun dimerization protein 2 [Source:HGNC Symbol;Acc:HGNC:17546]	
+JMJD6	arginine demethylase and lysine hydroxylase [Source:HGNC Symbol;Acc:HGNC:19355]	
+KANK2	KN motif and ankyrin repeat domains 2 [Source:HGNC Symbol;Acc:HGNC:29300]	Skin fragility-woolly hair-palmoplantar keratoderma syndrome
+KANK2	KN motif and ankyrin repeat domains 2 [Source:HGNC Symbol;Acc:HGNC:29300]	Palmoplantar keratoderma and woolly hair
+KAT8	lysine acetyltransferase 8 [Source:HGNC Symbol;Acc:HGNC:17933]	
+KATNAL1	katanin catalytic subunit A1 like 1 [Source:HGNC Symbol;Acc:HGNC:28361]	
+KAZALD1	Kazal type serine peptidase inhibitor domain 1 [Source:HGNC Symbol;Acc:HGNC:25460]	
+KCNE4	potassium voltage-gated channel subfamily E regulatory subunit 4 [Source:HGNC Symbol;Acc:HGNC:6244]	
+KCNH1	potassium voltage-gated channel subfamily H member 1 [Source:HGNC Symbol;Acc:HGNC:6250]	TEMPLE-BARAITSER SYNDROME
+KCNH1	potassium voltage-gated channel subfamily H member 1 [Source:HGNC Symbol;Acc:HGNC:6250]	Zimmermann-Laband syndrome
+KCNH1	potassium voltage-gated channel subfamily H member 1 [Source:HGNC Symbol;Acc:HGNC:6250]	ZIMMERMANN-LABAND SYNDROME 1
+KCNH1	potassium voltage-gated channel subfamily H member 1 [Source:HGNC Symbol;Acc:HGNC:6250]	Temple barraister syndrome
+KCNH1	potassium voltage-gated channel subfamily H member 1 [Source:HGNC Symbol;Acc:HGNC:6250]	cellular response to calcium ion
+KCNH1	potassium voltage-gated channel subfamily H member 1 [Source:HGNC Symbol;Acc:HGNC:6250]	integral component of plasma membrane
+KCNH1	potassium voltage-gated channel subfamily H member 1 [Source:HGNC Symbol;Acc:HGNC:6250]	phosphatidylinositol-mediated signaling
+KCNH1	potassium voltage-gated channel subfamily H member 1 [Source:HGNC Symbol;Acc:HGNC:6250]	negative regulation of cell proliferation involved in contact inhibition
+KDM4D	lysine demethylase 4D [Source:HGNC Symbol;Acc:HGNC:25498]	cellular response to ionizing radiation
+KDM4D	lysine demethylase 4D [Source:HGNC Symbol;Acc:HGNC:25498]	double-strand break repair via homologous recombination
+KDM4D	lysine demethylase 4D [Source:HGNC Symbol;Acc:HGNC:25498]	positive regulation of chromatin binding
+KDM4D	lysine demethylase 4D [Source:HGNC Symbol;Acc:HGNC:25498]	positive regulation of double-strand break repair via nonhomologous end joining
+KDM4D	lysine demethylase 4D [Source:HGNC Symbol;Acc:HGNC:25498]	positive regulation of protein phosphorylation
+KHDRBS1	KH RNA binding domain containing, signal transduction associated 1 [Source:HGNC Symbol;Acc:HGNC:18116]	
+KIAA1143	KIAA1143 [Source:HGNC Symbol;Acc:HGNC:29198]	
+KIAA1324L	KIAA1324 like [Source:HGNC Symbol;Acc:HGNC:21945]	
+KIAA1524	KIAA1524 [Source:HGNC Symbol;Acc:HGNC:29302]	
+KIDINS220	kinase D-interacting substrate 220kDa [Source:HGNC Symbol;Acc:HGNC:29508]	
+KIRREL2	kin of IRRE like 2 (Drosophila) [Source:HGNC Symbol;Acc:HGNC:18816]	
+KLC3	kinesin light chain 3 [Source:HGNC Symbol;Acc:HGNC:20717]	
+KLF15	Kruppel like factor 15 [Source:HGNC Symbol;Acc:HGNC:14536]	negative regulation of peptidyl-lysine acetylation
+KLF15	Kruppel like factor 15 [Source:HGNC Symbol;Acc:HGNC:14536]	positive regulation of transcription from RNA polymerase II promoter
+KLHL17	kelch like family member 17 [Source:HGNC Symbol;Acc:HGNC:24023]	
+KLHL20	kelch like family member 20 [Source:HGNC Symbol;Acc:HGNC:25056]	
+KLHL21	kelch like family member 21 [Source:HGNC Symbol;Acc:HGNC:29041]	
+KLHL42	kelch like family member 42 [Source:HGNC Symbol;Acc:HGNC:29252]	
+KLHL6	kelch like family member 6 [Source:HGNC Symbol;Acc:HGNC:18653]	
+KLK1	kallikrein 1 [Source:HGNC Symbol;Acc:HGNC:6357]	KALLIKREIN DECREASED URINARY ACTIVITY OF
+KLK14	kallikrein related peptidase 14 [Source:HGNC Symbol;Acc:HGNC:6362]	
+L3HYPDH	trans-L-3-hydroxyproline dehydratase [Source:HGNC Symbol;Acc:HGNC:20488]	
+LAMB2	laminin subunit beta 2 [Source:HGNC Symbol;Acc:HGNC:6487]	LAMB-2-related infantile-onset nephrotic syndrome
+LAMB2	laminin subunit beta 2 [Source:HGNC Symbol;Acc:HGNC:6487]	PIERSON SYNDROME
+LAMB2	laminin subunit beta 2 [Source:HGNC Symbol;Acc:HGNC:6487]	Synaptic congenital myasthenic syndromes
+LAMB2	laminin subunit beta 2 [Source:HGNC Symbol;Acc:HGNC:6487]	Nephrotic syndrome type 5 with or without ocular abnormalities
+LANCL1	LanC like 1 [Source:HGNC Symbol;Acc:HGNC:6508]	
+LANCL2	LanC like 2 [Source:HGNC Symbol;Acc:HGNC:6509]	
+LAT	linker for activation of T-cells [Source:HGNC Symbol;Acc:HGNC:18874]	Ras protein signal transduction
+LAT	linker for activation of T-cells [Source:HGNC Symbol;Acc:HGNC:18874]	calcium-mediated signaling
+LAT	linker for activation of T-cells [Source:HGNC Symbol;Acc:HGNC:18874]	positive regulation of T cell activation
+LAT2	linker for activation of T-cells family member 2 [Source:HGNC Symbol;Acc:HGNC:12749]	
+LBX2	ladybird homeobox 2 [Source:HGNC Symbol;Acc:HGNC:15525]	
+LCN10	lipocalin 10 [Source:HGNC Symbol;Acc:HGNC:20892]	
+LCN6	lipocalin 6 [Source:HGNC Symbol;Acc:HGNC:17337]	
+LCNL1	lipocalin like 1 [Source:HGNC Symbol;Acc:HGNC:34436]	
+LDLRAD4	low density lipoprotein receptor class A domain containing 4 [Source:HGNC Symbol;Acc:HGNC:1224]	negative regulation of cell migration
+LDLRAD4	low density lipoprotein receptor class A domain containing 4 [Source:HGNC Symbol;Acc:HGNC:1224]	negative regulation of epithelial to mesenchymal transition
+LDLRAD4	low density lipoprotein receptor class A domain containing 4 [Source:HGNC Symbol;Acc:HGNC:1224]	negative regulation of pathway-restricted SMAD protein phosphorylation
+LDLRAD4	low density lipoprotein receptor class A domain containing 4 [Source:HGNC Symbol;Acc:HGNC:1224]	negative regulation of transforming growth factor beta receptor signaling pathway
+LEKR1	leucine, glutamate and lysine rich 1 [Source:HGNC Symbol;Acc:HGNC:33765]	
+LHX1	LIM homeobox 1 [Source:HGNC Symbol;Acc:HGNC:6593]	
+LHX1	LIM homeobox 1 [Source:HGNC Symbol;Acc:HGNC:6593]	17q12 microdeletion syndrome
+LIME1	Lck interacting transmembrane adaptor 1 [Source:HGNC Symbol;Acc:HGNC:26016]	
+LIN54	lin-54 DREAM MuvB core complex component [Source:HGNC Symbol;Acc:HGNC:25397]	
+LINGO4	leucine rich repeat and Ig domain containing 4 [Source:HGNC Symbol;Acc:HGNC:31814]	
+LMAN2L	lectin, mannose binding 2 like [Source:HGNC Symbol;Acc:HGNC:19263]	Autosomal recessive non-syndromic intellectual disability
+LMAN2L	lectin, mannose binding 2 like [Source:HGNC Symbol;Acc:HGNC:19263]	MENTAL RETARDATION AUTOSOMAL RECESSIVE 52
+LPAR2	lysophosphatidic acid receptor 2 [Source:HGNC Symbol;Acc:HGNC:3168]	
+LPGAT1	lysophosphatidylglycerol acyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:28985]	
+LRCH4	leucine rich repeats and calponin homology domain containing 4 [Source:HGNC Symbol;Acc:HGNC:6691]	
+LRPPRC	leucine rich pentatricopeptide repeat containing [Source:HGNC Symbol;Acc:HGNC:15714]	Congenital lactic acidosis Saguenay-Lac-Saint-Jean type
+LRPPRC	leucine rich pentatricopeptide repeat containing [Source:HGNC Symbol;Acc:HGNC:15714]	LEIGH SYNDROME FRENCH CANADIAN TYPE
+LRRC17	leucine rich repeat containing 17 [Source:HGNC Symbol;Acc:HGNC:16895]	
+LRRC39	leucine rich repeat containing 39 [Source:HGNC Symbol;Acc:HGNC:28228]	
+LRRC40	leucine rich repeat containing 40 [Source:HGNC Symbol;Acc:HGNC:26004]	
+LRRC49	leucine rich repeat containing 49 [Source:HGNC Symbol;Acc:HGNC:25965]	
+LRRC8B	leucine rich repeat containing 8 family member B [Source:HGNC Symbol;Acc:HGNC:30692]	
+LSMEM1	leucine rich single-pass membrane protein 1 [Source:HGNC Symbol;Acc:HGNC:22036]	
+LTN1	listerin E3 ubiquitin protein ligase 1 [Source:HGNC Symbol;Acc:HGNC:13082]	
+LYRM2	LYR motif containing 2 [Source:HGNC Symbol;Acc:HGNC:25229]	
+LYRM7	LYR motif containing 7 [Source:HGNC Symbol;Acc:HGNC:28072]	Isolated CoQ-cytochrome C reductase deficiency
+LYRM7	LYR motif containing 7 [Source:HGNC Symbol;Acc:HGNC:28072]	MITOCHONDRIAL COMPLEX III DEFICIENCY NUCLEAR TYPE 8
+MACROD1	MACRO domain containing 1 [Source:HGNC Symbol;Acc:HGNC:29598]	
+MAFF	MAF bZIP transcription factor F [Source:HGNC Symbol;Acc:HGNC:6780]	
+MAK16	MAK16 homolog [Source:HGNC Symbol;Acc:HGNC:13703]	
+MANF	mesencephalic astrocyte derived neurotrophic factor [Source:HGNC Symbol;Acc:HGNC:15461]	
+MAP1LC3C	microtubule associated protein 1 light chain 3 gamma [Source:HGNC Symbol;Acc:HGNC:13353]	
+MAP2K3	mitogen-activated protein kinase kinase 3 [Source:HGNC Symbol;Acc:HGNC:6843]	
+MAPKAPK2	mitogen-activated protein kinase-activated protein kinase 2 [Source:HGNC Symbol;Acc:HGNC:6887]	
+MAPKAPK5	mitogen-activated protein kinase-activated protein kinase 5 [Source:HGNC Symbol;Acc:HGNC:6889]	positive regulation of telomerase activity
+MAPKAPK5	mitogen-activated protein kinase-activated protein kinase 5 [Source:HGNC Symbol;Acc:HGNC:6889]	positive regulation of telomere capping
+MAPKAPK5	mitogen-activated protein kinase-activated protein kinase 5 [Source:HGNC Symbol;Acc:HGNC:6889]	positive regulation of telomere maintenance via telomerase
+MAPRE2	microtubule associated protein RP/EB family member 2 [Source:HGNC Symbol;Acc:HGNC:6891]	Multiple benign circumferential skin creases on limbs
+MAPRE2	microtubule associated protein RP/EB family member 2 [Source:HGNC Symbol;Acc:HGNC:6891]	Skin creases congenital symmetric circumferential 2
+MAPRE2	microtubule associated protein RP/EB family member 2 [Source:HGNC Symbol;Acc:HGNC:6891]	Circumferential Skin Creases Kunze Type
+MAS1	MAS1 proto-oncogene, G protein-coupled receptor [Source:HGNC Symbol;Acc:HGNC:6899]	negative regulation of protein kinase C signaling
+MAX	MYC associated factor X [Source:HGNC Symbol;Acc:HGNC:6913]	Hereditary pheochromocytoma-paraganglioma
+MAX	MYC associated factor X [Source:HGNC Symbol;Acc:HGNC:6913]	PHEOCHROMOCYTOMA
+MB21D1	Mab-21 domain containing 1 [Source:HGNC Symbol;Acc:HGNC:21367]	
+MBTPS2	membrane bound transcription factor peptidase, site 2 [Source:HGNC Symbol;Acc:HGNC:15455]	BRESEK syndrome
+MBTPS2	membrane bound transcription factor peptidase, site 2 [Source:HGNC Symbol;Acc:HGNC:15455]	Ichthyosis follicularis-alopecia-photophobia syndrome
+MBTPS2	membrane bound transcription factor peptidase, site 2 [Source:HGNC Symbol;Acc:HGNC:15455]	Keratosis follicularis spinulosa decalvans
+MBTPS2	membrane bound transcription factor peptidase, site 2 [Source:HGNC Symbol;Acc:HGNC:15455]	Mutilating palmoplantar keratoderma with periorificial keratotic plaques
+MBTPS2	membrane bound transcription factor peptidase, site 2 [Source:HGNC Symbol;Acc:HGNC:15455]	IFAP syndrome with or without BRESHECK syndrome
+MBTPS2	membrane bound transcription factor peptidase, site 2 [Source:HGNC Symbol;Acc:HGNC:15455]	KERATOSIS FOLLICULARIS SPINULOSA DECALVANS X-LINKED
+MBTPS2	membrane bound transcription factor peptidase, site 2 [Source:HGNC Symbol;Acc:HGNC:15455]	PALMOPLANTAR KERATODERMA MUTILATING WITH PERIORIFICIAL KERATOTICPLAQUES X-LINKED
+MCEE	methylmalonyl-CoA epimerase [Source:HGNC Symbol;Acc:HGNC:16732]	Methylmalonic acidemia due to methylmalonyl-CoA epimerase deficiency
+MCEE	methylmalonyl-CoA epimerase [Source:HGNC Symbol;Acc:HGNC:16732]	METHYLMALONYL-CoA EPIMERASE DEFICIENCY
+ME2	malic enzyme 2 [Source:HGNC Symbol;Acc:HGNC:6984]	
+MED14	mediator complex subunit 14 [Source:HGNC Symbol;Acc:HGNC:2370]	
+MED26	mediator complex subunit 26 [Source:HGNC Symbol;Acc:HGNC:2376]	
+MED29	mediator complex subunit 29 [Source:HGNC Symbol;Acc:HGNC:23074]	
+MEF2B	myocyte enhancer factor 2B [Source:HGNC Symbol;Acc:HGNC:6995]	
+MEPCE	methylphosphate capping enzyme [Source:HGNC Symbol;Acc:HGNC:20247]	
+METRNL	meteorin like, glial cell differentiation regulator [Source:HGNC Symbol;Acc:HGNC:27584]	
+METTL2A	methyltransferase like 2A [Source:HGNC Symbol;Acc:HGNC:25755]	
+METTL7B	methyltransferase like 7B [Source:HGNC Symbol;Acc:HGNC:28276]	
+MEX3A	mex-3 RNA binding family member A [Source:HGNC Symbol;Acc:HGNC:33482]	
+MFN1	mitofusin 1 [Source:HGNC Symbol;Acc:HGNC:18262]	
+MFSD8	major facilitator superfamily domain containing 8 [Source:HGNC Symbol;Acc:HGNC:28486]	CLN7 disease
+MFSD8	major facilitator superfamily domain containing 8 [Source:HGNC Symbol;Acc:HGNC:28486]	CEROID LIPOFUSCINOSIS NEURONAL 7
+MFSD8	major facilitator superfamily domain containing 8 [Source:HGNC Symbol;Acc:HGNC:28486]	MACULAR DYSTROPHY WITH CENTRAL CONE INVOLVEMENT
+MFSD8	major facilitator superfamily domain containing 8 [Source:HGNC Symbol;Acc:HGNC:28486]	MFSD8-Related Neuronal Ceroid-Lipofuscinosis
+MGAT1	mannosyl (alpha-1,3-)-glycoprotein beta-1,2-N-acetylglucosaminyltransferase [Source:HGNC Symbol;Acc:HGNC:7044]	
+MIA	melanoma inhibitory activity [Source:HGNC Symbol;Acc:HGNC:7076]	
+MICB	MHC class I polypeptide-related sequence B [Source:HGNC Symbol;Acc:HGNC:7091]	
+MIER2	MIER family member 2 [Source:HGNC Symbol;Acc:HGNC:29210]	
+MKNK2	MAP kinase interacting serine/threonine kinase 2 [Source:HGNC Symbol;Acc:HGNC:7111]	
+MLKL	mixed lineage kinase domain like [Source:HGNC Symbol;Acc:HGNC:26617]	
+MLPH	melanophilin [Source:HGNC Symbol;Acc:HGNC:29643]	Griscelli disease type 3
+MLPH	melanophilin [Source:HGNC Symbol;Acc:HGNC:29643]	GRISCELLI SYNDROME TYPE 3
+MMACHC	methylmalonic aciduria (cobalamin deficiency) cblC type, with homocystinuria [Source:HGNC Symbol;Acc:HGNC:24525]	Methylmalonic acidemia with homocystinuria type cblC
+MMACHC	methylmalonic aciduria (cobalamin deficiency) cblC type, with homocystinuria [Source:HGNC Symbol;Acc:HGNC:24525]	METHYLMALONIC ACIDURIA AND HOMOCYSTINURIA cblC TYPE
+MMP23B	matrix metallopeptidase 23B [Source:HGNC Symbol;Acc:HGNC:7171]	
+MMP3	matrix metallopeptidase 3 [Source:HGNC Symbol;Acc:HGNC:7173]	CORONARY HEART DISEASE SUSCEPTIBILITY TO 6
+MMP9	matrix metallopeptidase 9 [Source:HGNC Symbol;Acc:HGNC:7176]	Metaphyseal anadysplasia
+MMP9	matrix metallopeptidase 9 [Source:HGNC Symbol;Acc:HGNC:7176]	METAPHYSEAL ANADYSPLASIA 2 AUTOSOMAL RECESSIVE (1 family)
+MOB2	MOB kinase activator 2 [Source:HGNC Symbol;Acc:HGNC:24904]	
+MOB3A	MOB kinase activator 3A [Source:HGNC Symbol;Acc:HGNC:29802]	
+MPV17L	MPV17 mitochondrial inner membrane protein like [Source:HGNC Symbol;Acc:HGNC:26827]	
+MPZ	myelin protein zero [Source:HGNC Symbol;Acc:HGNC:7225]	Autosomal dominant Charcot-Marie-Tooth disease type 2I
+MPZ	myelin protein zero [Source:HGNC Symbol;Acc:HGNC:7225]	Autosomal dominant Charcot-Marie-Tooth disease type 2J
+MPZ	myelin protein zero [Source:HGNC Symbol;Acc:HGNC:7225]	Autosomal dominant intermediate Charcot-Marie-Tooth disease type D
+MPZ	myelin protein zero [Source:HGNC Symbol;Acc:HGNC:7225]	Autosomal dominant intermediate Charcot-Marie-Tooth disease with neuropathic pain
+MPZ	myelin protein zero [Source:HGNC Symbol;Acc:HGNC:7225]	Charcot-Marie-Tooth disease type 1B
+MPZ	myelin protein zero [Source:HGNC Symbol;Acc:HGNC:7225]	Dejerine-Sottas syndrome
+MPZ	myelin protein zero [Source:HGNC Symbol;Acc:HGNC:7225]	Roussy-Levy syndrome
+MPZ	myelin protein zero [Source:HGNC Symbol;Acc:HGNC:7225]	CHARCOT-MARIE-TOOTH DISEASE AXONAL TYPE 2I
+MPZ	myelin protein zero [Source:HGNC Symbol;Acc:HGNC:7225]	CHARCOT-MARIE-TOOTH DISEASE AXONAL TYPE 2J
+MPZ	myelin protein zero [Source:HGNC Symbol;Acc:HGNC:7225]	CHARCOT-MARIE-TOOTH DISEASE DEMYELINATING TYPE 1B
+MPZ	myelin protein zero [Source:HGNC Symbol;Acc:HGNC:7225]	CHARCOT-MARIE-TOOTH DISEASE DOMINANT INTERMEDIATE D
+MPZ	myelin protein zero [Source:HGNC Symbol;Acc:HGNC:7225]	HYPERTROPHIC NEUROPATHY OF DEJERINE-SOTTAS
+MPZ	myelin protein zero [Source:HGNC Symbol;Acc:HGNC:7225]	NEUROPATHY CONGENITAL HYPOMYELINATING OR AMYELINATING AUTOSOMAL RECESSIVE
+MPZ	myelin protein zero [Source:HGNC Symbol;Acc:HGNC:7225]	ROUSSY-LEVY HEREDITARY AREFLEXIC DYSTASIA
+MRAS	muscle RAS oncogene homolog [Source:HGNC Symbol;Acc:HGNC:7227]	
+MROH6	maestro heat like repeat family member 6 [Source:HGNC Symbol;Acc:HGNC:27814]	
+MRPL32	mitochondrial ribosomal protein L32 [Source:HGNC Symbol;Acc:HGNC:14035]	
+MRPL38	mitochondrial ribosomal protein L38 [Source:HGNC Symbol;Acc:HGNC:14033]	
+MRPS16	mitochondrial ribosomal protein S16 [Source:HGNC Symbol;Acc:HGNC:14048]	Combined oxidative phosphorylation defect type 2
+MRPS16	mitochondrial ribosomal protein S16 [Source:HGNC Symbol;Acc:HGNC:14048]	COMBINED OXIDATIVE PHOSPHORYLATION DEFICIENCY 2
+MRPS6	mitochondrial ribosomal protein S6 [Source:HGNC Symbol;Acc:HGNC:14051]	
+MS4A6A	membrane spanning 4-domains A6A [Source:HGNC Symbol;Acc:HGNC:13375]	
+MSH2	mutS homolog 2 [Source:HGNC Symbol;Acc:HGNC:7325]	Constitutional mismatch repair deficiency syndrome
+MSH2	mutS homolog 2 [Source:HGNC Symbol;Acc:HGNC:7325]	Lynch syndrome
+MSH2	mutS homolog 2 [Source:HGNC Symbol;Acc:HGNC:7325]	MUIR-TORRE SYNDROME
+MSH2	mutS homolog 2 [Source:HGNC Symbol;Acc:HGNC:7325]	Lynch syndrome I
+MSH2	mutS homolog 2 [Source:HGNC Symbol;Acc:HGNC:7325]	MISMATCH REPAIR CANCER SYNDROME
+MSTO1	misato 1, mitochondrial distribution and morphology regulator [Source:HGNC Symbol;Acc:HGNC:29678]	
+MSX1	msh homeobox 1 [Source:HGNC Symbol;Acc:HGNC:7391]	Hypodontia-dysplasia of nails syndrome
+MSX1	msh homeobox 1 [Source:HGNC Symbol;Acc:HGNC:7391]	Oligodontia
+MSX1	msh homeobox 1 [Source:HGNC Symbol;Acc:HGNC:7391]	OROFACIAL CLEFT 5
+MSX1	msh homeobox 1 [Source:HGNC Symbol;Acc:HGNC:7391]	TOOTH AGENESIS SELECTIVE 1
+MSX1	msh homeobox 1 [Source:HGNC Symbol;Acc:HGNC:7391]	WITKOP SYNDROME
+MSX1	msh homeobox 1 [Source:HGNC Symbol;Acc:HGNC:7391]	Cleft Lip +/- Cleft Palate
+MSX1	msh homeobox 1 [Source:HGNC Symbol;Acc:HGNC:7391]	embryonic nail plate morphogenesis
+MSX1	msh homeobox 1 [Source:HGNC Symbol;Acc:HGNC:7391]	face morphogenesis
+MSX1	msh homeobox 1 [Source:HGNC Symbol;Acc:HGNC:7391]	odontogenesis of dentin-containing tooth
+MT-ND6	mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 6 [Source:HGNC Symbol;Acc:HGNC:7462]	Leber hereditary optic neuropathy
+MT-ND6	mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 6 [Source:HGNC Symbol;Acc:HGNC:7462]	Leber plus disease
+MT-ND6	mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 6 [Source:HGNC Symbol;Acc:HGNC:7462]	Parkinsonism/MELAS overlap syndrome
+MT-ND6	mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 6 [Source:HGNC Symbol;Acc:HGNC:7462]	Maternally-inherited Leigh syndrome
+MT-ND6	mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 6 [Source:HGNC Symbol;Acc:HGNC:7462]	LEBER OPTIC ATROPHY
+MT-ND6	mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 6 [Source:HGNC Symbol;Acc:HGNC:7462]	MITOCHONDRIAL MYOPATHY ENCEPHALOPATHY LACTIC ACIDOSIS AND STROKE-LIKE EPISODES
+MT1A	metallothionein 1A [Source:HGNC Symbol;Acc:HGNC:7393]	
+MT1E	metallothionein 1E [Source:HGNC Symbol;Acc:HGNC:7397]	
+MT1F	metallothionein 1F [Source:HGNC Symbol;Acc:HGNC:7398]	
+MT1G	metallothionein 1G [Source:HGNC Symbol;Acc:HGNC:7399]	
+MT1M	metallothionein 1M [Source:HGNC Symbol;Acc:HGNC:14296]	
+MT1X	metallothionein 1X [Source:HGNC Symbol;Acc:HGNC:7405]	
+MT2A	metallothionein 2A [Source:HGNC Symbol;Acc:HGNC:7406]	
+MTBP	MDM2 binding protein [Source:HGNC Symbol;Acc:HGNC:7417]	
+MTCH2	mitochondrial carrier 2 [Source:HGNC Symbol;Acc:HGNC:17587]	
+MTMR7	myotubularin related protein 7 [Source:HGNC Symbol;Acc:HGNC:7454]	
+MTMR9	myotubularin related protein 9 [Source:HGNC Symbol;Acc:HGNC:14596]	
+MTPAP	mitochondrial poly(A) polymerase [Source:HGNC Symbol;Acc:HGNC:25532]	Autosomal recessive spastic ataxia-optic atrophy-dysarthria syndrome
+MTPAP	mitochondrial poly(A) polymerase [Source:HGNC Symbol;Acc:HGNC:25532]	SPASTIC ATAXIA 4 AUTOSOMAL RECESSIVE
+MTR	5-methyltetrahydrofolate-homocysteine methyltransferase [Source:HGNC Symbol;Acc:HGNC:7468]	Methylcobalamin deficiency type cblG
+MTR	5-methyltetrahydrofolate-homocysteine methyltransferase [Source:HGNC Symbol;Acc:HGNC:7468]	HOMOCYSTINURIA-MEGALOBLASTIC ANEMIA cblG COMPLEMENTATION TYPE
+MTR	5-methyltetrahydrofolate-homocysteine methyltransferase [Source:HGNC Symbol;Acc:HGNC:7468]	NEURAL TUBE DEFECTS FOLATE-SENSITIVE SUSCEPTIBILITY TO
+MTR	5-methyltetrahydrofolate-homocysteine methyltransferase [Source:HGNC Symbol;Acc:HGNC:7468]	methylcobalamin deficiency type G (cblG)
+MTSS1L	MTSS1L, I-BAR domain containing [Source:HGNC Symbol;Acc:HGNC:25094]	
+MTX3	metaxin 3 [Source:HGNC Symbol;Acc:HGNC:24812]	
+MYEF2	myelin expression factor 2 [Source:HGNC Symbol;Acc:HGNC:17940]	
+MYLK2	myosin light chain kinase 2 [Source:HGNC Symbol;Acc:HGNC:16243]	CARDIOMYOPATHY FAMILIAL HYPERTROPHIC 1
+MYO1F	myosin IF [Source:HGNC Symbol;Acc:HGNC:7600]	
+MYSM1	Myb like, SWIRM and MPN domains 1 [Source:HGNC Symbol;Acc:HGNC:29401]	
+MZB1	marginal zone B and B1 cell specific protein [Source:HGNC Symbol;Acc:HGNC:30125]	
+NAA25	N(alpha)-acetyltransferase 25, NatB auxiliary subunit [Source:HGNC Symbol;Acc:HGNC:25783]	
+NAA35	N(alpha)-acetyltransferase 35, NatC auxiliary subunit [Source:HGNC Symbol;Acc:HGNC:24340]	
+NACC2	NACC family member 2 [Source:HGNC Symbol;Acc:HGNC:23846]	
+NADK	NAD kinase [Source:HGNC Symbol;Acc:HGNC:29831]	
+NAF1	nuclear assembly factor 1 ribonucleoprotein [Source:HGNC Symbol;Acc:HGNC:25126]	
+NAGS	N-acetylglutamate synthase [Source:HGNC Symbol;Acc:HGNC:17996]	Hyperammonemia due to N-acetylglutamate synthase deficiency
+NAGS	N-acetylglutamate synthase [Source:HGNC Symbol;Acc:HGNC:17996]	N-ACETYLGLUTAMATE SYNTHASE DEFICIENCY
+NALCN	sodium leak channel, non-selective [Source:HGNC Symbol;Acc:HGNC:19082]	Hypotonia-speech impairment-severe cognitive delay syndrome
+NALCN	sodium leak channel, non-selective [Source:HGNC Symbol;Acc:HGNC:19082]	CONGENITAL CONTRACTURES OF THE LIMBS AND FACE HYPOTONIA AND DEVELOPMENTAL DELAY
+NALCN	sodium leak channel, non-selective [Source:HGNC Symbol;Acc:HGNC:19082]	HYPOTONIA INFANTILE WITH PSYCHOMOTOR RETARDATION AND CHARACTERISTIC FACIES 1
+NALCN	sodium leak channel, non-selective [Source:HGNC Symbol;Acc:HGNC:19082]	HYPOTONIA INFANTILE WITH PSYCHOMOTOR RETARDATION AND CHARACTERISTIC FACIES
+NALCN	sodium leak channel, non-selective [Source:HGNC Symbol;Acc:HGNC:19082]	Severe Hypotonia Speech Impairment and Cognitive Delay
+NANOS2	nanos C2HC-type zinc finger 2 [Source:HGNC Symbol;Acc:HGNC:23292]	
+NAPSA	napsin A aspartic peptidase [Source:HGNC Symbol;Acc:HGNC:13395]	
+NAV3	neuron navigator 3 [Source:HGNC Symbol;Acc:HGNC:15998]	
+NCF1	neutrophil cytosolic factor 1 [Source:HGNC Symbol;Acc:HGNC:7660]	Chronic granulomatous disease
+NCF1	neutrophil cytosolic factor 1 [Source:HGNC Symbol;Acc:HGNC:7660]	GRANULOMATOUS DISEASE CHRONIC AUTOSOMAL RECESSIVE CYTOCHROME b-POSITIVE TYPE I
+NCF1	neutrophil cytosolic factor 1 [Source:HGNC Symbol;Acc:HGNC:7660]	positive regulation of superoxide anion generation
+NCF1	neutrophil cytosolic factor 1 [Source:HGNC Symbol;Acc:HGNC:7660]	superoxide-generating NADPH oxidase activity
+NCF4	neutrophil cytosolic factor 4 [Source:HGNC Symbol;Acc:HGNC:7662]	Chronic granulomatous disease
+NCF4	neutrophil cytosolic factor 4 [Source:HGNC Symbol;Acc:HGNC:7662]	GRANULOMATOUS DISEASE CHRONIC AUTOSOMAL RECESSIVE CYTOCHROME b-POSITIVE TYPE III
+NCF4	neutrophil cytosolic factor 4 [Source:HGNC Symbol;Acc:HGNC:7662]	superoxide-generating NADPH oxidase activator activity
+NCR3LG1	natural killer cell cytotoxicity receptor 3 ligand 1 [Source:HGNC Symbol;Acc:HGNC:42400]	
+NDUFS1	NADH:ubiquinone oxidoreductase core subunit S1 [Source:HGNC Symbol;Acc:HGNC:7707]	MITOCHONDRIAL COMPLEX I DEFICIENCY
+NDUFS1	NADH:ubiquinone oxidoreductase core subunit S1 [Source:HGNC Symbol;Acc:HGNC:7707]	Leigh syndrome
+NDUFS1	NADH:ubiquinone oxidoreductase core subunit S1 [Source:HGNC Symbol;Acc:HGNC:7707]	Mitochondrial Respiratory Chain Complex I Deficiency (nuclear genes)
+NDUFS1	NADH:ubiquinone oxidoreductase core subunit S1 [Source:HGNC Symbol;Acc:HGNC:7707]	Muscle Weakness and Isolated Complex I Deficiency
+NDUFS1	NADH:ubiquinone oxidoreductase core subunit S1 [Source:HGNC Symbol;Acc:HGNC:7707]	Leigh syndrome with leukodystrophy
+NF1	neurofibromin 1 [Source:HGNC Symbol;Acc:HGNC:7765]	17q11 microdeletion syndrome
+NF1	neurofibromin 1 [Source:HGNC Symbol;Acc:HGNC:7765]	17q11.2 microduplication syndrome
+NF1	neurofibromin 1 [Source:HGNC Symbol;Acc:HGNC:7765]	Juvenile myelomonocytic leukemia
+NF1	neurofibromin 1 [Source:HGNC Symbol;Acc:HGNC:7765]	Neurofibromatosis type 1 due to NF1mutation or intragenic deletion
+NF1	neurofibromin 1 [Source:HGNC Symbol;Acc:HGNC:7765]	Neurofibromatosis-Noonan syndrome
+NF1	neurofibromin 1 [Source:HGNC Symbol;Acc:HGNC:7765]	NEUROFIBROMATOSIS FAMILIAL SPINAL
+NF1	neurofibromin 1 [Source:HGNC Symbol;Acc:HGNC:7765]	NEUROFIBROMATOSIS TYPE I
+NF1	neurofibromin 1 [Source:HGNC Symbol;Acc:HGNC:7765]	WATSON SYNDROME
+NF1	neurofibromin 1 [Source:HGNC Symbol;Acc:HGNC:7765]	Familial spinal neurofibromatosis
+NF1	neurofibromin 1 [Source:HGNC Symbol;Acc:HGNC:7765]	neurofibromatosis type 1 (NF1)
+NFATC4	nuclear factor of activated T-cells 4 [Source:HGNC Symbol;Acc:HGNC:7778]	
+NFIL3	nuclear factor, interleukin 3 regulated [Source:HGNC Symbol;Acc:HGNC:7787]	
+NFKB2	nuclear factor kappa B subunit 2 [Source:HGNC Symbol;Acc:HGNC:7795]	Common variable immunodeficiency
+NFKB2	nuclear factor kappa B subunit 2 [Source:HGNC Symbol;Acc:HGNC:7795]	Deficiency in anterior pituitary function-variable immunodeficiency syndrome
+NFKB2	nuclear factor kappa B subunit 2 [Source:HGNC Symbol;Acc:HGNC:7795]	IMMUNODEFICIENCY COMMON VARIABLE 10
+NFKBIA	NFKB inhibitor alpha [Source:HGNC Symbol;Acc:HGNC:7797]	Giant cell glioblastoma
+NFKBIA	NFKB inhibitor alpha [Source:HGNC Symbol;Acc:HGNC:7797]	Gliosarcoma
+NFKBIA	NFKB inhibitor alpha [Source:HGNC Symbol;Acc:HGNC:7797]	Hypohidrotic ectodermal dysplasia with immunodeficiency
+NFKBIA	NFKB inhibitor alpha [Source:HGNC Symbol;Acc:HGNC:7797]	ECTODERMAL DYSPLASIA ANHIDROTIC WITH T-CELL IMMUNODEFICIENCY AUTOSOMAL DOMINANT
+NHLH1	nescient helix-loop-helix 1 [Source:HGNC Symbol;Acc:HGNC:7817]	
+NHLRC3	NHL repeat containing 3 [Source:HGNC Symbol;Acc:HGNC:33751]	
+NLRP6	NLR family pyrin domain containing 6 [Source:HGNC Symbol;Acc:HGNC:22944]	
+NOP2	NOP2 nucleolar protein [Source:HGNC Symbol;Acc:HGNC:7867]	
+NOS3	nitric oxide synthase 3 [Source:HGNC Symbol;Acc:HGNC:7876]	ALZHEIMER DISEASE
+NOS3	nitric oxide synthase 3 [Source:HGNC Symbol;Acc:HGNC:7876]	HYPERTENSION ESSENTIAL SUSCEPTIBILITY TO
+NOS3	nitric oxide synthase 3 [Source:HGNC Symbol;Acc:HGNC:7876]	PREECLAMPSIA/ECLAMPSIA 1
+NOS3	nitric oxide synthase 3 [Source:HGNC Symbol;Acc:HGNC:7876]	STROKE ISCHEMIC
+NPAT	nuclear protein, coactivator of histone transcription [Source:HGNC Symbol;Acc:HGNC:7896]	
+NPC1L1	NPC1 like intracellular cholesterol transporter 1 [Source:HGNC Symbol;Acc:HGNC:7898]	cholesterol biosynthetic process
+NPC1L1	NPC1 like intracellular cholesterol transporter 1 [Source:HGNC Symbol;Acc:HGNC:7898]	cholesterol transport
+NPC1L1	NPC1 like intracellular cholesterol transporter 1 [Source:HGNC Symbol;Acc:HGNC:7898]	intestinal cholesterol absorption
+NPC1L1	NPC1 like intracellular cholesterol transporter 1 [Source:HGNC Symbol;Acc:HGNC:7898]	lipoprotein metabolic process
+NPFF	neuropeptide FF-amide peptide precursor [Source:HGNC Symbol;Acc:HGNC:7901]	
+NR1H3	nuclear receptor subfamily 1 group H member 3 [Source:HGNC Symbol;Acc:HGNC:7966]	apoptotic cell clearance
+NR1H3	nuclear receptor subfamily 1 group H member 3 [Source:HGNC Symbol;Acc:HGNC:7966]	negative regulation of cholesterol storage
+NR1H3	nuclear receptor subfamily 1 group H member 3 [Source:HGNC Symbol;Acc:HGNC:7966]	negative regulation of lipid transport
+NR1H3	nuclear receptor subfamily 1 group H member 3 [Source:HGNC Symbol;Acc:HGNC:7966]	negative regulation of pinocytosis
+NR1H3	nuclear receptor subfamily 1 group H member 3 [Source:HGNC Symbol;Acc:HGNC:7966]	positive regulation of cellular protein metabolic process
+NR1H3	nuclear receptor subfamily 1 group H member 3 [Source:HGNC Symbol;Acc:HGNC:7966]	positive regulation of cholesterol efflux
+NR1H3	nuclear receptor subfamily 1 group H member 3 [Source:HGNC Symbol;Acc:HGNC:7966]	positive regulation of fatty acid biosynthetic process
+NR1H3	nuclear receptor subfamily 1 group H member 3 [Source:HGNC Symbol;Acc:HGNC:7966]	positive regulation of lipoprotein lipase activity
+NR1H3	nuclear receptor subfamily 1 group H member 3 [Source:HGNC Symbol;Acc:HGNC:7966]	positive regulation of transcription from RNA polymerase II promoter
+NR1H3	nuclear receptor subfamily 1 group H member 3 [Source:HGNC Symbol;Acc:HGNC:7966]	positive regulation of transcription DNA-templated
+NR1H3	nuclear receptor subfamily 1 group H member 3 [Source:HGNC Symbol;Acc:HGNC:7966]	positive regulation of triglyceride biosynthetic process
+NR2C2	nuclear receptor subfamily 2 group C member 2 [Source:HGNC Symbol;Acc:HGNC:7972]	
+NRK	Nik related kinase [Source:HGNC Symbol;Acc:HGNC:25391]	
+NSUN3	NOP2/Sun RNA methyltransferase family member 3 [Source:HGNC Symbol;Acc:HGNC:26208]	
+NUCKS1	nuclear casein kinase and cyclin dependent kinase substrate 1 [Source:HGNC Symbol;Acc:HGNC:29923]	
+NUP133	nucleoporin 133 [Source:HGNC Symbol;Acc:HGNC:18016]	
+NUP155	nucleoporin 155 [Source:HGNC Symbol;Acc:HGNC:8063]	Familial atrial fibrillation
+NUP155	nucleoporin 155 [Source:HGNC Symbol;Acc:HGNC:8063]	Atrial fibrillation familial 15
+NUP210L	nucleoporin 210 like [Source:HGNC Symbol;Acc:HGNC:29915]	
+NUPR1	nuclear protein 1, transcriptional regulator [Source:HGNC Symbol;Acc:HGNC:29990]	
+NUTM2A	NUT family member 2A [Source:HGNC Symbol;Acc:HGNC:23438]	Endometrial stromal sarcoma
+NXN	nucleoredoxin [Source:HGNC Symbol;Acc:HGNC:18008]	
+OGFOD1	2-oxoglutarate and iron dependent oxygenase domain containing 1 [Source:HGNC Symbol;Acc:HGNC:25585]	
+OIT3	oncoprotein induced transcript 3 [Source:HGNC Symbol;Acc:HGNC:29953]	
+OPA1	OPA1, mitochondrial dynamin like GTPase [Source:HGNC Symbol;Acc:HGNC:8140]	Autosomal dominant optic atrophy plus syndrome
+OPA1	OPA1, mitochondrial dynamin like GTPase [Source:HGNC Symbol;Acc:HGNC:8140]	Autosomal dominant optic atrophy classic form
+OPA1	OPA1, mitochondrial dynamin like GTPase [Source:HGNC Symbol;Acc:HGNC:8140]	Behr syndrome
+OPA1	OPA1, mitochondrial dynamin like GTPase [Source:HGNC Symbol;Acc:HGNC:8140]	GLAUCOMA NORMAL TENSION SUSCEPTIBILITY TO
+OPA1	OPA1, mitochondrial dynamin like GTPase [Source:HGNC Symbol;Acc:HGNC:8140]	MITOCHONDRIAL DNA DEPLETION SYNDROME 14 (CARDIOENCEPHALOMYOPATHICTYPE)
+OPA1	OPA1, mitochondrial dynamin like GTPase [Source:HGNC Symbol;Acc:HGNC:8140]	OPTIC ATROPHY 1
+OPA1	OPA1, mitochondrial dynamin like GTPase [Source:HGNC Symbol;Acc:HGNC:8140]	OPTIC ATROPHY WITH OR WITHOUT DEAFNESS OPHTHALMOPLEGIA MYOPATHY ATAXIA AND NEUROPATHY
+OR2H2	olfactory receptor family 2 subfamily H member 2 [Source:HGNC Symbol;Acc:HGNC:8253]	
+OR7A5	olfactory receptor family 7 subfamily A member 5 [Source:HGNC Symbol;Acc:HGNC:8368]	
+OR7C1	olfactory receptor family 7 subfamily C member 1 [Source:HGNC Symbol;Acc:HGNC:8373]	
+ORC3	origin recognition complex subunit 3 [Source:HGNC Symbol;Acc:HGNC:8489]	
+OSBPL9	oxysterol binding protein like 9 [Source:HGNC Symbol;Acc:HGNC:16386]	
+OSTN	osteocrin [Source:HGNC Symbol;Acc:HGNC:29961]	
+OTOS	otospiralin [Source:HGNC Symbol;Acc:HGNC:22644]	
+P2RY11	purinergic receptor P2Y11 [Source:HGNC Symbol;Acc:HGNC:8540]	Narcolepsy-cataplexy syndrome
+P4HA1	prolyl 4-hydroxylase subunit alpha 1 [Source:HGNC Symbol;Acc:HGNC:8546]	
+P4HA2	prolyl 4-hydroxylase subunit alpha 2 [Source:HGNC Symbol;Acc:HGNC:8547]	
+PAK3	p21 (RAC1) activated kinase 3 [Source:HGNC Symbol;Acc:HGNC:8592]	X-linked non-syndromic intellectual disability
+PAK3	p21 (RAC1) activated kinase 3 [Source:HGNC Symbol;Acc:HGNC:8592]	Agenesis of the corpus callosum X-linked partial
+PAK3	p21 (RAC1) activated kinase 3 [Source:HGNC Symbol;Acc:HGNC:8592]	mental retardation X-linked type 30 (MRX30)
+PALD1	phosphatase domain containing, paladin 1 [Source:HGNC Symbol;Acc:HGNC:23530]	
+PALM3	paralemmin 3 [Source:HGNC Symbol;Acc:HGNC:33274]	
+PAPD4	poly(A) RNA polymerase D4, non-canonical [Source:HGNC Symbol;Acc:HGNC:26776]	
+PARD3	par-3 family cell polarity regulator [Source:HGNC Symbol;Acc:HGNC:16051]	
+PARD6G	par-6 family cell polarity regulator gamma [Source:HGNC Symbol;Acc:HGNC:16076]	
+PARVG	parvin gamma [Source:HGNC Symbol;Acc:HGNC:14654]	
+PAX3	paired box 3 [Source:HGNC Symbol;Acc:HGNC:8617]	Alveolar rhabdomyosarcoma
+PAX3	paired box 3 [Source:HGNC Symbol;Acc:HGNC:8617]	CRANIOFACIAL-DEAFNESS-HAND SYNDROME
+PAX3	paired box 3 [Source:HGNC Symbol;Acc:HGNC:8617]	WAARDENBURG SYNDROME TYPE 1
+PAX3	paired box 3 [Source:HGNC Symbol;Acc:HGNC:8617]	WAARDENBURG SYNDROME TYPE 3
+PAX3	paired box 3 [Source:HGNC Symbol;Acc:HGNC:8617]	RHABDOMYOSARCOMA 2
+PCBD1	pterin-4 alpha-carbinolamine dehydratase 1 [Source:HGNC Symbol;Acc:HGNC:8646]	Dehydratase deficiency
+PCBD1	pterin-4 alpha-carbinolamine dehydratase 1 [Source:HGNC Symbol;Acc:HGNC:8646]	HYPERPHENYLALANINEMIA BH4-DEFICIENT D
+PCCB	propionyl-CoA carboxylase beta subunit [Source:HGNC Symbol;Acc:HGNC:8654]	PROPIONIC ACIDEMIA
+PCGF1	polycomb group ring finger 1 [Source:HGNC Symbol;Acc:HGNC:17615]	
+PCOLCE	procollagen C-endopeptidase enhancer [Source:HGNC Symbol;Acc:HGNC:8738]	
+PCTP	phosphatidylcholine transfer protein [Source:HGNC Symbol;Acc:HGNC:8752]	
+PCYOX1L	prenylcysteine oxidase 1 like [Source:HGNC Symbol;Acc:HGNC:28477]	
+PDE10A	phosphodiesterase 10A [Source:HGNC Symbol;Acc:HGNC:8772]	Childhood-Onset Chorea with Bilateral Striatal Lesions
+PDE11A	phosphodiesterase 11A [Source:HGNC Symbol;Acc:HGNC:8773]	Primary pigmented nodular adrenocortical disease
+PDE11A	phosphodiesterase 11A [Source:HGNC Symbol;Acc:HGNC:8773]	PIGMENTED NODULAR ADRENOCORTICAL DISEASE PRIMARY 2
+PDE7A	phosphodiesterase 7A [Source:HGNC Symbol;Acc:HGNC:8791]	
+PDGFRB	platelet derived growth factor receptor beta [Source:HGNC Symbol;Acc:HGNC:8804]	Acroosteolysis-keloid-like lesions-premature aging syndrome
+PDGFRB	platelet derived growth factor receptor beta [Source:HGNC Symbol;Acc:HGNC:8804]	Bilateral striopallidodentate calcinosis
+PDGFRB	platelet derived growth factor receptor beta [Source:HGNC Symbol;Acc:HGNC:8804]	Chronic myelomonocytic leukemia
+PDGFRB	platelet derived growth factor receptor beta [Source:HGNC Symbol;Acc:HGNC:8804]	Infantile myofibromatosis 1
+PDGFRB	platelet derived growth factor receptor beta [Source:HGNC Symbol;Acc:HGNC:8804]	Myeloid neoplasm associated with PDGFRB rearrangement
+PDGFRB	platelet derived growth factor receptor beta [Source:HGNC Symbol;Acc:HGNC:8804]	Primary hypereosinophilic syndrome
+PDGFRB	platelet derived growth factor receptor beta [Source:HGNC Symbol;Acc:HGNC:8804]	Unclassified chronic myeloproliferative disease
+PDGFRB	platelet derived growth factor receptor beta [Source:HGNC Symbol;Acc:HGNC:8804]	BASAL GANGLIA CALCIFICATION IDIOPATHIC 1
+PDGFRB	platelet derived growth factor receptor beta [Source:HGNC Symbol;Acc:HGNC:8804]	BASAL GANGLIA CALCIFICATION IDIOPATHIC 4
+PDGFRB	platelet derived growth factor receptor beta [Source:HGNC Symbol;Acc:HGNC:8804]	Kosaki overgrowth syndrome
+PDGFRB	platelet derived growth factor receptor beta [Source:HGNC Symbol;Acc:HGNC:8804]	MYELOPROLIFERATIVE DISORDER CHRONIC WITH EOSINOPHILIA
+PDGFRB	platelet derived growth factor receptor beta [Source:HGNC Symbol;Acc:HGNC:8804]	MYOFIBROMATOSIS INFANTILE 1
+PDGFRB	platelet derived growth factor receptor beta [Source:HGNC Symbol;Acc:HGNC:8804]	PREMATURE AGING SYNDROME PENTTINEN TYPE
+PDGFRB	platelet derived growth factor receptor beta [Source:HGNC Symbol;Acc:HGNC:8804]	Familial Infantile Myofibromatosis
+PDGFRL	platelet derived growth factor receptor like [Source:HGNC Symbol;Acc:HGNC:8805]	HEPATOCELLULAR CARCINOMA
+PEAR1	platelet endothelial aggregation receptor 1 [Source:HGNC Symbol;Acc:HGNC:33631]	
+PECR	peroxisomal trans-2-enoyl-CoA reductase [Source:HGNC Symbol;Acc:HGNC:18281]	Autosomal Recessive Mental Retardation
+PENK	proenkephalin [Source:HGNC Symbol;Acc:HGNC:8831]	
+PHF1	PHD finger protein 1 [Source:HGNC Symbol;Acc:HGNC:8919]	
+PHF21A	PHD finger protein 21A [Source:HGNC Symbol;Acc:HGNC:24156]	Potocki-Shaffer syndrome
+PHF7	PHD finger protein 7 [Source:HGNC Symbol;Acc:HGNC:18458]	
+PHKB	phosphorylase kinase regulatory subunit beta [Source:HGNC Symbol;Acc:HGNC:8927]	Glycogen storage disease due to liver and muscle phosphorylase kinase deficiency
+PHKB	phosphorylase kinase regulatory subunit beta [Source:HGNC Symbol;Acc:HGNC:8927]	GLYCOGEN STORAGE DISEASE IXb
+PIGP	phosphatidylinositol glycan anchor biosynthesis class P [Source:HGNC Symbol;Acc:HGNC:3046]	
+PIK3C3	phosphatidylinositol 3-kinase catalytic subunit type 3 [Source:HGNC Symbol;Acc:HGNC:8974]	
+PIK3R2	phosphoinositide-3-kinase regulatory subunit 2 [Source:HGNC Symbol;Acc:HGNC:8980]	Megalencephaly-polymicrogyria-postaxial polydactyly-hydrocephalus syndrome
+PIK3R2	phosphoinositide-3-kinase regulatory subunit 2 [Source:HGNC Symbol;Acc:HGNC:8980]	MEGALENCEPHALY-POLYMICROGYRIA-POLYDACTYLY-HYDROCEPHALUS SYNDROME 1
+PIK3R5	phosphoinositide-3-kinase regulatory subunit 5 [Source:HGNC Symbol;Acc:HGNC:30035]	Spinocerebellar ataxia with axonal neuropathy type 2
+PIK3R5	phosphoinositide-3-kinase regulatory subunit 5 [Source:HGNC Symbol;Acc:HGNC:30035]	Ataxia-oculomotor apraxia 3
+PKDREJ	polycystin (PKD) family receptor for egg jelly [Source:HGNC Symbol;Acc:HGNC:9015]	
+PKN3	protein kinase N3 [Source:HGNC Symbol;Acc:HGNC:17999]	
+PLA1A	phospholipase A1 member A [Source:HGNC Symbol;Acc:HGNC:17661]	
+PLAA	phospholipase A2 activating protein [Source:HGNC Symbol;Acc:HGNC:9043]	
+PLAG1	PLAG1 zinc finger [Source:HGNC Symbol;Acc:HGNC:9045]	Pleomorphic salivary gland adenoma
+PLAG1	PLAG1 zinc finger [Source:HGNC Symbol;Acc:HGNC:9045]	SALIVARY GLAND ADENOMA PLEOMORPHIC
+PLAUR	plasminogen activator, urokinase receptor [Source:HGNC Symbol;Acc:HGNC:9053]	
+PLCB3	phospholipase C beta 3 [Source:HGNC Symbol;Acc:HGNC:9056]	
+PLCG1	phospholipase C gamma 1 [Source:HGNC Symbol;Acc:HGNC:9065]	
+PLEKHA8	pleckstrin homology domain containing A8 [Source:HGNC Symbol;Acc:HGNC:30037]	
+PLEKHB2	pleckstrin homology domain containing B2 [Source:HGNC Symbol;Acc:HGNC:19236]	
+PLEKHG4B	pleckstrin homology and RhoGEF domain containing G4B [Source:HGNC Symbol;Acc:HGNC:29399]	
+PLEKHH3	pleckstrin homology, MyTH4 and FERM domain containing H3 [Source:HGNC Symbol;Acc:HGNC:26105]	
+PLEKHM3	pleckstrin homology domain containing M3 [Source:HGNC Symbol;Acc:HGNC:34006]	
+PLEKHN1	pleckstrin homology domain containing N1 [Source:HGNC Symbol;Acc:HGNC:25284]	
+PLIN4	perilipin 4 [Source:HGNC Symbol;Acc:HGNC:29393]	
+PLIN5	perilipin 5 [Source:HGNC Symbol;Acc:HGNC:33196]	
+PLK4	polo like kinase 4 [Source:HGNC Symbol;Acc:HGNC:11397]	Seckel syndrome
+PLK4	polo like kinase 4 [Source:HGNC Symbol;Acc:HGNC:11397]	Microcephaly and chorioretinopathy autosomal recessive 2
+PLK4	polo like kinase 4 [Source:HGNC Symbol;Acc:HGNC:11397]	Microcephaly growth failure and retinopathy
+PLK4	polo like kinase 4 [Source:HGNC Symbol;Acc:HGNC:11397]	centriole replication
+PLK4	polo like kinase 4 [Source:HGNC Symbol;Acc:HGNC:11397]	positive regulation of centriole replication
+PLOD1	procollagen-lysine,2-oxoglutarate 5-dioxygenase 1 [Source:HGNC Symbol;Acc:HGNC:9081]	Ehlers-Danlos syndrome kyphoscoliotic type
+PLOD1	procollagen-lysine,2-oxoglutarate 5-dioxygenase 1 [Source:HGNC Symbol;Acc:HGNC:9081]	EHLERS-DANLOS SYNDROME TYPE VI
+PLOD1	procollagen-lysine,2-oxoglutarate 5-dioxygenase 1 [Source:HGNC Symbol;Acc:HGNC:9081]	Ehlers-Danlos Syndrome Kyphoscoliotic Form
+PLRG1	pleiotropic regulator 1 [Source:HGNC Symbol;Acc:HGNC:9089]	
+PLS3	plastin 3 [Source:HGNC Symbol;Acc:HGNC:9091]	X-linked osteoporosis with fractures
+PLS3	plastin 3 [Source:HGNC Symbol;Acc:HGNC:9091]	BONE MINERAL DENSITY QUANTITATIVE TRAIT LOCUS 18
+PMS2	PMS1 homolog 2, mismatch repair system component [Source:HGNC Symbol;Acc:HGNC:9122]	Constitutional mismatch repair deficiency syndrome
+PMS2	PMS1 homolog 2, mismatch repair system component [Source:HGNC Symbol;Acc:HGNC:9122]	Lynch syndrome
+PMS2	PMS1 homolog 2, mismatch repair system component [Source:HGNC Symbol;Acc:HGNC:9122]	COLORECTAL CANCER HEREDITARY NONPOLYPOSIS TYPE 4
+PMS2	PMS1 homolog 2, mismatch repair system component [Source:HGNC Symbol;Acc:HGNC:9122]	MISMATCH REPAIR CANCER SYNDROME
+PNP	purine nucleoside phosphorylase [Source:HGNC Symbol;Acc:HGNC:7892]	PURINE NUCLEOSIDE PHOSPHORYLASE DEFICIENCY
+PNPLA2	patatin like phospholipase domain containing 2 [Source:HGNC Symbol;Acc:HGNC:30802]	Neutral lipid storage myopathy
+PNPLA2	patatin like phospholipase domain containing 2 [Source:HGNC Symbol;Acc:HGNC:30802]	NEUTRAL LIPID STORAGE DISEASE WITH MYOPATHY
+PNPLA6	patatin like phospholipase domain containing 6 [Source:HGNC Symbol;Acc:HGNC:16268]	Ataxia-hypogonadism-choroidal dystrophy syndrome
+PNPLA6	patatin like phospholipase domain containing 6 [Source:HGNC Symbol;Acc:HGNC:16268]	Autosomal recessive spastic paraplegia type 39
+PNPLA6	patatin like phospholipase domain containing 6 [Source:HGNC Symbol;Acc:HGNC:16268]	Cerebellar ataxia-hypogonadism syndrome
+PNPLA6	patatin like phospholipase domain containing 6 [Source:HGNC Symbol;Acc:HGNC:16268]	Laurence-Moon syndrome
+PNPLA6	patatin like phospholipase domain containing 6 [Source:HGNC Symbol;Acc:HGNC:16268]	Trichomegaly-retina pigmentary degeneration-dwarfism syndrome
+PNPLA6	patatin like phospholipase domain containing 6 [Source:HGNC Symbol;Acc:HGNC:16268]	Boucher Neuhauser syndrome
+PNPLA6	patatin like phospholipase domain containing 6 [Source:HGNC Symbol;Acc:HGNC:16268]	OLIVER-MCFARLANE SYNDROME
+PNPLA6	patatin like phospholipase domain containing 6 [Source:HGNC Symbol;Acc:HGNC:16268]	SPASTIC PARAPLEGIA 39 AUTOSOMAL RECESSIVE
+PNRC1	proline rich nuclear receptor coactivator 1 [Source:HGNC Symbol;Acc:HGNC:17278]	
+POC5	POC5 centriolar protein [Source:HGNC Symbol;Acc:HGNC:26658]	
+POLR2H	RNA polymerase II subunit H [Source:HGNC Symbol;Acc:HGNC:9195]	
+POLR3B	RNA polymerase III subunit B [Source:HGNC Symbol;Acc:HGNC:30348]	Hypomyelination-hypogonadotropic-hypogonadism-hypodontia syndrome
+POLR3B	RNA polymerase III subunit B [Source:HGNC Symbol;Acc:HGNC:30348]	Leukodystrophy hypomyelinating 7 with or without oligodontia and/or hypogonadotropic hypogonadism
+POLR3B	RNA polymerase III subunit B [Source:HGNC Symbol;Acc:HGNC:30348]	LEUKODYSTROPHY HYPOMYELINATING 8 WITH OR WITHOUT OLIGODONTIA AND/OR HYPOGONADOTROPIC HYPOGONADISM
+POLR3B	RNA polymerase III subunit B [Source:HGNC Symbol;Acc:HGNC:30348]	Autosomal Recessive Mental Retardation
+PPBP	pro-platelet basic protein [Source:HGNC Symbol;Acc:HGNC:9240]	
+PPM1E	protein phosphatase, Mg2+/Mn2+ dependent 1E [Source:HGNC Symbol;Acc:HGNC:19322]	
+PPM1H	protein phosphatase, Mg2+/Mn2+ dependent 1H [Source:HGNC Symbol;Acc:HGNC:18583]	
+PPM1N	protein phosphatase, Mg2+/Mn2+ dependent 1N (putative) [Source:HGNC Symbol;Acc:HGNC:26845]	
+PPP1R12B	protein phosphatase 1 regulatory subunit 12B [Source:HGNC Symbol;Acc:HGNC:7619]	
+PPP1R18	protein phosphatase 1 regulatory subunit 18 [Source:HGNC Symbol;Acc:HGNC:29413]	
+PPP1R3D	protein phosphatase 1 regulatory subunit 3D [Source:HGNC Symbol;Acc:HGNC:9294]	
+PPP1R3G	protein phosphatase 1 regulatory subunit 3G [Source:HGNC Symbol;Acc:HGNC:14945]	
+PPP4C	protein phosphatase 4 catalytic subunit [Source:HGNC Symbol;Acc:HGNC:9319]	
+PPWD1	peptidylprolyl isomerase domain and WD repeat containing 1 [Source:HGNC Symbol;Acc:HGNC:28954]	
+PRELP	proline and arginine rich end leucine rich repeat protein [Source:HGNC Symbol;Acc:HGNC:9357]	
+PRICKLE3	prickle planar cell polarity protein 3 [Source:HGNC Symbol;Acc:HGNC:6645]	
+PRICKLE4	prickle planar cell polarity protein 4 [Source:HGNC Symbol;Acc:HGNC:16805]	
+PRKAA1	protein kinase AMP-activated catalytic subunit alpha 1 [Source:HGNC Symbol;Acc:HGNC:9376]	
+PRKD2	protein kinase D2 [Source:HGNC Symbol;Acc:HGNC:17293]	
+PRKX	protein kinase, X-linked [Source:HGNC Symbol;Acc:HGNC:9441]	
+PRLHR	prolactin releasing hormone receptor [Source:HGNC Symbol;Acc:HGNC:4464]	
+PRMT6	protein arginine methyltransferase 6 [Source:HGNC Symbol;Acc:HGNC:18241]	
+PROC	protein C, inactivator of coagulation factors Va and VIIIa [Source:HGNC Symbol;Acc:HGNC:9451]	Hereditary thrombophilia due to congenital protein C deficiency
+PROC	protein C, inactivator of coagulation factors Va and VIIIa [Source:HGNC Symbol;Acc:HGNC:9451]	THROMBOPHILIA DUE TO PROTEIN C DEFICIENCY AUTOSOMAL DOMINANT
+PROC	protein C, inactivator of coagulation factors Va and VIIIa [Source:HGNC Symbol;Acc:HGNC:9451]	THROMBOPHILIA DUE TO PROTEIN C DEFICIENCY AUTOSOMAL RECESSIVE
+PROC	protein C, inactivator of coagulation factors Va and VIIIa [Source:HGNC Symbol;Acc:HGNC:9451]	canonical Wnt signaling pathway involved in negative regulation of apoptotic process
+PROC	protein C, inactivator of coagulation factors Va and VIIIa [Source:HGNC Symbol;Acc:HGNC:9451]	negative regulation of coagulation
+PROC	protein C, inactivator of coagulation factors Va and VIIIa [Source:HGNC Symbol;Acc:HGNC:9451]	negative regulation of inflammatory response
+PROC	protein C, inactivator of coagulation factors Va and VIIIa [Source:HGNC Symbol;Acc:HGNC:9451]	positive regulation of establishment of endothelial barrier
+PROC	protein C, inactivator of coagulation factors Va and VIIIa [Source:HGNC Symbol;Acc:HGNC:9451]	positive regulation of serine-type endopeptidase activity
+PROSER2	proline and serine rich 2 [Source:HGNC Symbol;Acc:HGNC:23728]	
+PRR19	proline rich 19 [Source:HGNC Symbol;Acc:HGNC:33728]	
+PRUNE2	prune homolog 2 [Source:HGNC Symbol;Acc:HGNC:25209]	
+PRX	periaxin [Source:HGNC Symbol;Acc:HGNC:13797]	CHARCOT-MARIE-TOOTH DISEASE TYPE 4F
+PRX	periaxin [Source:HGNC Symbol;Acc:HGNC:13797]	Dejerine-Sottas syndrome
+PRX	periaxin [Source:HGNC Symbol;Acc:HGNC:13797]	CHARCOT-MARIE-TOOTH DISEASE DEMYELINATING TYPE 4F
+PRX	periaxin [Source:HGNC Symbol;Acc:HGNC:13797]	HYPERTROPHIC NEUROPATHY OF DEJERINE-SOTTAS
+PSMB2	proteasome subunit beta 2 [Source:HGNC Symbol;Acc:HGNC:9539]	
+PSPN	persephin [Source:HGNC Symbol;Acc:HGNC:9579]	
+PTBP1	polypyrimidine tract binding protein 1 [Source:HGNC Symbol;Acc:HGNC:9583]	
+PTCD2	pentatricopeptide repeat domain 2 [Source:HGNC Symbol;Acc:HGNC:25734]	
+PTCD3	pentatricopeptide repeat domain 3 [Source:HGNC Symbol;Acc:HGNC:24717]	
+PTH1R	parathyroid hormone 1 receptor [Source:HGNC Symbol;Acc:HGNC:9608]	Blomstrand lethal chondrodysplasia
+PTH1R	parathyroid hormone 1 receptor [Source:HGNC Symbol;Acc:HGNC:9608]	EIKEN SYNDROME
+PTH1R	parathyroid hormone 1 receptor [Source:HGNC Symbol;Acc:HGNC:9608]	Enchondromatosis
+PTH1R	parathyroid hormone 1 receptor [Source:HGNC Symbol;Acc:HGNC:9608]	Metaphyseal chondrodysplasia Jansen type
+PTH1R	parathyroid hormone 1 receptor [Source:HGNC Symbol;Acc:HGNC:9608]	primary failure of tooth eruption (PFE)
+PTH1R	parathyroid hormone 1 receptor [Source:HGNC Symbol;Acc:HGNC:9608]	CHONDRODYSPLASIA BLOMSTRAND TYPE
+PTH1R	parathyroid hormone 1 receptor [Source:HGNC Symbol;Acc:HGNC:9608]	Eiken skeletal dysplasia
+PTH1R	parathyroid hormone 1 receptor [Source:HGNC Symbol;Acc:HGNC:9608]	Jansen metaphyseal chondrodysplasia (JMC)
+PTH1R	parathyroid hormone 1 receptor [Source:HGNC Symbol;Acc:HGNC:9608]	integral component of plasma membrane
+PTOV1	prostate tumor overexpressed 1 [Source:HGNC Symbol;Acc:HGNC:9632]	
+PUS3	pseudouridylate synthase 3 [Source:HGNC Symbol;Acc:HGNC:25461]	Mental retardation autosomal recessive 55
+PWP1	PWP1 homolog, endonuclein [Source:HGNC Symbol;Acc:HGNC:17015]	
+PXDC1	PX domain containing 1 [Source:HGNC Symbol;Acc:HGNC:21361]	
+PYGO2	pygopus family PHD finger 2 [Source:HGNC Symbol;Acc:HGNC:30257]	
+PYROXD1	pyridine nucleotide-disulphide oxidoreductase domain 1 [Source:HGNC Symbol;Acc:HGNC:26162]	
+PZP	PZP, alpha-2-macroglobulin like [Source:HGNC Symbol;Acc:HGNC:9750]	
+RAB24	RAB24, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9765]	
+RAB3B	RAB3B, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9778]	
+RAB3IL1	RAB3A interacting protein like 1 [Source:HGNC Symbol;Acc:HGNC:9780]	
+RAB40A	RAB40A, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:18283]	
+RAD18	RAD18, E3 ubiquitin protein ligase [Source:HGNC Symbol;Acc:HGNC:18278]	
+RAMP1	receptor activity modifying protein 1 [Source:HGNC Symbol;Acc:HGNC:9843]	
+RAMP3	receptor activity modifying protein 3 [Source:HGNC Symbol;Acc:HGNC:9845]	negative regulation of transcription DNA-templated
+RARS2	arginyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:21406]	Pontocerebellar hypoplasia type 1
+RARS2	arginyl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:21406]	PONTOCEREBELLAR HYPOPLASIA TYPE 6
+RASA4	RAS p21 protein activator 4 [Source:HGNC Symbol;Acc:HGNC:23181]	
+RASGRF1	Ras protein specific guanine nucleotide releasing factor 1 [Source:HGNC Symbol;Acc:HGNC:9875]	
+RAX2	retina and anterior neural fold homeobox 2 [Source:HGNC Symbol;Acc:HGNC:18286]	Cone-rod dystrophy
+RAX2	retina and anterior neural fold homeobox 2 [Source:HGNC Symbol;Acc:HGNC:18286]	CONE-ROD DYSTROPHY 11
+RAX2	retina and anterior neural fold homeobox 2 [Source:HGNC Symbol;Acc:HGNC:18286]	MACULAR DEGENERATION AGE-RELATED 6
+RAX2	retina and anterior neural fold homeobox 2 [Source:HGNC Symbol;Acc:HGNC:18286]	SPINAL MUSCULAR ATROPHY DISTAL AUTOSOMAL RECESSIVE 2 (1 family)
+RBBP4	RB binding protein 4, chromatin remodeling factor [Source:HGNC Symbol;Acc:HGNC:9887]	
+RBBP9	RB binding protein 9, serine hydrolase [Source:HGNC Symbol;Acc:HGNC:9892]	
+RBM25	RNA binding motif protein 25 [Source:HGNC Symbol;Acc:HGNC:23244]	
+RBM3	RNA binding motif (RNP1, RRM) protein 3 [Source:HGNC Symbol;Acc:HGNC:9900]	
+RBM45	RNA binding motif protein 45 [Source:HGNC Symbol;Acc:HGNC:24468]	
+RBMX	RNA binding motif protein, X-linked [Source:HGNC Symbol;Acc:HGNC:9910]	MENTAL RETARDATION X-LINKED SYNDROMIC 11
+RCAN3	RCAN family member 3 [Source:HGNC Symbol;Acc:HGNC:3042]	
+RCC1	regulator of chromosome condensation 1 [Source:HGNC Symbol;Acc:HGNC:1913]	
+RCE1	Ras converting CAAX endopeptidase 1 [Source:HGNC Symbol;Acc:HGNC:13721]	
+RCN3	reticulocalbin 3 [Source:HGNC Symbol;Acc:HGNC:21145]	
+RCOR3	REST corepressor 3 [Source:HGNC Symbol;Acc:HGNC:25594]	
+RELA	RELA proto-oncogene, NF-kB subunit [Source:HGNC Symbol;Acc:HGNC:9955]	Ependymoma
+REP15	RAB15 effector protein [Source:HGNC Symbol;Acc:HGNC:33748]	negative regulation of receptor recycling
+REPS1	RALBP1 associated Eps domain containing 1 [Source:HGNC Symbol;Acc:HGNC:15578]	
+RFC3	replication factor C subunit 3 [Source:HGNC Symbol;Acc:HGNC:9971]	
+RFNG	RFNG O-fucosylpeptide 3-beta-N-acetylglucosaminyltransferase [Source:HGNC Symbol;Acc:HGNC:9974]	
+RFX1	regulatory factor X1 [Source:HGNC Symbol;Acc:HGNC:9982]	
+RFX2	regulatory factor X2 [Source:HGNC Symbol;Acc:HGNC:9983]	
+RGL2	ral guanine nucleotide dissociation stimulator like 2 [Source:HGNC Symbol;Acc:HGNC:9769]	
+RGL3	ral guanine nucleotide dissociation stimulator like 3 [Source:HGNC Symbol;Acc:HGNC:30282]	
+RGS8	regulator of G-protein signaling 8 [Source:HGNC Symbol;Acc:HGNC:16810]	
+RHBDF1	rhomboid 5 homolog 1 [Source:HGNC Symbol;Acc:HGNC:20561]	
+RHBDF2	rhomboid 5 homolog 2 [Source:HGNC Symbol;Acc:HGNC:20788]	Palmoplantar keratoderma-esophageal carcinoma syndrome
+RHBDF2	rhomboid 5 homolog 2 [Source:HGNC Symbol;Acc:HGNC:20788]	TYLOSIS WITH ESOPHAGEAL CANCER
+RHBG	Rh family B glycoprotein (gene/pseudogene) [Source:HGNC Symbol;Acc:HGNC:14572]	anchored component of plasma membrane
+RHBG	Rh family B glycoprotein (gene/pseudogene) [Source:HGNC Symbol;Acc:HGNC:14572]	spectrin-associated cytoskeleton
+RINT1	RAD50 interactor 1 [Source:HGNC Symbol;Acc:HGNC:21876]	
+RLF	rearranged L-myc fusion [Source:HGNC Symbol;Acc:HGNC:10025]	
+RNASET2	ribonuclease T2 [Source:HGNC Symbol;Acc:HGNC:21686]	Cystic leukoencephalopathy without megalencephaly
+RNASET2	ribonuclease T2 [Source:HGNC Symbol;Acc:HGNC:21686]	LEUKOENCEPHALOPATHY CYSTIC WITHOUT MEGALENCEPHALY
+RNF150	ring finger protein 150 [Source:HGNC Symbol;Acc:HGNC:23138]	
+RNF166	ring finger protein 166 [Source:HGNC Symbol;Acc:HGNC:28856]	
+ROBO1	roundabout guidance receptor 1 [Source:HGNC Symbol;Acc:HGNC:10249]	
+RPE65	RPE65, retinoid isomerohydrolase [Source:HGNC Symbol;Acc:HGNC:10294]	Leber congenital amaurosis
+RPE65	RPE65, retinoid isomerohydrolase [Source:HGNC Symbol;Acc:HGNC:10294]	Retinitis pigmentosa
+RPE65	RPE65, retinoid isomerohydrolase [Source:HGNC Symbol;Acc:HGNC:10294]	Severe early-childhood-onset retinal dystrophy
+RPE65	RPE65, retinoid isomerohydrolase [Source:HGNC Symbol;Acc:HGNC:10294]	Leber congenital amaurosis 2
+RPE65	RPE65, retinoid isomerohydrolase [Source:HGNC Symbol;Acc:HGNC:10294]	RETINITIS PIGMENTOSA 20
+RPE65	RPE65, retinoid isomerohydrolase [Source:HGNC Symbol;Acc:HGNC:10294]	detection of light stimulus involved in visual perception
+RPE65	RPE65, retinoid isomerohydrolase [Source:HGNC Symbol;Acc:HGNC:10294]	retina homeostasis
+RRAD	RRAD, Ras related glycolysis inhibitor and calcium channel regulator [Source:HGNC Symbol;Acc:HGNC:10446]	
+RSAD1	radical S-adenosyl methionine domain containing 1 [Source:HGNC Symbol;Acc:HGNC:25634]	
+RSPRY1	ring finger and SPRY domain containing 1 [Source:HGNC Symbol;Acc:HGNC:29420]	Progressive spondyloepimetaphyseal dysplasia-short stature-short fourth metatarsals-intellectual disability syndrome
+RSPRY1	ring finger and SPRY domain containing 1 [Source:HGNC Symbol;Acc:HGNC:29420]	Spondyloepimetaphyseal dysplasia Faden-Alkuraya type
+RSPRY1	ring finger and SPRY domain containing 1 [Source:HGNC Symbol;Acc:HGNC:29420]	PROGRESSIVE SPONDYLOEPIMETAPHYSEAL DYSPLASIA
+RTP4	receptor transporter protein 4 [Source:HGNC Symbol;Acc:HGNC:23992]	
+RTTN	rotatin [Source:HGNC Symbol;Acc:HGNC:18654]	Bilateral generalized polymicrogyria
+RTTN	rotatin [Source:HGNC Symbol;Acc:HGNC:18654]	MICROCEPHALY SHORT STATURE AND POLYMICROGYRIA WITH OR WITHOUT SEIZURES
+RTTN	rotatin [Source:HGNC Symbol;Acc:HGNC:18654]	Bilateral diffuse polymicrogyria
+RUFY1	RUN and FYVE domain containing 1 [Source:HGNC Symbol;Acc:HGNC:19760]	
+RUFY2	RUN and FYVE domain containing 2 [Source:HGNC Symbol;Acc:HGNC:19761]	
+RXFP3	relaxin/insulin like family peptide receptor 3 [Source:HGNC Symbol;Acc:HGNC:24883]	positive regulation of cytokinesis
+S100A12	S100 calcium binding protein A12 [Source:HGNC Symbol;Acc:HGNC:10489]	
+S100A7	S100 calcium binding protein A7 [Source:HGNC Symbol;Acc:HGNC:10497]	
+SAFB2	scaffold attachment factor B2 [Source:HGNC Symbol;Acc:HGNC:21605]	
+SALL3	spalt like transcription factor 3 [Source:HGNC Symbol;Acc:HGNC:10527]	
+SAMD1	sterile alpha motif domain containing 1 [Source:HGNC Symbol;Acc:HGNC:17958]	
+SAMD13	sterile alpha motif domain containing 13 [Source:HGNC Symbol;Acc:HGNC:24582]	
+SASH1	SAM and SH3 domain containing 1 [Source:HGNC Symbol;Acc:HGNC:19182]	Familial generalized lentiginosis
+SASH1	SAM and SH3 domain containing 1 [Source:HGNC Symbol;Acc:HGNC:19182]	Pigmentation defects-palmoplantar keratoderma-skin carcinoma syndrome
+SBNO2	strawberry notch homolog 2 [Source:HGNC Symbol;Acc:HGNC:29158]	
+SC5D	sterol-C5-desaturase [Source:HGNC Symbol;Acc:HGNC:10547]	LATHOSTEROLOSIS
+SCAF8	SR-related CTD associated factor 8 [Source:HGNC Symbol;Acc:HGNC:20959]	
+SCFD2	sec1 family domain containing 2 [Source:HGNC Symbol;Acc:HGNC:30676]	
+SCLT1	sodium channel and clathrin linker 1 [Source:HGNC Symbol;Acc:HGNC:26406]	
+SCN11A	sodium voltage-gated channel alpha subunit 11 [Source:HGNC Symbol;Acc:HGNC:10583]	Channelopathy-associated congenital insensitivity to pain
+SCN11A	sodium voltage-gated channel alpha subunit 11 [Source:HGNC Symbol;Acc:HGNC:10583]	Familial episodic pain syndrome with predominantly lower limb involvement
+SCN11A	sodium voltage-gated channel alpha subunit 11 [Source:HGNC Symbol;Acc:HGNC:10583]	Hereditary sensory and autonomic neuropathy type 7
+SCN11A	sodium voltage-gated channel alpha subunit 11 [Source:HGNC Symbol;Acc:HGNC:10583]	PAROXYSMAL EXTREME PAIN DISORDER
+SCN11A	sodium voltage-gated channel alpha subunit 11 [Source:HGNC Symbol;Acc:HGNC:10583]	Primary erythermalgia
+SCN11A	sodium voltage-gated channel alpha subunit 11 [Source:HGNC Symbol;Acc:HGNC:10583]	Sodium channelopathy-related small fiber neuropathy
+SCN11A	sodium voltage-gated channel alpha subunit 11 [Source:HGNC Symbol;Acc:HGNC:10583]	Episodic pain syndrome familial 3
+SCN11A	sodium voltage-gated channel alpha subunit 11 [Source:HGNC Symbol;Acc:HGNC:10583]	NEUROPATHY HEREDITARY SENSORY AND AUTONOMIC TYPE VII
+SCN11A	sodium voltage-gated channel alpha subunit 11 [Source:HGNC Symbol;Acc:HGNC:10583]	congenital inability to experience pain
+SCN8A	sodium voltage-gated channel alpha subunit 8 [Source:HGNC Symbol;Acc:HGNC:10596]	Benign Familial Infantile Epilepsy and Infantile Convulsions with Choreoathetosis Syndrome
+SCN8A	sodium voltage-gated channel alpha subunit 8 [Source:HGNC Symbol;Acc:HGNC:10596]	Infantile convulsions and choreoathetosis
+SCN8A	sodium voltage-gated channel alpha subunit 8 [Source:HGNC Symbol;Acc:HGNC:10596]	Undetermined early-onset epileptic encephalopathy
+SCN8A	sodium voltage-gated channel alpha subunit 8 [Source:HGNC Symbol;Acc:HGNC:10596]	Cognitive impairment with or without cerebellar ataxia
+SCN8A	sodium voltage-gated channel alpha subunit 8 [Source:HGNC Symbol;Acc:HGNC:10596]	Epileptic encephalopathy early infantile 13
+SCN8A	sodium voltage-gated channel alpha subunit 8 [Source:HGNC Symbol;Acc:HGNC:10596]	voltage-gated sodium channel activity
+SCO2	SCO2, cytochrome c oxidase assembly protein [Source:HGNC Symbol;Acc:HGNC:10604]	Fatal infantile cytochrome C oxidase deficiency
+SCO2	SCO2, cytochrome c oxidase assembly protein [Source:HGNC Symbol;Acc:HGNC:10604]	Leigh syndrome with cardiomyopathy
+SCO2	SCO2, cytochrome c oxidase assembly protein [Source:HGNC Symbol;Acc:HGNC:10604]	Rare isolated myopia
+SCO2	SCO2, cytochrome c oxidase assembly protein [Source:HGNC Symbol;Acc:HGNC:10604]	CARDIOENCEPHALOMYOPATHY FATAL INFANTILE DUE TO CYTOCHROME c OXIDASEDEFICIENCY 1
+SCO2	SCO2, cytochrome c oxidase assembly protein [Source:HGNC Symbol;Acc:HGNC:10604]	Myopia 6
+SCO2	SCO2, cytochrome c oxidase assembly protein [Source:HGNC Symbol;Acc:HGNC:10604]	Fatal Infantile Cardioencephalomyopathy due to Cytochrome c Oxidase Deficiency
+SCRN3	secernin 3 [Source:HGNC Symbol;Acc:HGNC:30382]	
+SCT	secretin [Source:HGNC Symbol;Acc:HGNC:10607]	
+SCYL3	SCY1 like pseudokinase 3 [Source:HGNC Symbol;Acc:HGNC:19285]	
+SDCCAG3	serologically defined colon cancer antigen 3 [Source:HGNC Symbol;Acc:HGNC:10667]	
+SEMA3F	semaphorin 3F [Source:HGNC Symbol;Acc:HGNC:10728]	
+SEMA5A	semaphorin 5A [Source:HGNC Symbol;Acc:HGNC:10736]	Monosomy 5p
+SEMA6D	semaphorin 6D [Source:HGNC Symbol;Acc:HGNC:16770]	
+SENP6	SUMO1/sentrin specific peptidase 6 [Source:HGNC Symbol;Acc:HGNC:20944]	SUMO-specific protease activity
+SENP6	SUMO1/sentrin specific peptidase 6 [Source:HGNC Symbol;Acc:HGNC:20944]	protein desumoylation
+SENP6	SUMO1/sentrin specific peptidase 6 [Source:HGNC Symbol;Acc:HGNC:20944]	regulation of kinetochore assembly
+SENP6	SUMO1/sentrin specific peptidase 6 [Source:HGNC Symbol;Acc:HGNC:20944]	regulation of spindle assembly
+SERPINC1	serpin family C member 1 [Source:HGNC Symbol;Acc:HGNC:775]	Hereditary thrombophilia due to congenital antithrombin deficiency
+SERPINC1	serpin family C member 1 [Source:HGNC Symbol;Acc:HGNC:775]	Antithrombin III deficiency
+SERPINE3	serpin family E member 3 [Source:HGNC Symbol;Acc:HGNC:24774]	
+SERPINF2	serpin family F member 2 [Source:HGNC Symbol;Acc:HGNC:9075]	Congenital alpha2 antiplasmin deficiency
+SERPINF2	serpin family F member 2 [Source:HGNC Symbol;Acc:HGNC:9075]	
+SERPINH1	serpin family H member 1 [Source:HGNC Symbol;Acc:HGNC:1546]	Osteogenesis imperfecta type 3
+SERPINH1	serpin family H member 1 [Source:HGNC Symbol;Acc:HGNC:1546]	OSTEOGENESIS IMPERFECTA TYPE X
+SERPINH1	serpin family H member 1 [Source:HGNC Symbol;Acc:HGNC:1546]	PRETERM PREMATURE RUPTURE OF THE MEMBRANES
+SERTAD1	SERTA domain containing 1 [Source:HGNC Symbol;Acc:HGNC:17932]	
+SERTAD4	SERTA domain containing 4 [Source:HGNC Symbol;Acc:HGNC:25236]	
+SESN2	sestrin 2 [Source:HGNC Symbol;Acc:HGNC:20746]	
+SESTD1	SEC14 and spectrin domain containing 1 [Source:HGNC Symbol;Acc:HGNC:18379]	
+SFPQ	splicing factor proline and glutamine rich [Source:HGNC Symbol;Acc:HGNC:10774]	Translocation renal cell carcinoma
+SFTPA2	surfactant protein A2 [Source:HGNC Symbol;Acc:HGNC:10799]	Idiopathic pulmonary fibrosis
+SFTPA2	surfactant protein A2 [Source:HGNC Symbol;Acc:HGNC:10799]	PULMONARY FIBROSIS IDIOPATHIC
+SFXN2	sideroflexin 2 [Source:HGNC Symbol;Acc:HGNC:16086]	
+SH2D6	SH2 domain containing 6 [Source:HGNC Symbol;Acc:HGNC:30439]	
+SH3TC1	SH3 domain and tetratricopeptide repeats 1 [Source:HGNC Symbol;Acc:HGNC:26009]	
+SHC3	SHC adaptor protein 3 [Source:HGNC Symbol;Acc:HGNC:18181]	
+SHISA3	shisa family member 3 [Source:HGNC Symbol;Acc:HGNC:25159]	
+SIGLEC8	sialic acid binding Ig like lectin 8 [Source:HGNC Symbol;Acc:HGNC:10877]	
+SIPA1	signal-induced proliferation-associated 1 [Source:HGNC Symbol;Acc:HGNC:10885]	
+SIRT4	sirtuin 4 [Source:HGNC Symbol;Acc:HGNC:14932]	negative regulation of fatty acid oxidation
+SIRT4	sirtuin 4 [Source:HGNC Symbol;Acc:HGNC:14932]	negative regulation of insulin secretion
+SIRT7	sirtuin 7 [Source:HGNC Symbol;Acc:HGNC:14935]	
+SIX1	SIX homeobox 1 [Source:HGNC Symbol;Acc:HGNC:10887]	Autosomal dominant nonsyndromic sensorineural deafness type DFNA
+SIX1	SIX homeobox 1 [Source:HGNC Symbol;Acc:HGNC:10887]	BOR syndrome
+SIX1	SIX homeobox 1 [Source:HGNC Symbol;Acc:HGNC:10887]	Branchio-otic syndrome
+SIX1	SIX homeobox 1 [Source:HGNC Symbol;Acc:HGNC:10887]	BRANCHIOOTIC SYNDROME 3
+SIX1	SIX homeobox 1 [Source:HGNC Symbol;Acc:HGNC:10887]	BRANCHIOOTORENAL SYNDROME 1
+SIX1	SIX homeobox 1 [Source:HGNC Symbol;Acc:HGNC:10887]	DEAFNESS AUTOSOMAL DOMINANT 23
+SIX1	SIX homeobox 1 [Source:HGNC Symbol;Acc:HGNC:10887]	branchiootic syndrome type 3 (BOS3)
+SIX1	SIX homeobox 1 [Source:HGNC Symbol;Acc:HGNC:10887]	deafness autosomal dominant type 23 (DFNA23)
+SIX1	SIX homeobox 1 [Source:HGNC Symbol;Acc:HGNC:10887]	RNA polymerase II core promoter proximal region sequence-specific DNA binding
+SIX1	SIX homeobox 1 [Source:HGNC Symbol;Acc:HGNC:10887]	positive regulation of transcription from RNA polymerase II promoter
+SIX1	SIX homeobox 1 [Source:HGNC Symbol;Acc:HGNC:10887]	transcriptional activator activity RNA polymerase II core promoter proximal region sequence-specific binding
+SIX2	SIX homeobox 2 [Source:HGNC Symbol;Acc:HGNC:10888]	
+SIX4	SIX homeobox 4 [Source:HGNC Symbol;Acc:HGNC:10890]	
+SIX5	SIX homeobox 5 [Source:HGNC Symbol;Acc:HGNC:10891]	BOR syndrome
+SIX5	SIX homeobox 5 [Source:HGNC Symbol;Acc:HGNC:10891]	BRANCHIOOTORENAL SYNDROME 2
+SIX5	SIX homeobox 5 [Source:HGNC Symbol;Acc:HGNC:10891]	branchiootorenal syndrome type 2
+SLC11A1	solute carrier family 11 member 1 [Source:HGNC Symbol;Acc:HGNC:10907]	Tuberculosis
+SLC11A1	solute carrier family 11 member 1 [Source:HGNC Symbol;Acc:HGNC:10907]	BURULI ULCER SUSCEPTIBILITY TO
+SLC11A1	solute carrier family 11 member 1 [Source:HGNC Symbol;Acc:HGNC:10907]	MYCOBACTERIUM TUBERCULOSIS SUSCEPTIBILITY TO MYCOBACTERIUM TUBERCULOSIS PROTECTION AGAINST INCLUDED
+SLC11A1	solute carrier family 11 member 1 [Source:HGNC Symbol;Acc:HGNC:10907]	cellular iron ion homeostasis
+SLC11A1	solute carrier family 11 member 1 [Source:HGNC Symbol;Acc:HGNC:10907]	iron ion transport
+SLC11A1	solute carrier family 11 member 1 [Source:HGNC Symbol;Acc:HGNC:10907]	regulation of plasma membrane raft polarization
+SLC12A7	solute carrier family 12 member 7 [Source:HGNC Symbol;Acc:HGNC:10915]	
+SLC16A12	solute carrier family 16 member 12 [Source:HGNC Symbol;Acc:HGNC:23094]	Juvenile cataract-microcornea-renal glucosuria syndrome
+SLC16A12	solute carrier family 16 member 12 [Source:HGNC Symbol;Acc:HGNC:23094]	CATARACT 47 JUVENILE WITH MICROCORNEA (1 family)
+SLC17A9	solute carrier family 17 member 9 [Source:HGNC Symbol;Acc:HGNC:16192]	Disseminated superficial actinic porokeratosis
+SLC17A9	solute carrier family 17 member 9 [Source:HGNC Symbol;Acc:HGNC:16192]	POROKERATOSIS 8 DISSEMINATED SUPERFICIAL ACTINIC TYPE
+SLC17A9	solute carrier family 17 member 9 [Source:HGNC Symbol;Acc:HGNC:16192]	positive regulation of protein targeting to mitochondrion
+SLC17A9	solute carrier family 17 member 9 [Source:HGNC Symbol;Acc:HGNC:16192]	positive regulation of mitophagy
+SLC19A3	solute carrier family 19 member 3 [Source:HGNC Symbol;Acc:HGNC:16266]	Biotin-responsive basal ganglia disease
+SLC19A3	solute carrier family 19 member 3 [Source:HGNC Symbol;Acc:HGNC:16266]	Infantile spams-psychomotor retardation-progressive brain atrophy-basal ganglia disease syndrome
+SLC19A3	solute carrier family 19 member 3 [Source:HGNC Symbol;Acc:HGNC:16266]	Leigh syndrome with leukodystrophy
+SLC19A3	solute carrier family 19 member 3 [Source:HGNC Symbol;Acc:HGNC:16266]	Thiamine-responsive encephalopathy
+SLC19A3	solute carrier family 19 member 3 [Source:HGNC Symbol;Acc:HGNC:16266]	THIAMINE METABOLISM DYSFUNCTION SYNDROME 2 (BIOTIN- OR THIAMINE-RESPONSIVE TYPE)
+SLC1A7	solute carrier family 1 member 7 [Source:HGNC Symbol;Acc:HGNC:10945]	
+SLC20A2	solute carrier family 20 member 2 [Source:HGNC Symbol;Acc:HGNC:10947]	Bilateral striopallidodentate calcinosis
+SLC20A2	solute carrier family 20 member 2 [Source:HGNC Symbol;Acc:HGNC:10947]	BASAL GANGLIA CALCIFICATION IDIOPATHIC 1
+SLC22A2	solute carrier family 22 member 2 [Source:HGNC Symbol;Acc:HGNC:10966]	
+SLC22A31	solute carrier family 22 member 31 [Source:HGNC Symbol;Acc:HGNC:27091]	
+SLC24A1	solute carrier family 24 member 1 [Source:HGNC Symbol;Acc:HGNC:10975]	Congenital stationary night blindness
+SLC24A1	solute carrier family 24 member 1 [Source:HGNC Symbol;Acc:HGNC:10975]	Night blindness congenital stationary type 1D
+SLC25A41	solute carrier family 25 member 41 [Source:HGNC Symbol;Acc:HGNC:28533]	
+SLC25A42	solute carrier family 25 member 42 [Source:HGNC Symbol;Acc:HGNC:28380]	
+SLC25A48	solute carrier family 25 member 48 [Source:HGNC Symbol;Acc:HGNC:30451]	
+SLC26A6	solute carrier family 26 member 6 [Source:HGNC Symbol;Acc:HGNC:14472]	
+SLC30A9	solute carrier family 30 member 9 [Source:HGNC Symbol;Acc:HGNC:1329]	
+SLC35D3	solute carrier family 35 member D3 [Source:HGNC Symbol;Acc:HGNC:15621]	
+SLC35E3	solute carrier family 35 member E3 [Source:HGNC Symbol;Acc:HGNC:20864]	
+SLC38A2	solute carrier family 38 member 2 [Source:HGNC Symbol;Acc:HGNC:13448]	
+SLC39A9	solute carrier family 39 member 9 [Source:HGNC Symbol;Acc:HGNC:20182]	
+SLC3A2	solute carrier family 3 member 2 [Source:HGNC Symbol;Acc:HGNC:11026]	
+SLC43A3	solute carrier family 43 member 3 [Source:HGNC Symbol;Acc:HGNC:17466]	
+SLC4A11	solute carrier family 4 member 11 [Source:HGNC Symbol;Acc:HGNC:16438]	Congenital hereditary endothelial dystrophy type II
+SLC4A11	solute carrier family 4 member 11 [Source:HGNC Symbol;Acc:HGNC:16438]	Corneal dystrophy-perceptive deafness syndrome
+SLC4A11	solute carrier family 4 member 11 [Source:HGNC Symbol;Acc:HGNC:16438]	Fuchs endothelial corneal dystrophy
+SLC4A11	solute carrier family 4 member 11 [Source:HGNC Symbol;Acc:HGNC:16438]	Corneal dystrophy fuchs endothelial 4
+SLC4A8	solute carrier family 4 member 8 [Source:HGNC Symbol;Acc:HGNC:11034]	
+SLC52A3	solute carrier family 52 member 3 [Source:HGNC Symbol;Acc:HGNC:16187]	Riboflavin transporter deficiency
+SLC52A3	solute carrier family 52 member 3 [Source:HGNC Symbol;Acc:HGNC:16187]	BROWN-VIALETTO-VAN LAERE SYNDROME 1
+SLC52A3	solute carrier family 52 member 3 [Source:HGNC Symbol;Acc:HGNC:16187]	FAZIO-LONDE DISEASE
+SLC52A3	solute carrier family 52 member 3 [Source:HGNC Symbol;Acc:HGNC:16187]	Brown-Vialetto-Van laere syndrome
+SLC52A3	solute carrier family 52 member 3 [Source:HGNC Symbol;Acc:HGNC:16187]	detection of mechanical stimulus involved in sensory perception of sound
+SLC5A3	solute carrier family 5 member 3 [Source:HGNC Symbol;Acc:HGNC:11038]	
+SLC5A7	solute carrier family 5 member 7 [Source:HGNC Symbol;Acc:HGNC:14025]	Distal hereditary motor neuropathy type 7
+SLC5A7	solute carrier family 5 member 7 [Source:HGNC Symbol;Acc:HGNC:14025]	MYASTHENIC SYNDROME CONGENITAL 20 PRESYNAPTIC
+SLC5A7	solute carrier family 5 member 7 [Source:HGNC Symbol;Acc:HGNC:14025]	NEURONOPATHY DISTAL HEREDITARY MOTOR TYPE VIIA
+SLC5A7	solute carrier family 5 member 7 [Source:HGNC Symbol;Acc:HGNC:14025]	acetylcholine biosynthetic process
+SLC5A7	solute carrier family 5 member 7 [Source:HGNC Symbol;Acc:HGNC:14025]	choline transmembrane transporter activity
+SLC5A7	solute carrier family 5 member 7 [Source:HGNC Symbol;Acc:HGNC:14025]	choline:sodium symporter activity
+SLC6A12	solute carrier family 6 member 12 [Source:HGNC Symbol;Acc:HGNC:11045]	
+SLC6A13	solute carrier family 6 member 13 [Source:HGNC Symbol;Acc:HGNC:11046]	
+SLC7A14	solute carrier family 7 member 14 [Source:HGNC Symbol;Acc:HGNC:29326]	Retinitis pigmentosa
+SLC7A14	solute carrier family 7 member 14 [Source:HGNC Symbol;Acc:HGNC:29326]	RETINITIS PIGMENTOSA 68
+SLC7A2	solute carrier family 7 member 2 [Source:HGNC Symbol;Acc:HGNC:11060]	
+SLC7A5	solute carrier family 7 member 5 [Source:HGNC Symbol;Acc:HGNC:11063]	
+SLC7A9	solute carrier family 7 member 9 [Source:HGNC Symbol;Acc:HGNC:11067]	Cystinuria type B
+SLC7A9	solute carrier family 7 member 9 [Source:HGNC Symbol;Acc:HGNC:11067]	CYSTINURIA
+SLC7A9	solute carrier family 7 member 9 [Source:HGNC Symbol;Acc:HGNC:11067]	L-cystine transmembrane transporter activity
+SLC7A9	solute carrier family 7 member 9 [Source:HGNC Symbol;Acc:HGNC:11067]	L-cystine transport
+SLC7A9	solute carrier family 7 member 9 [Source:HGNC Symbol;Acc:HGNC:11067]	neutral amino acid transmembrane transporter activity
+SLC7A9	solute carrier family 7 member 9 [Source:HGNC Symbol;Acc:HGNC:11067]	neutral amino acid transport
+SLC9A7	solute carrier family 9 member A7 [Source:HGNC Symbol;Acc:HGNC:17123]	
+SLCO4A1	solute carrier organic anion transporter family member 4A1 [Source:HGNC Symbol;Acc:HGNC:10953]	
+SLFN5	schlafen family member 5 [Source:HGNC Symbol;Acc:HGNC:28286]	
+SLFNL1	schlafen like 1 [Source:HGNC Symbol;Acc:HGNC:26313]	
+SLPI	secretory leukocyte peptidase inhibitor [Source:HGNC Symbol;Acc:HGNC:11092]	
+SMARCD3	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 3 [Source:HGNC Symbol;Acc:HGNC:11108]	
+SMCO4	single-pass membrane protein with coiled-coil domains 4 [Source:HGNC Symbol;Acc:HGNC:24810]	
+SMIM14	small integral membrane protein 14 [Source:HGNC Symbol;Acc:HGNC:27321]	
+SMO	smoothened, frizzled class receptor [Source:HGNC Symbol;Acc:HGNC:11119]	Curry-Jones Syndrome
+SMO	smoothened, frizzled class receptor [Source:HGNC Symbol;Acc:HGNC:11119]	BASAL CELL CARCINOMA SUSCEPTIBILITY TO 1
+SMOX	spermine oxidase [Source:HGNC Symbol;Acc:HGNC:15862]	
+SMTN	smoothelin [Source:HGNC Symbol;Acc:HGNC:11126]	
+SNTN	sentan, cilia apical structure protein [Source:HGNC Symbol;Acc:HGNC:33706]	
+SNX4	sorting nexin 4 [Source:HGNC Symbol;Acc:HGNC:11175]	
+SOX12	SRY-box 12 [Source:HGNC Symbol;Acc:HGNC:11198]	
+SPAG6	sperm associated antigen 6 [Source:HGNC Symbol;Acc:HGNC:11215]	
+SPATA7	spermatogenesis associated 7 [Source:HGNC Symbol;Acc:HGNC:20423]	Leber congenital amaurosis
+SPATA7	spermatogenesis associated 7 [Source:HGNC Symbol;Acc:HGNC:20423]	Retinitis pigmentosa
+SPATA7	spermatogenesis associated 7 [Source:HGNC Symbol;Acc:HGNC:20423]	Severe early-childhood-onset retinal dystrophy
+SPATA7	spermatogenesis associated 7 [Source:HGNC Symbol;Acc:HGNC:20423]	LEBER CONGENITAL AMAUROSIS 3
+SPCS1	signal peptidase complex subunit 1 [Source:HGNC Symbol;Acc:HGNC:23401]	
+SPECC1L	sperm antigen with calponin homology and coiled-coil domains 1 like [Source:HGNC Symbol;Acc:HGNC:29022]	Autosomal dominant Opitz G/BBB syndrome
+SPECC1L	sperm antigen with calponin homology and coiled-coil domains 1 like [Source:HGNC Symbol;Acc:HGNC:29022]	Commissural facial cleft
+SPECC1L	sperm antigen with calponin homology and coiled-coil domains 1 like [Source:HGNC Symbol;Acc:HGNC:29022]	Hypertelorism Teebi type
+SPECC1L	sperm antigen with calponin homology and coiled-coil domains 1 like [Source:HGNC Symbol;Acc:HGNC:29022]	Tessier number 4 facial cleft
+SPECC1L	sperm antigen with calponin homology and coiled-coil domains 1 like [Source:HGNC Symbol;Acc:HGNC:29022]	FACIAL CLEFTING OBLIQUE 1 (1 patient)
+SPECC1L	sperm antigen with calponin homology and coiled-coil domains 1 like [Source:HGNC Symbol;Acc:HGNC:29022]	OPITZ GBBB SYNDROME TYPE II
+SPG11	spastic paraplegia 11 (autosomal recessive) [Source:HGNC Symbol;Acc:HGNC:11226]	Autosomal recessive spastic paraplegia type 11
+SPG11	spastic paraplegia 11 (autosomal recessive) [Source:HGNC Symbol;Acc:HGNC:11226]	Juvenile amyotrophic lateral sclerosis
+SPG11	spastic paraplegia 11 (autosomal recessive) [Source:HGNC Symbol;Acc:HGNC:11226]	CHARCOT-MARIE-TOOTH DISEASE AXONAL TYPE 2X
+SPG11	spastic paraplegia 11 (autosomal recessive) [Source:HGNC Symbol;Acc:HGNC:11226]	SPASTIC PARAPLEGIA 11 AUTOSOMAL RECESSIVE
+SPG11	spastic paraplegia 11 (autosomal recessive) [Source:HGNC Symbol;Acc:HGNC:11226]	Spastic paraplegia-11
+SPINK8	serine peptidase inhibitor, Kazal type 8 (putative) [Source:HGNC Symbol;Acc:HGNC:33160]	
+SPR	sepiapterin reductase (7,8-dihydrobiopterin:NADP+ oxidoreductase) [Source:HGNC Symbol;Acc:HGNC:11257]	Dopa-responsive dystonia due to sepiapterin reductase deficiency
+SPR	sepiapterin reductase (7,8-dihydrobiopterin:NADP+ oxidoreductase) [Source:HGNC Symbol;Acc:HGNC:11257]	DYSTONIA DOPA-RESPONSIVE DUE TO SEPIAPTERIN REDUCTASE DEFICIENCY
+SPRTN	SprT-like N-terminal domain [Source:HGNC Symbol;Acc:HGNC:25356]	Progeroid features-hepatocellular carcinoma predisposition syndrome
+SPRTN	SprT-like N-terminal domain [Source:HGNC Symbol;Acc:HGNC:25356]	RUIJS-AALFS SYNDROME
+SPRTN	SprT-like N-terminal domain [Source:HGNC Symbol;Acc:HGNC:25356]	XFE PROGEROID SYNDROME
+SRBD1	S1 RNA binding domain 1 [Source:HGNC Symbol;Acc:HGNC:25521]	
+SST	somatostatin [Source:HGNC Symbol;Acc:HGNC:11329]	
+SSU72	SSU72 homolog, RNA polymerase II CTD phosphatase [Source:HGNC Symbol;Acc:HGNC:25016]	
+STAC	SH3 and cysteine rich domain [Source:HGNC Symbol;Acc:HGNC:11353]	
+STAM	signal transducing adaptor molecule [Source:HGNC Symbol;Acc:HGNC:11357]	
+STARD10	StAR related lipid transfer domain containing 10 [Source:HGNC Symbol;Acc:HGNC:10666]	
+STARD6	StAR related lipid transfer domain containing 6 [Source:HGNC Symbol;Acc:HGNC:18066]	
+STC2	stanniocalcin 2 [Source:HGNC Symbol;Acc:HGNC:11374]	
+STIP1	stress induced phosphoprotein 1 [Source:HGNC Symbol;Acc:HGNC:11387]	
+STK31	serine/threonine kinase 31 [Source:HGNC Symbol;Acc:HGNC:11407]	
+STK38	serine/threonine kinase 38 [Source:HGNC Symbol;Acc:HGNC:17847]	
+STRN	striatin [Source:HGNC Symbol;Acc:HGNC:11424]	
+STX17	syntaxin 17 [Source:HGNC Symbol;Acc:HGNC:11432]	
+STXBP2	syntaxin binding protein 2 [Source:HGNC Symbol;Acc:HGNC:11445]	Familial hemophagocytic lymphohistiocytosis
+STXBP2	syntaxin binding protein 2 [Source:HGNC Symbol;Acc:HGNC:11445]	HEMOPHAGOCYTIC LYMPHOHISTIOCYTOSIS FAMILIAL 5
+SUPT7L	SPT7-like STAGA complex gamma subunit [Source:HGNC Symbol;Acc:HGNC:30632]	
+SV2C	synaptic vesicle glycoprotein 2C [Source:HGNC Symbol;Acc:HGNC:30670]	
+SYDE1	synapse defective Rho GTPase homolog 1 [Source:HGNC Symbol;Acc:HGNC:25824]	
+SYNDIG1L	synapse differentiation inducing 1 like [Source:HGNC Symbol;Acc:HGNC:32388]	
+SYS1-DBNDD2	SYS1-DBNDD2 readthrough (NMD candidate) [Source:HGNC Symbol;Acc:HGNC:33535]	
+SYT11	synaptotagmin 11 [Source:HGNC Symbol;Acc:HGNC:19239]	
+SYTL4	synaptotagmin like 4 [Source:HGNC Symbol;Acc:HGNC:15588]	ubiquitin-independent protein catabolic process via the multivesicular body sorting pathway
+SYTL4	synaptotagmin like 4 [Source:HGNC Symbol;Acc:HGNC:15588]	positive regulation of exocytosis
+SYTL4	synaptotagmin like 4 [Source:HGNC Symbol;Acc:HGNC:15588]	positive regulation of protein secretion
+TAB3	TGF-beta activated kinase 1/MAP3K7 binding protein 3 [Source:HGNC Symbol;Acc:HGNC:30681]	
+TAC1	tachykinin precursor 1 [Source:HGNC Symbol;Acc:HGNC:11517]	
+TAL1	TAL bHLH transcription factor 1, erythroid differentiation factor [Source:HGNC Symbol;Acc:HGNC:11556]	Precursor T-cell acute lymphoblastic leukemia
+TAL1	TAL bHLH transcription factor 1, erythroid differentiation factor [Source:HGNC Symbol;Acc:HGNC:11556]	Leukemia acute lymphoblastic 3
+TAL1	TAL bHLH transcription factor 1, erythroid differentiation factor [Source:HGNC Symbol;Acc:HGNC:11556]	erythrocyte differentiation
+TAL1	TAL bHLH transcription factor 1, erythroid differentiation factor [Source:HGNC Symbol;Acc:HGNC:11556]	positive regulation of cell division
+TAL1	TAL bHLH transcription factor 1, erythroid differentiation factor [Source:HGNC Symbol;Acc:HGNC:11556]	positive regulation of chromatin assembly or disassembly
+TAL1	TAL bHLH transcription factor 1, erythroid differentiation factor [Source:HGNC Symbol;Acc:HGNC:11556]	positive regulation of mitotic cell cycle
+TARBP1	TAR (HIV-1) RNA binding protein 1 [Source:HGNC Symbol;Acc:HGNC:11568]	
+TATDN3	TatD DNase domain containing 3 [Source:HGNC Symbol;Acc:HGNC:27010]	
+TBCEL	tubulin folding cofactor E like [Source:HGNC Symbol;Acc:HGNC:28115]	
+TBX15	T-box 15 [Source:HGNC Symbol;Acc:HGNC:11594]	Pelviscapular dysplasia
+TBX15	T-box 15 [Source:HGNC Symbol;Acc:HGNC:11594]	COUSIN SYNDROME
+TBX15	T-box 15 [Source:HGNC Symbol;Acc:HGNC:11594]	Cousin Syndrome; Craniofacial Dysmorphism Hypoplasia of Scapula and Pelvis and Short Stature
+TBX6	T-box 6 [Source:HGNC Symbol;Acc:HGNC:11605]	Autosomal dominant spondylocostal dysostosis
+TBX6	T-box 6 [Source:HGNC Symbol;Acc:HGNC:11605]	Spondylocostal dysostosis 5
+TCAP	titin-cap [Source:HGNC Symbol;Acc:HGNC:11610]	Autosomal recessive limb-girdle muscular dystrophy type 2G
+TCAP	titin-cap [Source:HGNC Symbol;Acc:HGNC:11610]	Familial isolated dilated cardiomyopathy
+TCAP	titin-cap [Source:HGNC Symbol;Acc:HGNC:11610]	CARDIOMYOPATHY FAMILIAL HYPERTROPHIC 25
+TCAP	titin-cap [Source:HGNC Symbol;Acc:HGNC:11610]	MUSCULAR DYSTROPHY LIMB-GIRDLE TYPE 2G
+TCAP	titin-cap [Source:HGNC Symbol;Acc:HGNC:11610]	adult heart development
+TCAP	titin-cap [Source:HGNC Symbol;Acc:HGNC:11610]	cardiac muscle contraction
+TCAP	titin-cap [Source:HGNC Symbol;Acc:HGNC:11610]	cardiac muscle fiber development
+TCAP	titin-cap [Source:HGNC Symbol;Acc:HGNC:11610]	cardiac muscle hypertrophy
+TCAP	titin-cap [Source:HGNC Symbol;Acc:HGNC:11610]	cardiac muscle hypertrophy in response to stress
+TCAP	titin-cap [Source:HGNC Symbol;Acc:HGNC:11610]	atrial cardiac muscle tissue morphogenesis
+TCAP	titin-cap [Source:HGNC Symbol;Acc:HGNC:11610]	cardiac myofibril assembly
+TCAP	titin-cap [Source:HGNC Symbol;Acc:HGNC:11610]	detection of muscle stretch
+TCAP	titin-cap [Source:HGNC Symbol;Acc:HGNC:11610]	negative regulation of sarcomere organization
+TCAP	titin-cap [Source:HGNC Symbol;Acc:HGNC:11610]	sarcomerogenesis
+TCAP	titin-cap [Source:HGNC Symbol;Acc:HGNC:11610]	skeletal muscle myosin thick filament assembly
+TCAP	titin-cap [Source:HGNC Symbol;Acc:HGNC:11610]	skeletal muscle thin filament assembly
+TCAP	titin-cap [Source:HGNC Symbol;Acc:HGNC:11610]	structural constituent of muscle
+TCERG1	transcription elongation regulator 1 [Source:HGNC Symbol;Acc:HGNC:15630]	
+TCF15	transcription factor 15 (basic helix-loop-helix) [Source:HGNC Symbol;Acc:HGNC:11627]	
+TCF7L1	transcription factor 7 like 1 [Source:HGNC Symbol;Acc:HGNC:11640]	
+TCIRG1	T-cell immune regulator 1, ATPase H+ transporting V0 subunit a3 [Source:HGNC Symbol;Acc:HGNC:11647]	Autosomal dominant severe congenital neutropenia
+TCIRG1	T-cell immune regulator 1, ATPase H+ transporting V0 subunit a3 [Source:HGNC Symbol;Acc:HGNC:11647]	Autosomal recessive malignant osteopetrosis
+TCIRG1	T-cell immune regulator 1, ATPase H+ transporting V0 subunit a3 [Source:HGNC Symbol;Acc:HGNC:11647]	OSTEOPETROSIS AUTOSOMAL RECESSIVE 1
+TCP11	t-complex 11 [Source:HGNC Symbol;Acc:HGNC:11658]	
+TCP11L1	t-complex 11 like 1 [Source:HGNC Symbol;Acc:HGNC:25655]	
+TDP1	tyrosyl-DNA phosphodiesterase 1 [Source:HGNC Symbol;Acc:HGNC:18884]	Spinocerebellar ataxia type 1 with axonal neuropathy
+TDP1	tyrosyl-DNA phosphodiesterase 1 [Source:HGNC Symbol;Acc:HGNC:18884]	SPINOCEREBELLAR ATAXIA AUTOSOMAL RECESSIVE WITH AXONAL NEUROPATHY;
+TEAD2	TEA domain transcription factor 2 [Source:HGNC Symbol;Acc:HGNC:11715]	
+TECTA	tectorin alpha [Source:HGNC Symbol;Acc:HGNC:11720]	Autosomal dominant nonsyndromic sensorineural deafness type DFNA
+TECTA	tectorin alpha [Source:HGNC Symbol;Acc:HGNC:11720]	Autosomal recessive nonsyndromic sensorineural deafness type DFNB
+TECTA	tectorin alpha [Source:HGNC Symbol;Acc:HGNC:11720]	DEAFNESS AUTOSOMAL DOMINANT 12
+TECTA	tectorin alpha [Source:HGNC Symbol;Acc:HGNC:11720]	DEAFNESS AUTOSOMAL RECESSIVE 21
+TECTA	tectorin alpha [Source:HGNC Symbol;Acc:HGNC:11720]	Deafness autosomal dominant type 12
+TFAP2C	transcription factor AP-2 gamma [Source:HGNC Symbol;Acc:HGNC:11744]	
+TFCP2	transcription factor CP2 [Source:HGNC Symbol;Acc:HGNC:11748]	
+TFIP11	tuftelin interacting protein 11 [Source:HGNC Symbol;Acc:HGNC:17165]	
+TG	thyroglobulin [Source:HGNC Symbol;Acc:HGNC:11764]	Familial thyroid dyshormonogenesis
+TG	thyroglobulin [Source:HGNC Symbol;Acc:HGNC:11764]	AUTOIMMUNE THYROID DISEASE SUSCEPTIBILITY TO 3
+TG	thyroglobulin [Source:HGNC Symbol;Acc:HGNC:11764]	THYROID DYSHORMONOGENESIS 3
+TGFB1	transforming growth factor beta 1 [Source:HGNC Symbol;Acc:HGNC:11766]	CAMURATI-ENGELMANN DISEASE
+TGFB1	transforming growth factor beta 1 [Source:HGNC Symbol;Acc:HGNC:11766]	CYSTIC FIBROSIS
+TGIF1	TGFB induced factor homeobox 1 [Source:HGNC Symbol;Acc:HGNC:11776]	Alobar holoprosencephaly
+TGIF1	TGFB induced factor homeobox 1 [Source:HGNC Symbol;Acc:HGNC:11776]	Lobar holoprosencephaly
+TGIF1	TGFB induced factor homeobox 1 [Source:HGNC Symbol;Acc:HGNC:11776]	Microform holoprosencephaly
+TGIF1	TGFB induced factor homeobox 1 [Source:HGNC Symbol;Acc:HGNC:11776]	Midline interhemispheric variant of holoprosencephaly
+TGIF1	TGFB induced factor homeobox 1 [Source:HGNC Symbol;Acc:HGNC:11776]	Semilobar holoprosencephaly
+TGIF1	TGFB induced factor homeobox 1 [Source:HGNC Symbol;Acc:HGNC:11776]	Septopreoptic holoprosencephaly
+TGIF1	TGFB induced factor homeobox 1 [Source:HGNC Symbol;Acc:HGNC:11776]	HOLOPROSENCEPHALY 4
+TGIF1	TGFB induced factor homeobox 1 [Source:HGNC Symbol;Acc:HGNC:11776]	Holoprosencephaly
+TGIF1	TGFB induced factor homeobox 1 [Source:HGNC Symbol;Acc:HGNC:11776]	negative regulation of transcription from RNA polymerase II promoter in response to UV-induced DNA damage
+TGIF1	TGFB induced factor homeobox 1 [Source:HGNC Symbol;Acc:HGNC:11776]	transcriptional repressor activity RNA polymerase II core promoter proximal region sequence-specific binding
+THAP4	THAP domain containing 4 [Source:HGNC Symbol;Acc:HGNC:23187]	
+TIMM10B	translocase of inner mitochondrial membrane 10B [Source:HGNC Symbol;Acc:HGNC:4022]	
+TJP3	tight junction protein 3 [Source:HGNC Symbol;Acc:HGNC:11829]	
+TLE1	transducin like enhancer of split 1 [Source:HGNC Symbol;Acc:HGNC:11837]	
+TLE3	transducin like enhancer of split 3 [Source:HGNC Symbol;Acc:HGNC:11839]	
+TLR5	toll like receptor 5 [Source:HGNC Symbol;Acc:HGNC:11851]	LEGIONNAIRE DISEASE SUSCEPTIBILITY TO
+TLR5	toll like receptor 5 [Source:HGNC Symbol;Acc:HGNC:11851]	MELIOIDOSIS SUSCEPTIBILITY TOMELIOIDOSIS RESISTANCE TO INCLUDED
+TLR5	toll like receptor 5 [Source:HGNC Symbol;Acc:HGNC:11851]	SYSTEMIC LUPUS ERYTHEMATOSUS SUSCEPTIBILITY TO 10
+TMC8	transmembrane channel like 8 [Source:HGNC Symbol;Acc:HGNC:20474]	EPIDERMODYSPLASIA VERRUCIFORMIS
+TMED4	transmembrane p24 trafficking protein 4 [Source:HGNC Symbol;Acc:HGNC:22301]	
+TMEFF1	transmembrane protein with EGF like and two follistatin like domains 1 [Source:HGNC Symbol;Acc:HGNC:11866]	
+TMEM100	transmembrane protein 100 [Source:HGNC Symbol;Acc:HGNC:25607]	
+TMEM128	transmembrane protein 128 [Source:HGNC Symbol;Acc:HGNC:28201]	
+TMEM168	transmembrane protein 168 [Source:HGNC Symbol;Acc:HGNC:25826]	
+TMEM176A	transmembrane protein 176A [Source:HGNC Symbol;Acc:HGNC:24930]	
+TMEM18	transmembrane protein 18 [Source:HGNC Symbol;Acc:HGNC:25257]	
+TMEM209	transmembrane protein 209 [Source:HGNC Symbol;Acc:HGNC:21898]	
+TMEM213	transmembrane protein 213 [Source:HGNC Symbol;Acc:HGNC:27220]	
+TMEM216	transmembrane protein 216 [Source:HGNC Symbol;Acc:HGNC:25018]	Joubert syndrome with oculorenal defect
+TMEM216	transmembrane protein 216 [Source:HGNC Symbol;Acc:HGNC:25018]	Joubert syndrome with orofaciodigital defect
+TMEM216	transmembrane protein 216 [Source:HGNC Symbol;Acc:HGNC:25018]	Meckel syndrome
+TMEM216	transmembrane protein 216 [Source:HGNC Symbol;Acc:HGNC:25018]	Joubert syndrome 2
+TMEM216	transmembrane protein 216 [Source:HGNC Symbol;Acc:HGNC:25018]	MECKEL SYNDROME TYPE 2
+TMEM216	transmembrane protein 216 [Source:HGNC Symbol;Acc:HGNC:25018]	cilium assembly
+TMEM231	transmembrane protein 231 [Source:HGNC Symbol;Acc:HGNC:37234]	Joubert syndrome with oculorenal defect
+TMEM231	transmembrane protein 231 [Source:HGNC Symbol;Acc:HGNC:37234]	Meckel syndrome
+TMEM231	transmembrane protein 231 [Source:HGNC Symbol;Acc:HGNC:37234]	JOUBERT SYNDROME 1
+TMEM231	transmembrane protein 231 [Source:HGNC Symbol;Acc:HGNC:37234]	JOUBERT SYNDROME 20
+TMEM231	transmembrane protein 231 [Source:HGNC Symbol;Acc:HGNC:37234]	Meckel syndrome type 11
+TMEM71	transmembrane protein 71 [Source:HGNC Symbol;Acc:HGNC:26572]	
+TMEM81	transmembrane protein 81 [Source:HGNC Symbol;Acc:HGNC:32349]	
+TMEM91	transmembrane protein 91 [Source:HGNC Symbol;Acc:HGNC:32393]	
+TMEM92	transmembrane protein 92 [Source:HGNC Symbol;Acc:HGNC:26579]	
+TMSB4Y	thymosin beta 4, Y-linked [Source:HGNC Symbol;Acc:HGNC:11882]	
+TNFRSF10B	TNF receptor superfamily member 10b [Source:HGNC Symbol;Acc:HGNC:11905]	SQUAMOUS CELL CARCINOMA HEAD AND NECK SOMATIC
+TNFRSF10B	TNF receptor superfamily member 10b [Source:HGNC Symbol;Acc:HGNC:11905]	intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress
+TNFRSF10D	TNF receptor superfamily member 10d [Source:HGNC Symbol;Acc:HGNC:11907]	
+TNFRSF12A	TNF receptor superfamily member 12A [Source:HGNC Symbol;Acc:HGNC:18152]	
+TNFRSF1A	TNF receptor superfamily member 1A [Source:HGNC Symbol;Acc:HGNC:11916]	Intermittent hydrarthrosis
+TNFRSF1A	TNF receptor superfamily member 1A [Source:HGNC Symbol;Acc:HGNC:11916]	Tumor necrosis factor receptor 1 associated periodic syndrome
+TNFRSF1A	TNF receptor superfamily member 1A [Source:HGNC Symbol;Acc:HGNC:11916]	MULTIPLE SCLEROSIS SUSCEPTIBILITY TO 5
+TNFRSF1A	TNF receptor superfamily member 1A [Source:HGNC Symbol;Acc:HGNC:11916]	PERIODIC FEVER FAMILIAL AUTOSOMAL DOMINANT
+TNFRSF4	TNF receptor superfamily member 4 [Source:HGNC Symbol;Acc:HGNC:11918]	Combined immunodeficiency due to OX40 deficiency
+TNFRSF4	TNF receptor superfamily member 4 [Source:HGNC Symbol;Acc:HGNC:11918]	IMMUNODEFICIENCY 16
+TNFSF14	tumor necrosis factor superfamily member 14 [Source:HGNC Symbol;Acc:HGNC:11930]	
+TNIP2	TNFAIP3 interacting protein 2 [Source:HGNC Symbol;Acc:HGNC:19118]	
+TOR4A	torsin family 4 member A [Source:HGNC Symbol;Acc:HGNC:25981]	
+TPD52L1	tumor protein D52-like 1 [Source:HGNC Symbol;Acc:HGNC:12006]	
+TPH1	tryptophan hydroxylase 1 [Source:HGNC Symbol;Acc:HGNC:12008]	
+TPST2	tyrosylprotein sulfotransferase 2 [Source:HGNC Symbol;Acc:HGNC:12021]	
+TRABD	TraB domain containing [Source:HGNC Symbol;Acc:HGNC:28805]	
+TRAF2	TNF receptor associated factor 2 [Source:HGNC Symbol;Acc:HGNC:12032]	
+TRAM1L1	translocation associated membrane protein 1-like 1 [Source:HGNC Symbol;Acc:HGNC:28371]	
+TRAM2	translocation associated membrane protein 2 [Source:HGNC Symbol;Acc:HGNC:16855]	
+TRDMT1	tRNA aspartic acid methyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:2977]	
+TRIM45	tripartite motif containing 45 [Source:HGNC Symbol;Acc:HGNC:19018]	
+TRIM47	tripartite motif containing 47 [Source:HGNC Symbol;Acc:HGNC:19020]	
+TRIM72	tripartite motif containing 72 [Source:HGNC Symbol;Acc:HGNC:32671]	
+TRIM8	tripartite motif containing 8 [Source:HGNC Symbol;Acc:HGNC:15579]	
+TRIP10	thyroid hormone receptor interactor 10 [Source:HGNC Symbol;Acc:HGNC:12304]	
+TRMT11	tRNA methyltransferase 11 homolog [Source:HGNC Symbol;Acc:HGNC:21080]	
+TRPC1	transient receptor potential cation channel subfamily C member 1 [Source:HGNC Symbol;Acc:HGNC:12333]	
+TSC22D3	TSC22 domain family member 3 [Source:HGNC Symbol;Acc:HGNC:3051]	
+TSN	translin [Source:HGNC Symbol;Acc:HGNC:12379]	
+TTC13	tetratricopeptide repeat domain 13 [Source:HGNC Symbol;Acc:HGNC:26204]	
+TTC14	tetratricopeptide repeat domain 14 [Source:HGNC Symbol;Acc:HGNC:24697]	
+TTC30A	tetratricopeptide repeat domain 30A [Source:HGNC Symbol;Acc:HGNC:25853]	
+TTC38	tetratricopeptide repeat domain 38 [Source:HGNC Symbol;Acc:HGNC:26082]	
+TTF2	transcription termination factor 2 [Source:HGNC Symbol;Acc:HGNC:12398]	
+TTL	tubulin tyrosine ligase [Source:HGNC Symbol;Acc:HGNC:21586]	
+TUBA1A	tubulin alpha 1a [Source:HGNC Symbol;Acc:HGNC:20766]	Lissencephaly due to TUBA1A mutation
+TUBA1A	tubulin alpha 1a [Source:HGNC Symbol;Acc:HGNC:20766]	LISSENCEPHALY 3
+TUBA1A	tubulin alpha 1a [Source:HGNC Symbol;Acc:HGNC:20766]	Intellectual disability
+TUBA1A	tubulin alpha 1a [Source:HGNC Symbol;Acc:HGNC:20766]	lissencephaly type 3 (LIS3)
+TUBGCP5	tubulin gamma complex associated protein 5 [Source:HGNC Symbol;Acc:HGNC:18600]	
+TXLNA	taxilin alpha [Source:HGNC Symbol;Acc:HGNC:30685]	
+U2AF2	U2 small nuclear RNA auxiliary factor 2 [Source:HGNC Symbol;Acc:HGNC:23156]	
+UBAP1	ubiquitin associated protein 1 [Source:HGNC Symbol;Acc:HGNC:12461]	
+UBE2J2	ubiquitin conjugating enzyme E2 J2 [Source:HGNC Symbol;Acc:HGNC:19268]	
+UBTD1	ubiquitin domain containing 1 [Source:HGNC Symbol;Acc:HGNC:25683]	
+UCN2	urocortin 2 [Source:HGNC Symbol;Acc:HGNC:18414]	
+UGGT2	UDP-glucose glycoprotein glucosyltransferase 2 [Source:HGNC Symbol;Acc:HGNC:15664]	
+ULK2	unc-51 like autophagy activating kinase 2 [Source:HGNC Symbol;Acc:HGNC:13480]	
+UNC119	unc-119 lipid binding chaperone [Source:HGNC Symbol;Acc:HGNC:12565]	Cone-rod dystrophy
+UNC119	unc-119 lipid binding chaperone [Source:HGNC Symbol;Acc:HGNC:12565]	Idiopathic CD4 lymphocytopenia
+UNC119	unc-119 lipid binding chaperone [Source:HGNC Symbol;Acc:HGNC:12565]	Immunodeficiency 13
+UPK1A	uroplakin 1A [Source:HGNC Symbol;Acc:HGNC:12577]	
+USP13	ubiquitin specific peptidase 13 (isopeptidase T-3) [Source:HGNC Symbol;Acc:HGNC:12611]	
+USP21	ubiquitin specific peptidase 21 [Source:HGNC Symbol;Acc:HGNC:12620]	cysteine-type peptidase activity
+USP21	ubiquitin specific peptidase 21 [Source:HGNC Symbol;Acc:HGNC:12620]	thiol-dependent ubiquitin-specific protease activity
+USP9X	ubiquitin specific peptidase 9, X-linked [Source:HGNC Symbol;Acc:HGNC:12632]	X-linked non-syndromic intellectual disability
+USP9X	ubiquitin specific peptidase 9, X-linked [Source:HGNC Symbol;Acc:HGNC:12632]	Mental retardation X-linked 99
+USP9X	ubiquitin specific peptidase 9, X-linked [Source:HGNC Symbol;Acc:HGNC:12632]	MENTAL RETARDATION X-LINKED 99 SYNDROMIC FEMALE-RESTRICTED
+UTP23	UTP23, small subunit processome component [Source:HGNC Symbol;Acc:HGNC:28224]	
+UTY	ubiquitously transcribed tetratricopeptide repeat containing, Y-linked [Source:HGNC Symbol;Acc:HGNC:12638]	
+VAPB	VAMP associated protein B and C [Source:HGNC Symbol;Acc:HGNC:12649]	Adult-onset proximal spinal muscular atrophy autosomal dominant
+VAPB	VAMP associated protein B and C [Source:HGNC Symbol;Acc:HGNC:12649]	Amyotrophic lateral sclerosis
+VAPB	VAMP associated protein B and C [Source:HGNC Symbol;Acc:HGNC:12649]	AMYOTROPHIC LATERAL SCLEROSIS 8
+VAPB	VAMP associated protein B and C [Source:HGNC Symbol;Acc:HGNC:12649]	SPINAL MUSCULAR ATROPHY LATE-ONSET FINKEL TYPE
+VASP	vasodilator-stimulated phosphoprotein [Source:HGNC Symbol;Acc:HGNC:12652]	
+VAX1	ventral anterior homeobox 1 [Source:HGNC Symbol;Acc:HGNC:12660]	MICROPHTHALMIA SYNDROMIC 11
+VENTX	VENT homeobox [Source:HGNC Symbol;Acc:HGNC:13639]	
+VEZT	vezatin, adherens junctions transmembrane protein [Source:HGNC Symbol;Acc:HGNC:18258]	
+VLDLR	very low density lipoprotein receptor [Source:HGNC Symbol;Acc:HGNC:12698]	Dysequilibrium syndrome
+VLDLR	very low density lipoprotein receptor [Source:HGNC Symbol;Acc:HGNC:12698]	CEREBELLAR ATAXIA MENTAL RETARDATION AND DYSEQUILIBRIUM SYNDROME 1
+VLDLR	very low density lipoprotein receptor [Source:HGNC Symbol;Acc:HGNC:12698]	cerebellar ataxia mental retardation and dysequilibrium syndrome type 1 (CMARQ1)
+VNN2	vanin 2 [Source:HGNC Symbol;Acc:HGNC:12706]	
+VPS13B	vacuolar protein sorting 13 homolog B [Source:HGNC Symbol;Acc:HGNC:2183]	COHEN SYNDROME
+VPS37D	VPS37D, ESCRT-I subunit [Source:HGNC Symbol;Acc:HGNC:18287]	
+VPS4B	vacuolar protein sorting 4 homolog B [Source:HGNC Symbol;Acc:HGNC:10895]	
+VWA9	von Willebrand factor A domain containing 9 [Source:HGNC Symbol;Acc:HGNC:25372]	
+WBP1L	WW domain binding protein 1-like [Source:HGNC Symbol;Acc:HGNC:23510]	
+WDR44	WD repeat domain 44 [Source:HGNC Symbol;Acc:HGNC:30512]	
+WDR45	WD repeat domain 45 [Source:HGNC Symbol;Acc:HGNC:28912]	Beta-propeller protein-associated neurodegeneration
+WDR45	WD repeat domain 45 [Source:HGNC Symbol;Acc:HGNC:28912]	Neurodegeneration with brain iron accumulation 5
+WDR45	WD repeat domain 45 [Source:HGNC Symbol;Acc:HGNC:28912]	Neurodegeneration with brain iron accumulation
+WDR45	WD repeat domain 45 [Source:HGNC Symbol;Acc:HGNC:28912]	X-linked myopathy with excessive autophagy
+WDR6	WD repeat domain 6 [Source:HGNC Symbol;Acc:HGNC:12758]	
+WDR88	WD repeat domain 88 [Source:HGNC Symbol;Acc:HGNC:26999]	
+WISP1	WNT1 inducible signaling pathway protein 1 [Source:HGNC Symbol;Acc:HGNC:12769]	
+WSB1	WD repeat and SOCS box containing 1 [Source:HGNC Symbol;Acc:HGNC:19221]	
+XKR9	XK related 9 [Source:HGNC Symbol;Acc:HGNC:20937]	
+ZBTB24	zinc finger and BTB domain containing 24 [Source:HGNC Symbol;Acc:HGNC:21143]	ICF syndrome
+ZBTB24	zinc finger and BTB domain containing 24 [Source:HGNC Symbol;Acc:HGNC:21143]	IMMUNODEFICIENCY-CENTROMERIC INSTABILITY-FACIAL ANOMALIES SYNDROME 2
+ZC3H12A	zinc finger CCCH-type containing 12A [Source:HGNC Symbol;Acc:HGNC:26259]	
+ZC3H13	zinc finger CCCH-type containing 13 [Source:HGNC Symbol;Acc:HGNC:20368]	
+ZDHHC18	zinc finger DHHC-type containing 18 [Source:HGNC Symbol;Acc:HGNC:20712]	
+ZDHHC7	zinc finger DHHC-type containing 7 [Source:HGNC Symbol;Acc:HGNC:18459]	
+ZFP2	ZFP2 zinc finger protein [Source:HGNC Symbol;Acc:HGNC:26138]	
+ZFYVE16	zinc finger FYVE-type containing 16 [Source:HGNC Symbol;Acc:HGNC:20756]	
+ZGLP1	zinc finger, GATA-like protein 1 [Source:HGNC Symbol;Acc:HGNC:37245]	
+ZKSCAN1	zinc finger with KRAB and SCAN domains 1 [Source:HGNC Symbol;Acc:HGNC:13101]	
+ZKSCAN7	zinc finger with KRAB and SCAN domains 7 [Source:HGNC Symbol;Acc:HGNC:12955]	
+ZMYND8	zinc finger MYND-type containing 8 [Source:HGNC Symbol;Acc:HGNC:9397]	
+ZNF10	zinc finger protein 10 [Source:HGNC Symbol;Acc:HGNC:12879]	
+ZNF132	zinc finger protein 132 [Source:HGNC Symbol;Acc:HGNC:12916]	
+ZNF135	zinc finger protein 135 [Source:HGNC Symbol;Acc:HGNC:12919]	
+ZNF136	zinc finger protein 136 [Source:HGNC Symbol;Acc:HGNC:12920]	
+ZNF138	zinc finger protein 138 [Source:HGNC Symbol;Acc:HGNC:12922]	
+ZNF17	zinc finger protein 17 [Source:HGNC Symbol;Acc:HGNC:12958]	
+ZNF189	zinc finger protein 189 [Source:HGNC Symbol;Acc:HGNC:12980]	
+ZNF226	zinc finger protein 226 [Source:HGNC Symbol;Acc:HGNC:13019]	
+ZNF236	zinc finger protein 236 [Source:HGNC Symbol;Acc:HGNC:13028]	
+ZNF26	zinc finger protein 26 [Source:HGNC Symbol;Acc:HGNC:13053]	
+ZNF268	zinc finger protein 268 [Source:HGNC Symbol;Acc:HGNC:13061]	
+ZNF280D	zinc finger protein 280D [Source:HGNC Symbol;Acc:HGNC:25953]	
+ZNF311	zinc finger protein 311 [Source:HGNC Symbol;Acc:HGNC:13847]	
+ZNF334	zinc finger protein 334 [Source:HGNC Symbol;Acc:HGNC:15806]	
+ZNF358	zinc finger protein 358 [Source:HGNC Symbol;Acc:HGNC:16838]	
+ZNF382	zinc finger protein 382 [Source:HGNC Symbol;Acc:HGNC:17409]	
+ZNF395	zinc finger protein 395 [Source:HGNC Symbol;Acc:HGNC:18737]	
+ZNF396	zinc finger protein 396 [Source:HGNC Symbol;Acc:HGNC:18824]	
+ZNF418	zinc finger protein 418 [Source:HGNC Symbol;Acc:HGNC:20647]	
+ZNF43	zinc finger protein 43 [Source:HGNC Symbol;Acc:HGNC:13109]	
+ZNF441	zinc finger protein 441 [Source:HGNC Symbol;Acc:HGNC:20875]	
+ZNF449	zinc finger protein 449 [Source:HGNC Symbol;Acc:HGNC:21039]	
+ZNF483	zinc finger protein 483 [Source:HGNC Symbol;Acc:HGNC:23384]	
+ZNF484	zinc finger protein 484 [Source:HGNC Symbol;Acc:HGNC:23385]	
+ZNF511	zinc finger protein 511 [Source:HGNC Symbol;Acc:HGNC:28445]	
+ZNF529	zinc finger protein 529 [Source:HGNC Symbol;Acc:HGNC:29328]	
+ZNF581	zinc finger protein 581 [Source:HGNC Symbol;Acc:HGNC:25017]	
+ZNF583	zinc finger protein 583 [Source:HGNC Symbol;Acc:HGNC:26427]	
+ZNF587	zinc finger protein 587 [Source:HGNC Symbol;Acc:HGNC:30955]	
+ZNF596	zinc finger protein 596 [Source:HGNC Symbol;Acc:HGNC:27268]	
+ZNF597	zinc finger protein 597 [Source:HGNC Symbol;Acc:HGNC:26573]	
+ZNF675	zinc finger protein 675 [Source:HGNC Symbol;Acc:HGNC:30768]	
+ZNF717	zinc finger protein 717 [Source:HGNC Symbol;Acc:HGNC:29448]	
+ZNF737	zinc finger protein 737 [Source:HGNC Symbol;Acc:HGNC:32468]	
+ZNF768	zinc finger protein 768 [Source:HGNC Symbol;Acc:HGNC:26273]	
+ZNF778	zinc finger protein 778 [Source:HGNC Symbol;Acc:HGNC:26479]	
+ZNF782	zinc finger protein 782 [Source:HGNC Symbol;Acc:HGNC:33110]	
+ZNF787	zinc finger protein 787 [Source:HGNC Symbol;Acc:HGNC:26998]	
+ZNF891	zinc finger protein 891 [Source:HGNC Symbol;Acc:HGNC:38709]	
+ZRANB3	zinc finger RANBP2-type containing 3 [Source:HGNC Symbol;Acc:HGNC:25249]	
+ZSWIM2	zinc finger SWIM-type containing 2 [Source:HGNC Symbol;Acc:HGNC:30990]	
