@@ -6,16 +6,17 @@ This repository contains codes that are/were written from my 1st to my 20th day 
 
 ### Analyses and Reports
 Analyses were perfomed in Python and R, depend on the necessities. The final products are in (`.ipynb` extension) jupyter notebook files because this allows me to explain the analyses clearer. All of the analyses can be found in the `~/src` folder and the `.html`/`.pdf` files can be found in the `~/report` folder.
+- [ ] Heatmaps of Normalized Counts
 - [x] [Distribution of Log Fold Change](https://github.com/hariesramdhani/winter-internship-2017/blob/master/src/Distribution%20of%20Log%20Fold%20Change.ipynb)
 - [x] [MS3 Proteins Gene Set Enrichment Analysis](https://github.com/hariesramdhani/winter-internship-2017/blob/master/src/Proteomics%20Genes%20GO%20Enrichment%20Analysis.ipynb)
 - [x] [RNA-Seq Genes Gene Set Enrichment Analysis](https://github.com/hariesramdhani/winter-internship-2017/blob/master/src/RNA-Seq%20Genes%20GO%20Enrichment%20Analysis.ipynb)
-- [x] [msigDB Canonical Pathway Analysis Proteomics and RNA-Seq Genes](https://github.com/hariesramdhani/winter-internship-2017/blob/master/src/msigDB%20Canonical%20Pathway%20Analysis%20Proteomics%20and%20RNA-Seq%20Genes.ipynb) 
-- [ ] [Comparison between Alzheimer's and Parkinson's Disease](https://github.com/hariesramdhani/winter-internship-2017/blob/master/src/Comparison%20between%20Alzheimer's%20and%20Parkinson's%20Disease.ipynb)
-- [ ] [Volcano Plot of RNA-Seq and MS3 Proteomics Data](https://github.com/hariesramdhani/winter-internship-2017/blob/master/src/%20Volcano%20Plot%20of%20RNA-Seq%20and%20MS3%20Proteomics%20Data.ipynb)
-- [ ] [Distribution of Log Fold Changes of Huntington's Disease and Comparison to Parkinson's Disease](https://github.com/hariesramdhani/winter-internship-2017/blob/master/src/Distribution%20of%20Log%20Fold%20Change%20Huntington's%20Disease.ipynb)
-- [ ] [Gene Set Enrichment Analysis of Huntington's Disease](https://github.com/hariesramdhani/winter-internship-2017/blob/master/src/GSEA%20Huntington's%20Disease.ipynb)
+- [x] [msigDB Canonical Pathway Analysis Proteomics and RNA-Seq Genes](https://github.com/hariesramdhani/winter-internship-2017/blob/master/src/msigDB%20Canonical%20Pathway%20Analysis%20Proteomics%20and%20RNA-Seq%20Genes.ipynb)
+- [x] [Comparison between Up Regulated Genes Alzheimer's and Parkinson's Disease](https://github.com/hariesramdhani/winter-internship-2017/blob/master/src/Comparison%20between%20Alzheimer's%20and%20Parkinson's%20Disease.ipynb)
+- [x] [Volcano Plot of RNA-Seq and MS3 Proteomics Data](https://github.com/hariesramdhani/winter-internship-2017/blob/master/src/%20Volcano%20Plot%20of%20RNA-Seq%20and%20MS3%20Proteomics%20Data.ipynb)
+- [x] [Distribution of Log Fold Changes of Huntington's Disease and Comparison to Parkinson's Disease](https://github.com/hariesramdhani/winter-internship-2017/blob/master/src/Distribution%20of%20Log%20Fold%20Change%20Huntington's%20Disease.ipynb)
+- [x] [Gene Set Enrichment Analysis of Huntington's Disease](https://github.com/hariesramdhani/winter-internship-2017/blob/master/src/GSEA%20Huntington's%20Disease.ipynb)
 - [ ] Distribution of Log Fold Changes of Alzheimer's Disease\*\*
-- [ ] [DESeq2-like Analyzer in Python](https://github.com/hariesramdhani/winter-internship-2017/blob/master/src/DESeq2-like%20Analyzer%20in%20Python.ipynb) **(*unsuccessful*)**
+- [x] [DESeq2-like Analyzer in Python](https://github.com/hariesramdhani/winter-internship-2017/blob/master/src/DESeq2-like%20Analyzer%20in%20Python.ipynb) **(*unsuccessful*)**
 
 **Tools**
 - [x] [Quality Assessor, Table Simplifier, CSV Exporter](https://github.com/hariesramdhani/winter-internship-2017/blob/master/src/Quality%20Assessor%2C%20Table%20Simplifier%2C%20CSV%20Exporter.ipynb)
