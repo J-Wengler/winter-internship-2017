@@ -24,7 +24,7 @@ Analyses were perfomed in Python and R, depend on the necessities. The final pro
 ### Final Reports
 Final reports are reports that were written at the end of each stage, the first stage was developing the program to retrieve data sets from GEO Database while the second stage is analyzing the RNA-Seq data of Parkinson disease. Final reports are in the `.docx` (Microsoft Word 2007++) extension.
 - [x] [Stage 1: Report](https://github.com/hariesramdhani/winter-internship-2017/blob/master/report/Internship%20Report%201.pdf)
-- [ ] Stage 2: Report
+- [x] Stage 2: Report
 
 ### Daily Logs
 Daily logs contain summary of what I did each day during the internship, I usually update them every weekend since during weekdays I mostly focused on understanding new things and working on the projects.
@@ -37,19 +37,10 @@ Daily logs contain summary of what I did each day during the internship, I usual
   <br>[see more...](https://github.com/hariesramdhani/winter-internship-2017/blob/master/dailyLogs.md)</br>
 
 
-### Raw Notes
-Collections of writings that I wrote in my notebook during internships.
-
-### Staj Defteri (Internship's Notebook)
-in Turkish </tbw/>
-
 ### Data Sources
 These are the collections of data that are used for the project/analyses, majority of these data are gathered from all over the internet, mostly from big databases. The data are stored in the `~/data` folder.
 - [mRNA-Seq expression and MS3 proteomics profiling of human post-mortem BA9 brain tissue for Parkinson Disease and neurologically normal individuals](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE68719)
 - [mRNA-Seq Expression profiling of human post-mortem BA9 brain tissue for Huntington's Disease and neurologically normal individuals](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE64810)
 - TBW
-
-### References (Reading List)
-.......
 
 ######**Disclaimer: All images are mine and created by me unless stated otherwise.
