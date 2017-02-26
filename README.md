@@ -22,7 +22,7 @@ Analyses were perfomed in Python and R, depend on the necessities. The final pro
 - [x] [Quality Assessor, Table Simplifier, CSV Exporter](https://github.com/hariesramdhani/winter-internship-2017/blob/master/src/Quality%20Assessor%2C%20Table%20Simplifier%2C%20CSV%20Exporter.ipynb)
 
 ### Final Reports
-Final reports are reports that were written at the end of each stage, the first stage was developing the program to retrieve data sets from GEO Database while the second stage is analyzing the RNA-Seq data of Parkinson disease. Final reports are in the `.docx` (Microsoft Word 2007++) extension.
+Final reports are reports that were written at the end of each stage, the first stage was developing the program to retrieve data sets from GEO Database while the second stage is analyzing the RNA-Seq data of Parkinson's disease. Final reports are in the `.docx` (Microsoft Word 2007++) extension.
 - [x] [Stage 1: Report](https://github.com/hariesramdhani/winter-internship-2017/blob/master/report/Internship%20Report%201.pdf)
 - [x] Stage 2: Report
 
@@ -39,8 +39,7 @@ Daily logs contain summary of what I did each day during the internship, I usual
 
 ### Data Sources
 These are the collections of data that are used for the project/analyses, majority of these data are gathered from all over the internet, mostly from big databases. The data are stored in the `~/data` folder.
-- [mRNA-Seq expression and MS3 proteomics profiling of human post-mortem BA9 brain tissue for Parkinson Disease and neurologically normal individuals](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE68719)
+- [mRNA-Seq expression and MS3 proteomics profiling of human post-mortem BA9 brain tissue for Parkinson's Disease and neurologically normal individuals](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE68719)
 - [mRNA-Seq Expression profiling of human post-mortem BA9 brain tissue for Huntington's Disease and neurologically normal individuals](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE64810)
-- TBW
 
 ######**Disclaimer: All images are mine and created by me unless stated otherwise.
